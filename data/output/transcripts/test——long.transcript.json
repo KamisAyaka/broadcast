@@ -1,0 +1,5201 @@
+{
+  "source_file": "/Users/firefly/Desktop/agent/broadcast/data/input/video/test——long.mp4",
+  "source_type": "video",
+  "audio_path": "data/output/audio/test——long_1775296627.mp3",
+  "model": "whisper-1",
+  "duration": 3599.176471,
+  "text": "Okay, so welcome, welcome all of you to today's exclusive AMA.\nSo we will talk something about you, Karsten and John Piqui.\nSo I am Nicole, and I will be the host today.\nSo we are very excited to have you all here for the dive deep interview about how real\nworld energy infrastructure meets on-chain finance.\nSo welcome all of those audience in this AMA.\nSo today we will focus three aspects.\nSo first, we will introduce UCAR and its global EV charging and battery swapping business.\nAnd second, we will explore like why RWA matters and how UCAR is using like blockchain to reshape\nenergy infrastructure.\nAnd finally, I think we will get to understand why Piqui is a platform and behind this UCAR\nRWA lens.\nSo like recently UCAR is just like officially launched on Piqui.\nSo I think it's a great thing.\nSo I want to say like congratulations to Paul and Rebecca.\nSo I think it means marking another very important step in bringing like the real revenue generating\ninfrastructure since on-chain.\nSo I also have a quick reminder before we start, like all of those audience, you can\nlike submit your question directly in our chat at any time.\nSo we will reserve some time at the end of this AMA.\nAnd so feel free to like prepare your question and yeah, submit in the reply.\nWe will choose five questions and each of you will get like 10 UCAR token.\nYeah.\nAll right.\nI think we can just jump right in.\nSo I guess we will start with some background.\nLike we all know that UCAR operates at intersection of EV infrastructure and also energy system.\nSo Paul, the first question is like, could you walk us like UCAR's core business and\nshare some insights like about the global operation and in different engine, like what's\nthe business UCAR is doing now?\nYeah.\nThanks, Nicole.\nSo I'm Paul, project manager of UCAR's AWA.\nI'm very happy to be back here with PICRI.\nSo just to quickly introduce UCAR.\nSo UCAR is a provider of AI integrated energy solutions, connecting electric vehicles with\nadvanced energy infrastructure.\nWe are generally focused on battery swapping technology through our proprietary modular\nsystem, YotaTM, but over time we've expanded into a broader intelligent energy ecosystem.\nToday we work with over 10 major vehicle OEMs, including MG, Nexus, Hongqi, and GAC.\nOur solutions support taxis, logistic feeds, buses, trucks, and two and three-wheelers\nacross Asia, South and Europe, and Latin America.\nTech wise, we are a great value addition to EV energy infrastructure by providing the\nbattery swapping option.\nAs you know, not every country has a good electricity national grid, which is exemplified\nby the power shutdown in Southern Europe last summer, something to see.\nWe also feature AI integrated battery swapping ecosystem, which is fully prepared for the\nintegration of autonomous driving vehicles, which are gaining popularity fast.\nOur station also serves as a multifunctional energy platform, including battery swapping\nplus charging integration, energy storage, and reverse charging to supply local neighborhoods,\norder panel addition on top of the station to provide additional green energy, and algorithm\nand quantum-based central management to reduce battery maintenance costs and extend service\nlife.\nSo all of these really eliminate the wrenching anxiety for EV drivers.\nAnd as for operation or business plan for 2026, our focus will be threefold.\nSo firstly, expanding Southern Europe with, for example, you guys could already see we\nsigned a JV with Taxi Association, and travel in Portugal, through which more than 600 battery\nswapping taxis and vans will be sold, along with 15 swapping stations in the coming few\nyears.\nWe also have had logistic van partnerships with major logistic dealer in Italy, who will\nbe selling more than 200 vans and 60 buses per year, with more than 10 stations.\nAnd in Peru, we also have some agreements with the leading local taxi operator, and\nwill be selling over a few hundreds, a few dollars per year, along with the swapping\nboxes.\nSo yeah, we've got great plans ahead.\nThanks.\nThanks, Paul.\nI think your insights really give us a very solid picture about UCAR, and not just as\nan EV infrastructure provider, because we know the business around the world very well.\nI also know that UCAR is also a left-back-list company, right?\nSo I think it will make the next question for Rebecca pretty interesting.\nSo Rebecca, actually, I have a question for you also.\nWhy did UCAR choose RWA insurance as a path forward?\nSo do you think is there any limitation, like in traditional balance, push you toward, like\nto think of a new idea, like to combine real-world assets with blockchain?\nWhy did you do that?\nHi, Nicole.\nThank you so much.\nFirst, I'm very happy our project finally launched in the spring, and I think it will\nbe a very successful project.\nTo be honest, I used to be a very traditional banker.\nI have been working in Citibank and HSBC.\nEveryone knows those two are the top banks in the world for over 10 years.\nSo I can fully feel that the traditional finance space is a big problem.\nIt's really limited to the geography.\nFinancial institutions mostly operate locally, and the building relationships with them can\nbe a very slow process.\nFor example, you can think of the traditional system just like a network, either from the\ncompanies, local backgrounds, tool drops, and the paper maps.\nWhenever you need to do something across the region, you want to cross the board like a\ntransaction.\nIt becomes very slow, expensive, and it takes a really complicated routine.\nBut what we are doing right now is building with the RWA and the blockchain model just\nto create a completely new system, more like the blockchain is like a global highway network.\nThe asset token is like a standardized container.\nAnd the smart contract is like autonomous driving rules.\nSo through these rules, you can allow assets to flow globally in a way that is point-to-point,\nefficient, low cost, and automated.\nThe RWA project we are launching right now is leading the example of this shift.\nIt takes infrastructure assets like EV battery swapping, our swapping and charging stations,\nwhich were once restricted by location and had high investment barriers.\nYou see the transformation into liquidated digit assets.\nThis will help the individual investor from anywhere in the world can participate very\neasily.\nAnd additionally, you see, in the traditional way, investing in big energy projects like\nthe energy grid was really only for the big players, banks, or energy giants.\nIt's important for individual investors, you can invest into this very industry.\nThat's because, you know, controlling energy means controlling something really valuable.\nRight now, we actually already partnered with some of these major players like ICBC, the\nbiggest bank of China, Bank of Communication Investment, Mitsubishi Sumito, which is the\nbiggest financial institution in Japan, and the Thailand's third largest petroleum company,\nSosco, and many other major energy industry players to jointly develop infrastructure.\nSo why we now bring these great assets into Web3?\nSimply, Web3 and decentralization are the future, no turning back.\nEven we are from the traditional finance company, by learning into it, Web3 will be the future.\nIn fact, our platform already accepts stable coins for payment.\nWeb3 team receives RWA offering and brings down these old barriers to energy investing.\nNow, anyone can own a piece of real energy terminal, a charging and swapping station,\nthrough a charging and swapping station.\nSay my logistic pickup in Thailand, taxi in Portugal, or delivery truck in Italy.\nThink of it like this, each of these stations is like a node.\nis like a node. Together, they form a kind of invisible, borderless energy network across\nthe world. And that puts us in a very unique position to help shape how energy moves and\nis used globally. Plus, I want to thank our existing network and partnership with oil\nand gas companies. We have real world usage ready to go. That means investors won't just\nearn returns. They'll also get access to the real benefits down to the line, like charging\ncredits, swap discounts, and the EV subsidy. Thank you, Nicole.\nThank you. Thank you, Rebecca. I think your answer is very powerful. And it really highlights\nlike how RWA can transfer infrastructure from something local and logged into something\nglobal, liquid, and programmable. So I think we also, maybe those audience, we also want\nto learn something about PQE, like why your car choose the platform, like choose PQE.\nSo I think this question, maybe Ryan, you can give the audience a perfect answer. So\nhow do you think like the PQE as an infrastructure, especially for the RWA infrastructure, what\nare the advantages for those companies?\nYeah, so for PQE, there's a lot of RWA projects out there. However, we're trying to build\nlike the first fully integrated ecosystem that's beyond tokenization. What I mean is\nthat like we're not only like, you know, raising funds for UCAR or like, you know, tokenize\nUCAR as an asset. However, we're trying to fully transform businesses by consulting with\nthem, providing solution with them, for them to have the convenience of like all Web3.\nBy, you know, first step is tokenize this thing that like people and UCAR users can\nbecome shareholders of UCAR and they can use the asset itself as a value to straight up\nlike pay for UCAR services. And they'll get also like more benefits and grow the business\nfor a long time. So it's not only like a RWA investment, it's investment plus utility\nplus getting more customers. And it's a win-win for both the customers and the business itself.\nAs people from UCAR, the users of UCAR and also, you know, Rebecca and Paul, the affiliates\nwith UCAR, they both get benefits. So we're trying to create this new way of like a fully\nintegrated ecosystem that not only is tokenization or RWA issuing, but however, like can be beneficial\nfor both the customers and the business itself to save costs and also provide the, you know,\nthe beneficials for UCAR users and give UCAR or MyShare to a broader global audiences.\nThank you. Thank you, Rai. I think that's also a great perspective. And I think all\nof the audience will know like PQA will help like those companies who want to like launch\ntheir RWA and also why RWA I think also matters at a very important infrastructure level.\nSo next, we also want to zoom in on the EV charging market itself. Like this question\nwill be for like Rebecca, especially when we come to pavement and segments. So Rebecca,\nmy next question for you is like, how do you think like when you're doing UCAR and also\nespecially in the EV charging pavement or in this ecosystem? I think, how do you think\nlike the biggest pay points today for this area and how does UCAR plan to solve this\nquestion if you lend your RWA token and also doing something on chain?\nYeah, Nicole, here are some main issues we have seen. First up, the whole payment thing\nis really fragmented. Most places are a mess of different charging network activities.\nThat means you need a bunch of accounts, different payment methods, and you are dealing\nwith separated loyalty programs everywhere. It's not smooth at all. Then, there are some\nhigh costs and a lot of complicated with cross-border transactions plus really slow and\nclunky settlement and revenue sharing between all the different parties involved.\nAll of this adds up to a pretty frustrating experience for the user and it really holds\nback wider adoption. So how is UCAR planning to tackle this? We are building a Web3-based\necosystem around two key things, real-world assets, RWA tokens, and our own dedicated\nstable coin. Our stable coin will be used mainly to pay. It's attached to something\nstable like U.S. dollar, so there is no worry about the price swings when you are just buying\na charge. This creates one universal payment layer that's super simple. It's basically\nyou just open our APP and you can use our RWA token to anywhere, to any charge in our\nrelated parties. You can buy the charging service through use our token, our RWA token.\nSo we will avoid any traditional multi-currency kind of payment, any different platform you\nhave to transfer. Just to make it easy, open the APP and do the charging.\nHi, Nicole. Yes, yes, I'm here. Thank you. I think this is really a clear answer and\npretty like helped me a lot about this part. I think from the perspective about those users,\nbecause there are a lot of audience also in our live stream. So I think if I am the user,\nI want to participate in UCAR because you already have the RWA token. So if I want,\nI am the user and I want to use UCAR RWA token to pay for the charging fee. So is there any\ndifference when we compare to the traditional payment methods? So maybe you or Paul, you guys\ncan choose one to answer this question. Yeah, I think it's a very important question for those\nusers, especially for those who are pretty interested on UCAR. Yeah.\nYeah, so I think I can take this one. So actually our token is like for the user,\nthe experience is as simple as typing their phone when paying with our tokens. It's really\nseamless and independent. I think the fundamental difference really lies in the relationship. So\nin the traditional model, you know, a user is just a customer. When they pay for energy,\nthe money actually leaves their pocket forever. But with our RWA model, we are introducing the\nconcept of a dual role user. So our largest customers, largest fleets can also be token\nholders themselves. This means they are effectively owners of the infrastructure they use daily.\nWhen they pay for a battery swap for their vehicles and fleets, they actually contribute\nto the network's revenue, which in turn benefits themselves as stakeholders. It transforms the\nrelationship between the fleet, so the clients, and you power from a zero-sum game into a shared\neconomy. Additionally, unlike credit cards, which take days to settle and charge high fees,\nour first architecture settles transactions instantly on-chain. So we aren't really just\nchanging how they pay. We are really changing why they stay loyal to our network so that we\ncan grow it further. Yeah, yeah, yeah. I think this is pretty cool. Those users, instead of just\nbeing a customer, when they hold a token, they can become the participants also in this\ninfrastructure itself. So I think the idea of instant and on-chain settlement, when we compare\nwith the traditional way like slow-fee, heavy-card payments, I think it really highlights why the\nsegment-first model makes sense for high-frequency or real-world usage. I think that's why also you\nguys will choose PQE as an infrastructure. Yeah, thanks. Thanks, Paul. Yeah, I think we can also\ntalk about, because when we mention the token, we can talk about the revenue and also\nthe long-term development, because I think those users will also pay attention to this part. So,\nPaul, may I invite you to also answer this question, like how is the UCAR rewards\nrevenue linked to the RWA token, and what kind of long-term value, especially for those users\nwho want to participate or who hold a token? Yeah, so actually we are planning to put a\nportion of the earnings from our charging and swapping stations straight into our token's\ntreasury. So that way the token's value goes right along with our actual profits,\ngiving it a solid foundation from potential to rising price. And from what we are seeing in our\noperations so far, we have enough confidence to guarantee each swapping station delivering an\nannual IR between 70% to 25%. And in high demand areas, that number can be even higher.\nand be even higher.\nPlus, as we spent every time we add around 50 stations,\nour overall revenue takes a noticeable jump forward.\nThat's mainly because of two things.\nFirst, cost going down with skill,\nby getting better prices of batteries\nand spreading out maintenance costs.\nAnd secondly, network effects kicking in.\nStations can share battery resources and user data,\nmaking the whole system more efficient and valuable.\nOK.\nCool, cool, cool.\nYeah, thanks, Paul.\nSo I think what stands out is the direct link\nbetween the real operational performance and the token\nvalue.\nSo instead of the traditional narratives,\nwe are talking something like the cash flow back\ninfrastructure.\nAnd we can see the predictable returns, and also\nthe economies of scale, and also the strong network\neffects at the ecosystem, like when it's spending.\nSo I think also, like when we mentioned that,\nlike the scalability is always also a key concern\nfor those investors, especially your community,\nthose who want to pay something for the RWA tokens.\nSo I think this question will relate to the infrastructure\nwe choose, like PQE.\nSo I think I want to ask, how does PQE,\nas a foundation or as an infrastructure,\nhow does it help those audiences to ensure the token is stable,\nand we can try to mitigate the market dump,\nsomething like that?\nMaybe, Ryan, you can answer this question about PQE.\nYeah, so PQE designed our mechanism specifically\nfor RWAs to prevent this problem from happening.\nFirst of all, we have our floor price mechanism,\nwhich consists of the trading fee buybacks,\nand also the yield return that's going\nto be put into the pool.\nAnd for floor price, as people know,\nit's specifically locked for long-term investment,\nso that the floor price will only go up\nand for a stable investor return,\nand the price will never go below floor price, which\nis specifically designed for RWAs.\nIt is because the RWAs have intrinsic value\nthat it has real revenue.\nIt's different than meme coins.\nA lot of people think of Web3 as a lot of volatile or rock\npools.\nHowever, we're trying to change this.\nAnd by issuing RWAs with verified revenues\nand having the floor price mechanism,\nwe prevent this from happening.\nAnd moreover, I believe that if you want to get the yield\nreturn and get the real revenue, as a smart investor,\nI wouldn't sell it or just well dump it.\nHowever, holding it long-term to get the benefits as a UCAR\nshareholder or token holder to get the benefits\nwith the real utility and also hold it for long-term return\nis a smart way for investors, too.\nHowever, the whole PickWay ecosystem\nis designed specifically for RWAs,\nand the floor price is specific for this.\nThank you, Nicole.\nThank you.\nThank you.\nThank you, Ryan.\nI think that's a very important point.\nIf we have a proper insurance framework and a complex layer\nand also a settlement infrastructure,\nI think this is very, very essential,\nespecially when we're talking something about RWAs.\nRWAs are meant to be a long-term financial infrastructure,\nand we don't want something that's short-term.\nSo I think RWA sits at a very, very interesting intersection.\nSo how do you think those UCAR RWAs\nto try to attract those crypto-related users\nand also when still delivering some value to those users\nin the real energy economy?\nI think it's very challenging\nbecause we need to combine Web3 users\nand also we need to combine the traditional users.\nWe want to just put them together.\nI think it's a little challenging.\nSo, Paul, how do you think that?\nWhat's your answer about that?\nYeah, definitely.\nSo they all get two folds of benefits.\nSo firstly, as I mentioned earlier in my response,\nour RWA investors will be able to receive financial returns\nfrom our tokens while also using it as a payment option.\nAnd secondly, they could also enjoy\npractical offline benefits,\nand these include perks such as free charging privileges,\nbattery swapping rights,\nand discounts on purchases from over a dozen\nof new energy vehicle brands we have partnered with.\nAnd particularly in markets,\nwe have yet to enter investors in those regions\nwhile gaining priority access to our partner network.\nAnd moreover, to express our gratitude to early investors\nin those untapped markets\nwill offer even more substantial benefits to them.\nSo, yeah.\nThank you. Thank you, Paul.\nI think that's a great example for RWA\ngoing beyond financial returns\nbecause we combine the on-chain participation\nwith the real-world unity,\nand also charging credits,\nand also something swap, also discounts.\nSo I think you guys are creating a very booming ecosystem\nthat appeals to both Web3 users and also traditional EV users.\nBut also, this question, we also want to throw it to Ryan\nbecause from the PQE side,\nbecause you are guys doing something\nvery, very amazing in the Web3.\nSo how does PQE help UCAR\nto extend the global branding\nand also grow its user base\nto attract as many as possible Web3 users\nfor those of UCAR's range?\nSo could you share some insights about that?\nYeah. Yeah, definitely.\nSo I think it's a great metaphor\nthat was a little bit ambitious\nthat we compare ourselves to Amazon,\nwhere back in the Web2 rush,\nback in 20 years ago,\nAmazon helped numerous businesses\nto grow their global audiences.\nImagine this, back then,\npeople only had to go to local shops to buy stuff,\nlocal clothing shops to buy clothes.\nAnd however, Amazon changed this.\nIt allowed global audiences to buy stuff,\neven from overseas, and stuff from cities,\nwith shipping, online payment, all that stuff, as ecosystem.\nAnd PQE is trying to do the same thing.\nWe're trying to build the RWA ecosystem\nwhere we allow the transition from Web2 to Web3\nthat all these RWA businesses\nto grow global audiences\nwithin and beyond the Web3 world.\nSo basically, as the token goes up,\nor as we arouse the attention within the Web3 world,\nmore and more people is gonna know about UCAR.\nAnd more and more people is gonna know\nabout the importance and utility by owning a UCAR token.\nSo it's not just local audiences anymore.\nHowever, it's a global market where,\nI guess, just growing the audience base\nthat hasn't reached before.\nIt's a new audiences, new target customers.\nAnd that's what UCAR and also PQE\nis trying to do together.\nThank you.\nThank you, thank you, Roy.\nI think the global distribution\nand feasibility piece is the key.\nSo RWA only works at a scale\nwhen the infrastructure support cross-border\nparticipation.\nAnd we all know that it's very clear\nthat PQE is positioning itself exactly there.\nSo, but for user watching today,\nI think this question is very also important,\nlike how they can participate\nif they are pretty interested in the UCAR ecosystem.\nAnd what benefits, what extra benefits\nthey can do, they receive,\nif they want to join the PQE\nor UCAR ecosystem now.\nSo maybe Paul and Rebecca,\nyou guys can answer this question,\nlike for those users.\nYeah, I can take this one.\nSo regarding participation,\nour token just got launched through PQE's platform\non January 20th.\nSo any interested investor could already go there\nand then start investing.\nAnd then regarding benefits,\nas I already mentioned,\nthere will be a lot of practical offline benefits\nfor our investors, such as charting credits,\nvalue-added privileges, and discounts\nfrom our EV partners.\nAnd then in those pet markets,\nthey may also be able to participate in the PQE ecosystem.\nSo I think that's pretty much it for today.\nThank you.\nThank you.\nThank you.\nThank you.\nThank you.\nThank you.\nThank you.\nOkay, okay, got it.\nSo early participation, I think, plays a big role, but if you guys, as you guys will expand\nin the market in the future, so we will get more benefits when you guys have more clear\nplan about that, right?\nYeah, absolutely.\nSo all of those will be coming, yeah, yeah, yeah.\nOkay, great.\nI think that this will, like, give some hope for those users and will also, like, create\na strong alignment between users and future market growth, so that's very important, yeah.\nSo let's also zoom, like, out one last time, like, Rebecca, I have a question for you also,\nlike, how do you think, like, UCAR is efficient, because when you guys jump into the RWA, and\nhow do you think that, how do you think, like, UCAR, if you feel, like, the long-term role\nof RWA in the future financial system?\nActually, we think the RWA will be the revolution of the financial system, and it's very exciting\nthat we can be at the forefront of this change.\nYou see, RWA is not just about putting assets on trend, it's about unlocking and restructuring\nliquidity, automating processing, and integrating ecosystems, or to rebuild financial infrastructure\nin terms of efficiency, inclusion, and innovation, and with the regulation mature and the technology\nbecome more interoperable, RWA is set to become the key bridge linking the real economy with\ndigital finance.\nIt will help move global capital allocation towards to a future that's more efficient,\nmore transparent, and more inclusive.\nAnd the most important role, also, RWA opens up a high-value investment to the individual\ninvestor.\nIt allows every investor to own a piece of high-value or exclusive assets in the previously\nout of reach.\nThey cannot reach in the before, and to do it at a much lower cost.\nThink of it like being able, you can invest in just a 1% of a commercial building, or\nin an energy grid, without needing to buy the whole thing.\nIt cannot be affordable for an individual to buy the whole thing, but you can participate\nin this exclusive, very high-value asset.\nAnd we think RWA will be the bridge between the real economy and the digital economy.\nFor company, for UCAR, this is about the efficiency and the cost of saving.\nWe are moving away from a world where assets are set idle on a balance sheet to a world\nwhere every piece of infrastructure is a liquid, programmable financial instrument.\nWe are not just issuing tokens, we are creating a new operation system for the heavy industry.\nThank you.\nNicole.\nThank you.\nThank you, Rebecca.\nI think that's a very, very impressive and strong vision, yeah, because we all agree\nthat RWA here are not just something like we see in traditional, it's not financial\nproducts.\nSo, they are becoming something more like an operating system for how real-world infrastructure\nis financed, used, and optimized.\nSo, but when you guys choose PQE, and I believe you guys also believe the settlement for RWA,\nso I'm pretty interested why you believe that, why you believe that this kind of RWA will\ndominate the future.\nYeah.\nI also want to invite you guys to answer this question.\nYeah.\nThanks, Nicole.\nI can take this one.\nSo, as everyone knows, most RWAs today are really investment-first, so they are just,\nI would say, digital certificates of ownership that sits in your and other investors' wallets.\nWe believe the future of RWA should be settlement-first.\nThis means the token isn't just a passive asset.\nIt is actually used to settle real commercial transactions within our network.\nSo, for example, in the UCAR ecosystem, we aren't just tokenizing the value of the battery\nand charging stations.\nWe are operating the financial plumbing of how that station operates.\nAnd so, we believe RWAs that acts as both a collateral and currency for their specific\nindustry will dominate because they solve real operational friction, like cross-border\npayments and instant revenue splitting, rather than just offering passive yields.\nThat actually connects perfectly with what I said about the dual use, the dual role of\nour user and then the dual use of UCAR token as both a RWA coin for payment and for investments.\nThanks, Nicole.\nThank you.\nThank you, Paul.\nI think that distinction is critical.\nRWAs actively settle real transactions, solve real problems.\nAnd that's what I think will drive the massive adoption.\nAnd we all know, just like UCAR, there are lots of companies, listed companies.\nAlso, they want to do something like you guys to use like settlement RWAs first.\nAnd also, they are seeking some help also from the infrastructure PQE.\nAnd I also want to invite Ryan to answer this question.\nBecause you are the CEO of PQE, you may talk with lots of those companies.\nHow does PQE plan to help more companies and enterprises to tokenize their RWA in the future?\nYeah, definitely.\nI guess the question is not how we help other businesses tokenize their RWAs.\nBut tokenizing RWAs is very easy.\nEveryone can publish a token.\nEveryone can launch a stable coin or even like meme coins or RWA coins.\nHowever, what PQE is trying to do is to help business to get all the conveniences on-chain.\nAnd do like a total web-free transformation for businesses.\nTo help business lower their cost, get a broader audience and reach global customers.\nAnd that's what PQE is trying to do.\nAnd for every business, we provide different solutions.\nFor example, for UCAR.\nI think I don't need to explain more than Rebecca and Paul already explained.\nAnd for every different business, we provide different solutions.\nThink of us as McKinsey, as a consulting firm.\nWe provide different solutions for different businesses.\nAnd based on their business model, based on what they do or based on their field.\nAnd that's what PQE is trying to do.\nSo as a team, as a professional team, we will be able to provide the expertise and the perfect solution.\nAnd the perfect plan or proposal for every business that's going to be brought on PQE.\nThank you.\nThank you, Roy.\nThat's a very important part.\nAnd I think before we join the last part, community Q\u0026A, we have the last question for all of you guys.\nBecause we also want to know the long-term roadmap for UCAR and also PQE.\nSo in the next 12 or 24 months, what guys do you have any plan or any roadmap for your company?\nWe can invite Paul to answer this question first and then we can switch to Roy.\nYeah, thank you.\nYeah, so from the UCAR side, it's probably more project and region-based.\nSo as a first batch, we will be launching our European projects.\nSo think about our projects in Portugal, Italy and Spain.\nWe have already launched projects for taxi and logistics vans and trucks, battery shopping.\nSo the first batch of RWA projects from our side will be exclusively for these European projects.\nAnd then later on, we will be adding South Asia, Thailand and perhaps Indonesia projects to the next batch.\nAnd then later on, maybe also South Americans like 2N3Water projects in Peru, etc.\nYeah, so it will be a more phase-based and region-based roadmap from our side.\nYeah, thank you. Thank you, Paul.\nSo Ryan, could you also answer the question also?\nDo I pick a question to answer?\nYeah, the same question, like the roadmap.\nLike what PQE will append?\nwhat PQE will attempt to do in the next 12 or 24 months?\nYeah, so definitely like open up our pipelines.\nThe first one is that like,\nI believe it's like the exponential growth.\nWe are very happy to have our first hydropower stations,\nUCAR as our first two projects right now.\nAnd, but like, just like, you know,\nhow other launch pads and other like ecosystem grow,\nwe are planning on, you know,\nlike getting like more and more projects\nonto PQE and I believe the growth is gonna be exponential\nand it's gonna be huge.\nSo I believe everyone should be,\nstay tuned on like what's coming next\nand it's gonna be huge, yeah.\nThank you, thank you, thank you all of you guys.\nThank you, Paul.\nThank you, Ryan.\nThank you, Rebecca.\nActually, that's all of the questions for you guys.\nAnd next, we will like turn to the community now, yeah,\nbecause we can see there are lots of questions\nthey sent in the live, yeah.\nCould you guys please check that?\nI'm not sure whether you guys\ncan see those questions or not.\nIf you guys can see those questions,\nmaybe you guys can like pick several questions.\nWe can pick five questions and we can answer that.\nAnd if you can see those questions,\nyou can start it and I will check\nor I will pick several questions for you guys, yeah.\nMm-hmm, mm-hmm, yeah, so I saw a question\non are there any plans to expand UCAR\nbeyond EV charging to other energy\nand infrastructure other ways?\nSo I think I could take that one.\nYeah.\nYeah, so the answer is absolutely.\nIn fact, I think calling us just a charging\nor battery shopping company misses the bigger picture\nin the industry, in the industry just overall.\nWe are building really a distributed energy network\nfor transport.\nSo our roadmap really extends beyond simply charging\nor swapping into two massive RWA categories.\nThe first is grid storage and arbitrage.\nSo we have to realize that a battery station\nis effectively a giant power bank, right?\nAnd then we plan to really tokenize\nthe storage capacity of our network.\nThis allows our station to act as a virtual power plant,\nespecially in regions with weaker electricity\ninfrastructure or electricity grid, national grid,\nbuying cheap power, so really buying cheap power at night\nand selling it back to the grid during peak hours.\nSo with that, our token holders will capture the value\nof this energy trading, not just the driver fees.\nAnd a second area is logistics infrastructure.\nSo we are already powering logistics trucks and vans\nin regions like Thailand and Southern Europe.\nThe next step could be tokenizing the fleets themselves.\nAnd by financing the electric trucks for our logistics\nand OEM partners via RWA, we're really locking\nlong-term customers for our energy network.\nSo ultimately, I'm just tokenizing a plug in the wall.\nWe are tokenizing the entire life cycle of green logistics\nfrom the solar panel that generates the power,\ncould be on top of our battery stations\nto the battery that stores it, and to the vehicles,\nlike trucks and vans that consumes it.\nSo that will be the response from me to that question.\nYeah, thank you.\nThank you, Paul.\nAnd I also see a very interesting question\nabout the RWA regulation.\nSo they're asking like, how will your car adapt\nas an RWA regulation involves globally\nover the next few years?\nCould you please also answer this question?\nYeah, I can take this one as well.\nAnd perhaps Ryan, if you want, as your specialist\non this one, you could also add after me.\nSo we, I mean, at least I believe that regulation\nis not a threat to us.\nIt's rather all of us, because as a public company,\nwe're really used to strict audits and compliance.\nAnd also as we operate in different regions,\nwe are really careful in navigating the local rules\nand legal regulations.\nSo our strategy for the future is built\non a programmable compliance.\nSo unlike a paper soft certificate,\nour RWA tokens are really powered by a smart contract\nthat can update in real time.\nIf the rules in, say, Europe or Asia change tomorrow,\nwe can also update the compliance logic in our code\nto match those rules in the system.\nAnd we don't have to rebuild the car while driving it.\nAnd furthermore, we are in a global world\nwhere different regions have different rules, right?\nWe are ready to deploy a multi-wrapper strategy\nwhere we can issue, say, a specific version of the tokens\ntailored to local laws.\nFor example, a MECA compliant version for Europe\nand a different version for Asia,\nwhile all backed by the same global battery network.\nSo we aren't really just waiting for clarity.\nWe are actively building the infrastructure\nto be compliant no matter which direction the wind go.\nYeah, actually, Nico, Nico,\nI want to pick up a very interesting question.\nAnd I also want to share the news to all the audience.\nIs there a question with the strategy partnership\nwith the Will Logistics Group\nfor up to 1,000 battery-swapping vehicles?\nI'm very happy there is some audience follow us so closely\nsince we just issued this news last week.\nYes, we have 1,000 battery-swapping\nelectricity truck project in Thailand.\nAnd the question is what timeline\nwe will have for scaling stations.\nActually, as I mentioned, we have a joint venture\nwith the third biggest petrol company in Thailand\ncalled Cisco.\nThis 1,000 truck project will be finished in two years.\nAnd we will put around 50 stations\naligned with these trucks in Thailand within two years.\nAnd I also want to share that\none of our largest company shareholder\nis the most wealth family in Thailand.\nNot only in Thailand, in the Southeast,\nit's called the CP family.\nIt dominates the whole Southeast.\nSo we have enough capital supporting\nto finish all these projects.\nAnd all these projects will be finished in two years.\nIt's the timeline.\nAnd the following question is,\nall this revenue will be feedback on this token investor.\nObviously, all this revenue, as Paul had mentioned,\nwe will put the revenue to the capital base of the token.\nSo all the investor will enjoy all these revenues.\nOkay, nice, nice.\nThey write all of those things into two questions\nor you just answer one question?\nBecause I'm also looking for what questions\nyou are answering.\nBecause once you answer those questions,\nit means you pick this question\nand we need to give them 10 U-card tokens.\nSo I need to get them all.\nYeah, yeah, yeah, yeah, yeah.\nIt seems the question goes so fast.\nYeah, yeah, yeah, so I'm still looking for those questions.\nYeah, but they're very good questions, I like it.\nAnd I saw another interesting question\nabout if we will involve into the battery recycle, right?\nDid you see the question, Nicole?\nNo, is it newest question?\nOh, I have this question.\nYes, the question is what sustainability measures\nare built into Utah, such as battery recycling\nor renewable energy sourcing for swapping stations?\nAnd how does tokenize these assets by U-card\nalong with ESG goals for investors?\nObviously, we will involve into this battery recycling\nindustry in the future.\nAnd all these assets, the battery swapping stations,\nand I just want to share one thing,\nlike Paul said, the battery swapping stations\nalso is the equipment for the energy saving.\nSo it must require battery recycling in the future.\nAll these will be tokenized.\nAnd that's what we do, that's our mission.\nWe are the ESG company and we will take responsibility\nfor the ESG.\nOkay, okay, I see.\nI already know the question.\nI already got, yeah, like you answer the link question.\nYeah, and you answer like all of those,\nyou answer totally two questions from the one person.\nBut yeah, but we only will choose one question\nfrom one person.\nOh, sorry, sorry.\nSo, sorry, sorry.\nLink has a lot of good questions.\nYeah, yeah, yeah, yeah.\nI think,\nI think Link is our perfect audience and he will write a lot of questions each live stream.\nBut I think it's okay, it's okay.\nWe still have a reward slot for Link, yeah, yeah, yeah.\nBut we need also, we'll save some opportunity for other audience.\nBecause they also ask some question about new car, like PQE.\nSo we also want to invite Ryan to answer this question.\nThis question is from Nick V, and he is asking, like, other new car, so what kind of other\nRWAs will PQE on board next, and is there any, like, listing standards for those RWAs?\nYeah, so I guess RWAs of all kinds.\nYou can think of RWA, you can think of PQE as NASDAQ, right, and just all kinds of RWAs.\nLike anything I think of, I can't give you the details, right, because we're still, like,\nwe have that confidentiality, and however, just use your imagination and think of, like,\nanything I think of, it's going to be on PQE, as we're ambitious and we're also, like, growing\nfast.\nAnd, yeah, there's just be different kinds of companies, from manufacturing to infrastructure\nto, you know, the actual products, or maybe, you know, like, high-tech companies, and just,\nI guess, companies in all fields, and that's what PQE tries to do.\nThanks.\nThanks.\nThanks.\nAnd also, there is another question, also, let me check, it's also for PQE.\nHe is, the question is from Vintage, he's asking, is it only UCAR that would be integrated\nwith the PQE in UPower Ecosystem, yeah, can you please also?\nWhat's the question again?\nLet me check, it's only UCAR that would be integrated with PQE in UPower Ecosystem.\nIt's only UCAR that's going to be integrated with PQE in the UPower Ecosystem.\nI think it's a little bit confusing.\nYeah.\nIt's much like a company question, asking if we will only choose PQE as the partnership.\nOf course, PQE will be our very important partnership in our ecosystem, and I think\nPQE will also treat UCAR like an important partnership.\nBut, of course, in the future, like, PQE will also launch other projects, and we will also\nfind some partnership in the Web3 in the future, yeah.\nAnyway, PQE and UCAR will be a very close, connected partnership.\nYeah, right.\nIn the future.\nLike what Rebecca said, we highly value UCAR as our partner, and I just, you know, I also,\nlike, I really like Rebecca and Paul themselves too, and we're just very happy to have this\npartnership with UCAR, and we value them really high, hence they're like our second\nRLA projects.\nAnd, yeah, I guess the question is a little confusing, and just to say UCAR itself is\nUPower Limited, the company.\nYeah.\nAnd UCAR is the tag of the token.\nYeah, we love you, Ryan, and thanks for the distinction.\nYeah, I was about to chip in, because it does seem a bit confusing, because UCAR is both\nthe name of our NASDAQ stock, like the ticket for the NASDAQ stock, and also the token,\nit's like a dollar sign car, and UPower is the underlying operating company, and also,\nsometimes it also appears as the name of our stocking system.\nYeah, so there's that clarification.\nYeah, thank you.\nThank you guys for your, like, explanation.\nNico, can I take one more question?\nOf course you can, yeah.\nYeah, I saw a question from Ryan.\nHow does – I want to answer this question.\nI know a lot of people were confused about the universal to see the battery swapping\nstation.\nHow good is the battery swapping station for the different brands of vehicles?\nLet me explain that.\nActually, everyone knows the battery swapping technology from China, and we are remaking\nthis battery swapping standard for the China government.\nSo, our technology can adapt to different kind of vehicles, cover, like, over 16 brands,\nlike Nexus, MG, Hongyan, a lot of brands, and all these brands can go to our battery\nswapping station to do the battery swapping across the brand, across the batteries.\nThe technology is very material.\nWe can cross the brand in for the battery swapping service.\nAnd let me see this question.\nOkay.\nYou can regard this technology just like adaption.\nLike, you know, when you charge to your cell phone, you have different types.\nBut if you have adaption, you can apply to all types.\nOkay.\nOkay.\nSo, you answered the question, like, from Lucy, right?\nLucy, okay.\nNo, from Ray.\nFrom Ray?\nYeah, I think the question is about how good – yes.\nHow do you handle battery life cycle?\nNo, no, no, no, no.\nHow your battery swapping station sell for different brands of vehicles?\nGood.\nLet me check.\nFrom Ray.\nRay.\nYeah.\nHow does Universal –\nOh, ensure compatibility across different vehicle types, yeah.\nSo, that one.\nYeah, yeah, yeah.\nI got it.\nI got it.\nYeah, yeah, yeah.\nThis is the last question.\nI know, like, today, I remember, yeah.\nBecause you guys give us a lot of, like, powerful and impressive insights.\nSo, they are pretty interested like that and give us lots of questions.\nBut we only have five flaws.\nFive flaws, yeah.\nYeah, all the good questions.\nYeah, all good questions.\nAppreciate it.\nYeah.\nSo, we already got the five questions from five audience, and they can get reward.\nBut if you guys want, you can also pick any questions, like, to answer, yeah.\nBut they don't have any reward.\nMaybe next time, yeah.\nThey can join our PQE community and get reward from our other, like, games and other programs, yeah.\nThank you.\nThank you, Nicole.\nThank you.\nOkay.\nDo you guys want to also answer some other questions?\nYou can pick any, yeah.\nSo, we just follow the rule, five questions, okay?\nYeah, yeah.\nOf course, of course.\nI think it's okay, it's okay, yeah.\nBecause I just want to make sure those, like, we pick five questions, and they will get reward.\nBecause we want to, like, yeah.\nAh, okay, okay.\nBut to be honest, I really want to pick one more.\nCan I pick one more?\nSure, sure.\nSince you see, oh, yeah, yeah, yeah, yeah.\nSince, you know, this question is also one of the things I want to share with all audiences.\nCan you elaborate on how AI integrated in Utah enables autonomous battery swapping for Amanda vehicles?\nWhat partnerships are in place to scale this for broader autonomous mobility applications?\nOkay.\nJust let me tell you, the battery swapping station is the best solution for the autonomous vehicles.\nYou do have a very straightforward question, but really good question.\nYou see, just imagine, if you use charging, so you drive autonomous vehicles, right?\nYou have to get out of the vehicle and go to charge manually by yourself.\nIt's very stupid.\nBut in our system, the vehicle can talk.\nI mean, the real talk to the battery swapping station.\nWhen the vehicle is out of juice, it might just talk with the network, with our battery swapping station, and say, hey, do you have the battery?\nThen the autonomous vehicles, they can go to the battery swapping station to swap by themselves.\nTotally autonomous.\nYou don't need any human resource to involve in this ecosystem.\nThat's why I always tell the audience the battery swapping is not the supplement of the charging.\nThe battery swapping technology is the future of the energy supplier.\nIt can solve the problem when you go to the autonomous generation.\nHow could you use charging?\ngeneration. How could you use charging? It's stupid. You still need some people to charge,\nright? But for the battery thrusting, it's totally autonomous. Thank you, Nicole.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6.960000038146973,
+      "text": "Okay, so welcome, welcome all of you to today's exclusive AMA."
+    },
+    {
+      "id": 1,
+      "start": 6.960000038146973,
+      "end": 9.800000190734863,
+      "text": "So we will talk something about you, Karsten and John Piqui."
+    },
+    {
+      "id": 2,
+      "start": 9.800000190734863,
+      "end": 14.319999694824219,
+      "text": "So I am Nicole, and I will be the host today."
+    },
+    {
+      "id": 3,
+      "start": 14.319999694824219,
+      "end": 20.200000762939453,
+      "text": "So we are very excited to have you all here for the dive deep interview about how real"
+    },
+    {
+      "id": 4,
+      "start": 20.200000762939453,
+      "end": 23.639999389648438,
+      "text": "world energy infrastructure meets on-chain finance."
+    },
+    {
+      "id": 5,
+      "start": 23.639999389648438,
+      "end": 28.1200008392334,
+      "text": "So welcome all of those audience in this AMA."
+    },
+    {
+      "id": 6,
+      "start": 28.1200008392334,
+      "end": 33,
+      "text": "So today we will focus three aspects."
+    },
+    {
+      "id": 7,
+      "start": 33,
+      "end": 39.20000076293945,
+      "text": "So first, we will introduce UCAR and its global EV charging and battery swapping business."
+    },
+    {
+      "id": 8,
+      "start": 39.20000076293945,
+      "end": 46.400001525878906,
+      "text": "And second, we will explore like why RWA matters and how UCAR is using like blockchain to reshape"
+    },
+    {
+      "id": 9,
+      "start": 46.400001525878906,
+      "end": 47.68000030517578,
+      "text": "energy infrastructure."
+    },
+    {
+      "id": 10,
+      "start": 47.68000030517578,
+      "end": 54.880001068115234,
+      "text": "And finally, I think we will get to understand why Piqui is a platform and behind this UCAR"
+    },
+    {
+      "id": 11,
+      "start": 54.880001068115234,
+      "end": 56.560001373291016,
+      "text": "RWA lens."
+    },
+    {
+      "id": 12,
+      "start": 56.560001373291016,
+      "end": 62.720001220703125,
+      "text": "So like recently UCAR is just like officially launched on Piqui."
+    },
+    {
+      "id": 13,
+      "start": 62.720001220703125,
+      "end": 66.68000030517578,
+      "text": "So I think it's a great thing."
+    },
+    {
+      "id": 14,
+      "start": 66.68000030517578,
+      "end": 71.08000183105469,
+      "text": "So I want to say like congratulations to Paul and Rebecca."
+    },
+    {
+      "id": 15,
+      "start": 71.08000183105469,
+      "end": 78,
+      "text": "So I think it means marking another very important step in bringing like the real revenue generating"
+    },
+    {
+      "id": 16,
+      "start": 78,
+      "end": 80.31999969482422,
+      "text": "infrastructure since on-chain."
+    },
+    {
+      "id": 17,
+      "start": 80.31999969482422,
+      "end": 85.55999755859375,
+      "text": "So I also have a quick reminder before we start, like all of those audience, you can"
+    },
+    {
+      "id": 18,
+      "start": 85.55999755859375,
+      "end": 89.27999877929688,
+      "text": "like submit your question directly in our chat at any time."
+    },
+    {
+      "id": 19,
+      "start": 89.27999877929688,
+      "end": 94.08000183105469,
+      "text": "So we will reserve some time at the end of this AMA."
+    },
+    {
+      "id": 20,
+      "start": 94.08000183105469,
+      "end": 101.4000015258789,
+      "text": "And so feel free to like prepare your question and yeah, submit in the reply."
+    },
+    {
+      "id": 21,
+      "start": 101.4000015258789,
+      "end": 107.5199966430664,
+      "text": "We will choose five questions and each of you will get like 10 UCAR token."
+    },
+    {
+      "id": 22,
+      "start": 107.5199966430664,
+      "end": 108.5199966430664,
+      "text": "Yeah."
+    },
+    {
+      "id": 23,
+      "start": 108.5199966430664,
+      "end": 109.5199966430664,
+      "text": "All right."
+    },
+    {
+      "id": 24,
+      "start": 109.5199966430664,
+      "end": 112.68000030517578,
+      "text": "I think we can just jump right in."
+    },
+    {
+      "id": 25,
+      "start": 112.68000030517578,
+      "end": 116.31999969482422,
+      "text": "So I guess we will start with some background."
+    },
+    {
+      "id": 26,
+      "start": 116.31999969482422,
+      "end": 125.87999725341797,
+      "text": "Like we all know that UCAR operates at intersection of EV infrastructure and also energy system."
+    },
+    {
+      "id": 27,
+      "start": 125.87999725341797,
+      "end": 131.63999938964844,
+      "text": "So Paul, the first question is like, could you walk us like UCAR's core business and"
+    },
+    {
+      "id": 28,
+      "start": 131.63999938964844,
+      "end": 139.60000610351562,
+      "text": "share some insights like about the global operation and in different engine, like what's"
+    },
+    {
+      "id": 29,
+      "start": 139.60000610351562,
+      "end": 142.52000427246094,
+      "text": "the business UCAR is doing now?"
+    },
+    {
+      "id": 30,
+      "start": 142.52000427246094,
+      "end": 143.52000427246094,
+      "text": "Yeah."
+    },
+    {
+      "id": 31,
+      "start": 143.52000427246094,
+      "end": 144.52000427246094,
+      "text": "Thanks, Nicole."
+    },
+    {
+      "id": 32,
+      "start": 144.52000427246094,
+      "end": 148.16000366210938,
+      "text": "So I'm Paul, project manager of UCAR's AWA."
+    },
+    {
+      "id": 33,
+      "start": 148.16000366210938,
+      "end": 151.36000061035156,
+      "text": "I'm very happy to be back here with PICRI."
+    },
+    {
+      "id": 34,
+      "start": 151.36000061035156,
+      "end": 154.1199951171875,
+      "text": "So just to quickly introduce UCAR."
+    },
+    {
+      "id": 35,
+      "start": 154.1199951171875,
+      "end": 160,
+      "text": "So UCAR is a provider of AI integrated energy solutions, connecting electric vehicles with"
+    },
+    {
+      "id": 36,
+      "start": 160,
+      "end": 162.36000061035156,
+      "text": "advanced energy infrastructure."
+    },
+    {
+      "id": 37,
+      "start": 162.36000061035156,
+      "end": 166.1999969482422,
+      "text": "We are generally focused on battery swapping technology through our proprietary modular"
+    },
+    {
+      "id": 38,
+      "start": 166.1999969482422,
+      "end": 172.8800048828125,
+      "text": "system, YotaTM, but over time we've expanded into a broader intelligent energy ecosystem."
+    },
+    {
+      "id": 39,
+      "start": 172.8800048828125,
+      "end": 179.47999572753906,
+      "text": "Today we work with over 10 major vehicle OEMs, including MG, Nexus, Hongqi, and GAC."
+    },
+    {
+      "id": 40,
+      "start": 179.47999572753906,
+      "end": 184.60000610351562,
+      "text": "Our solutions support taxis, logistic feeds, buses, trucks, and two and three-wheelers"
+    },
+    {
+      "id": 41,
+      "start": 184.60000610351562,
+      "end": 188.83999633789062,
+      "text": "across Asia, South and Europe, and Latin America."
+    },
+    {
+      "id": 42,
+      "start": 188.83999633789062,
+      "end": 192.8800048828125,
+      "text": "Tech wise, we are a great value addition to EV energy infrastructure by providing the"
+    },
+    {
+      "id": 43,
+      "start": 193.32000732421875,
+      "end": 194.32000732421875,
+      "text": "battery swapping option."
+    },
+    {
+      "id": 44,
+      "start": 194.32000732421875,
+      "end": 199.67999267578125,
+      "text": "As you know, not every country has a good electricity national grid, which is exemplified"
+    },
+    {
+      "id": 45,
+      "start": 199.67999267578125,
+      "end": 205.0399932861328,
+      "text": "by the power shutdown in Southern Europe last summer, something to see."
+    },
+    {
+      "id": 46,
+      "start": 205.0399932861328,
+      "end": 209.0399932861328,
+      "text": "We also feature AI integrated battery swapping ecosystem, which is fully prepared for the"
+    },
+    {
+      "id": 47,
+      "start": 209.0399932861328,
+      "end": 215.9600067138672,
+      "text": "integration of autonomous driving vehicles, which are gaining popularity fast."
+    },
+    {
+      "id": 48,
+      "start": 215.9600067138672,
+      "end": 221,
+      "text": "Our station also serves as a multifunctional energy platform, including battery swapping"
+    },
+    {
+      "id": 49,
+      "start": 221,
+      "end": 227.1199951171875,
+      "text": "plus charging integration, energy storage, and reverse charging to supply local neighborhoods,"
+    },
+    {
+      "id": 50,
+      "start": 227.1199951171875,
+      "end": 231.60000610351562,
+      "text": "order panel addition on top of the station to provide additional green energy, and algorithm"
+    },
+    {
+      "id": 51,
+      "start": 231.60000610351562,
+      "end": 235.9600067138672,
+      "text": "and quantum-based central management to reduce battery maintenance costs and extend service"
+    },
+    {
+      "id": 52,
+      "start": 235.9600067138672,
+      "end": 236.9600067138672,
+      "text": "life."
+    },
+    {
+      "id": 53,
+      "start": 236.9600067138672,
+      "end": 243.0800018310547,
+      "text": "So all of these really eliminate the wrenching anxiety for EV drivers."
+    },
+    {
+      "id": 54,
+      "start": 243.0800018310547,
+      "end": 251.27999877929688,
+      "text": "And as for operation or business plan for 2026, our focus will be threefold."
+    },
+    {
+      "id": 55,
+      "start": 251.27999877929688,
+      "end": 256.6000061035156,
+      "text": "So firstly, expanding Southern Europe with, for example, you guys could already see we"
+    },
+    {
+      "id": 56,
+      "start": 256.6000061035156,
+      "end": 262.9599914550781,
+      "text": "signed a JV with Taxi Association, and travel in Portugal, through which more than 600 battery"
+    },
+    {
+      "id": 57,
+      "start": 262.9599914550781,
+      "end": 269.7200012207031,
+      "text": "swapping taxis and vans will be sold, along with 15 swapping stations in the coming few"
+    },
+    {
+      "id": 58,
+      "start": 269.7200012207031,
+      "end": 270.7200012207031,
+      "text": "years."
+    },
+    {
+      "id": 59,
+      "start": 270.7200012207031,
+      "end": 276.5199890136719,
+      "text": "We also have had logistic van partnerships with major logistic dealer in Italy, who will"
+    },
+    {
+      "id": 60,
+      "start": 276.5199890136719,
+      "end": 282.44000244140625,
+      "text": "be selling more than 200 vans and 60 buses per year, with more than 10 stations."
+    },
+    {
+      "id": 61,
+      "start": 282.44000244140625,
+      "end": 288.44000244140625,
+      "text": "And in Peru, we also have some agreements with the leading local taxi operator, and"
+    },
+    {
+      "id": 62,
+      "start": 288.44000244140625,
+      "end": 295.1199951171875,
+      "text": "will be selling over a few hundreds, a few dollars per year, along with the swapping"
+    },
+    {
+      "id": 63,
+      "start": 295.1199951171875,
+      "end": 296.1199951171875,
+      "text": "boxes."
+    },
+    {
+      "id": 64,
+      "start": 296.1199951171875,
+      "end": 299.1199951171875,
+      "text": "So yeah, we've got great plans ahead."
+    },
+    {
+      "id": 65,
+      "start": 300.1199951171875,
+      "end": 301.1199951171875,
+      "text": "Thanks."
+    },
+    {
+      "id": 66,
+      "start": 301.1199951171875,
+      "end": 302.1199951171875,
+      "text": "Thanks, Paul."
+    },
+    {
+      "id": 67,
+      "start": 302.1199951171875,
+      "end": 309.55999755859375,
+      "text": "I think your insights really give us a very solid picture about UCAR, and not just as"
+    },
+    {
+      "id": 68,
+      "start": 309.55999755859375,
+      "end": 317.5199890136719,
+      "text": "an EV infrastructure provider, because we know the business around the world very well."
+    },
+    {
+      "id": 69,
+      "start": 317.5199890136719,
+      "end": 323.20001220703125,
+      "text": "I also know that UCAR is also a left-back-list company, right?"
+    },
+    {
+      "id": 70,
+      "start": 323.20001220703125,
+      "end": 327.6400146484375,
+      "text": "So I think it will make the next question for Rebecca pretty interesting."
+    },
+    {
+      "id": 71,
+      "start": 327.6400146484375,
+      "end": 331.79998779296875,
+      "text": "So Rebecca, actually, I have a question for you also."
+    },
+    {
+      "id": 72,
+      "start": 331.79998779296875,
+      "end": 337.5199890136719,
+      "text": "Why did UCAR choose RWA insurance as a path forward?"
+    },
+    {
+      "id": 73,
+      "start": 337.5199890136719,
+      "end": 343.20001220703125,
+      "text": "So do you think is there any limitation, like in traditional balance, push you toward, like"
+    },
+    {
+      "id": 74,
+      "start": 343.20001220703125,
+      "end": 350.6000061035156,
+      "text": "to think of a new idea, like to combine real-world assets with blockchain?"
+    },
+    {
+      "id": 75,
+      "start": 350.6000061035156,
+      "end": 352.3999938964844,
+      "text": "Why did you do that?"
+    },
+    {
+      "id": 76,
+      "start": 352.3999938964844,
+      "end": 353.3999938964844,
+      "text": "Hi, Nicole."
+    },
+    {
+      "id": 77,
+      "start": 353.3999938964844,
+      "end": 355.67999267578125,
+      "text": "Thank you so much."
+    },
+    {
+      "id": 78,
+      "start": 355.7200012207031,
+      "end": 361.0799865722656,
+      "text": "First, I'm very happy our project finally launched in the spring, and I think it will"
+    },
+    {
+      "id": 79,
+      "start": 361.0799865722656,
+      "end": 363.0799865722656,
+      "text": "be a very successful project."
+    },
+    {
+      "id": 80,
+      "start": 363.0799865722656,
+      "end": 368,
+      "text": "To be honest, I used to be a very traditional banker."
+    },
+    {
+      "id": 81,
+      "start": 368,
+      "end": 371.8399963378906,
+      "text": "I have been working in Citibank and HSBC."
+    },
+    {
+      "id": 82,
+      "start": 371.8399963378906,
+      "end": 378.0400085449219,
+      "text": "Everyone knows those two are the top banks in the world for over 10 years."
+    },
+    {
+      "id": 83,
+      "start": 378.0400085449219,
+      "end": 385.32000732421875,
+      "text": "So I can fully feel that the traditional finance space is a big problem."
+    },
+    {
+      "id": 84,
+      "start": 385.32000732421875,
+      "end": 388.44000244140625,
+      "text": "It's really limited to the geography."
+    },
+    {
+      "id": 85,
+      "start": 388.44000244140625,
+      "end": 393.55999755859375,
+      "text": "Financial institutions mostly operate locally, and the building relationships with them can"
+    },
+    {
+      "id": 86,
+      "start": 393.55999755859375,
+      "end": 395.67999267578125,
+      "text": "be a very slow process."
+    },
+    {
+      "id": 87,
+      "start": 395.67999267578125,
+      "end": 400.79998779296875,
+      "text": "For example, you can think of the traditional system just like a network, either from the"
+    },
+    {
+      "id": 88,
+      "start": 400.79998779296875,
+      "end": 406.32000732421875,
+      "text": "companies, local backgrounds, tool drops, and the paper maps."
+    },
+    {
+      "id": 89,
+      "start": 406.32000732421875,
+      "end": 411.32000732421875,
+      "text": "Whenever you need to do something across the region, you want to cross the board like a"
+    },
+    {
+      "id": 90,
+      "start": 411.32000732421875,
+      "end": 412.32000732421875,
+      "text": "transaction."
+    },
+    {
+      "id": 91,
+      "start": 412.32000732421875,
+      "end": 417.1199951171875,
+      "text": "It becomes very slow, expensive, and it takes a really complicated routine."
+    },
+    {
+      "id": 92,
+      "start": 417.1199951171875,
+      "end": 423.79998779296875,
+      "text": "But what we are doing right now is building with the RWA and the blockchain model just"
+    },
+    {
+      "id": 93,
+      "start": 423.79998779296875,
+      "end": 432.3999938964844,
+      "text": "to create a completely new system, more like the blockchain is like a global highway network."
+    },
+    {
+      "id": 94,
+      "start": 432.3999938964844,
+      "end": 437.0400085449219,
+      "text": "The asset token is like a standardized container."
+    },
+    {
+      "id": 95,
+      "start": 437.0400085449219,
+      "end": 441.55999755859375,
+      "text": "And the smart contract is like autonomous driving rules."
+    },
+    {
+      "id": 96,
+      "start": 441.55999755859375,
+      "end": 449.67999267578125,
+      "text": "So through these rules, you can allow assets to flow globally in a way that is point-to-point,"
+    },
+    {
+      "id": 97,
+      "start": 449.67999267578125,
+      "end": 453.5199890136719,
+      "text": "efficient, low cost, and automated."
+    },
+    {
+      "id": 98,
+      "start": 453.5199890136719,
+      "end": 459.67999267578125,
+      "text": "The RWA project we are launching right now is leading the example of this shift."
+    },
+    {
+      "id": 99,
+      "start": 459.67999267578125,
+      "end": 466.0400085449219,
+      "text": "It takes infrastructure assets like EV battery swapping, our swapping and charging stations,"
+    },
+    {
+      "id": 100,
+      "start": 466.0400085449219,
+      "end": 472.44000244140625,
+      "text": "which were once restricted by location and had high investment barriers."
+    },
+    {
+      "id": 101,
+      "start": 472.44000244140625,
+      "end": 478.6000061035156,
+      "text": "You see the transformation into liquidated digit assets."
+    },
+    {
+      "id": 102,
+      "start": 478.6000061035156,
+      "end": 484.2799987792969,
+      "text": "This will help the individual investor from anywhere in the world can participate very"
+    },
+    {
+      "id": 103,
+      "start": 484.2799987792969,
+      "end": 485.2799987792969,
+      "text": "easily."
+    },
+    {
+      "id": 104,
+      "start": 485.2799987792969,
+      "end": 495.239990234375,
+      "text": "And additionally, you see, in the traditional way, investing in big energy projects like"
+    },
+    {
+      "id": 105,
+      "start": 495.44000244140625,
+      "end": 501.239990234375,
+      "text": "the energy grid was really only for the big players, banks, or energy giants."
+    },
+    {
+      "id": 106,
+      "start": 501.239990234375,
+      "end": 507.6000061035156,
+      "text": "It's important for individual investors, you can invest into this very industry."
+    },
+    {
+      "id": 107,
+      "start": 507.6000061035156,
+      "end": 512.8800048828125,
+      "text": "That's because, you know, controlling energy means controlling something really valuable."
+    },
+    {
+      "id": 108,
+      "start": 512.8800048828125,
+      "end": 519.1199951171875,
+      "text": "Right now, we actually already partnered with some of these major players like ICBC, the"
+    },
+    {
+      "id": 109,
+      "start": 519.1199951171875,
+      "end": 526.239990234375,
+      "text": "biggest bank of China, Bank of Communication Investment, Mitsubishi Sumito, which is the"
+    },
+    {
+      "id": 110,
+      "start": 526.239990234375,
+      "end": 533,
+      "text": "biggest financial institution in Japan, and the Thailand's third largest petroleum company,"
+    },
+    {
+      "id": 111,
+      "start": 533,
+      "end": 539.9199829101562,
+      "text": "Sosco, and many other major energy industry players to jointly develop infrastructure."
+    },
+    {
+      "id": 112,
+      "start": 539.9199829101562,
+      "end": 546.2000122070312,
+      "text": "So why we now bring these great assets into Web3?"
+    },
+    {
+      "id": 113,
+      "start": 546.280029296875,
+      "end": 555.47998046875,
+      "text": "Simply, Web3 and decentralization are the future, no turning back."
+    },
+    {
+      "id": 114,
+      "start": 555.47998046875,
+      "end": 563.6799926757812,
+      "text": "Even we are from the traditional finance company, by learning into it, Web3 will be the future."
+    },
+    {
+      "id": 115,
+      "start": 563.6799926757812,
+      "end": 568.1199951171875,
+      "text": "In fact, our platform already accepts stable coins for payment."
+    },
+    {
+      "id": 116,
+      "start": 569.1199951171875,
+      "end": 576.4400024414062,
+      "text": "Web3 team receives RWA offering and brings down these old barriers to energy investing."
+    },
+    {
+      "id": 117,
+      "start": 576.4400024414062,
+      "end": 584.47998046875,
+      "text": "Now, anyone can own a piece of real energy terminal, a charging and swapping station,"
+    },
+    {
+      "id": 118,
+      "start": 584.47998046875,
+      "end": 586.9199829101562,
+      "text": "through a charging and swapping station."
+    },
+    {
+      "id": 119,
+      "start": 586.9199829101562,
+      "end": 594.9199829101562,
+      "text": "Say my logistic pickup in Thailand, taxi in Portugal, or delivery truck in Italy."
+    },
+    {
+      "id": 120,
+      "start": 594.9199829101562,
+      "end": 600.1199951171875,
+      "text": "Think of it like this, each of these stations is like a node."
+    },
+    {
+      "id": 121,
+      "start": 600.1199951171875,
+      "end": 605.4000000953674,
+      "text": "is like a node. Together, they form a kind of invisible, borderless energy network across"
+    },
+    {
+      "id": 122,
+      "start": 605.4000000953674,
+      "end": 612.1999998092651,
+      "text": "the world. And that puts us in a very unique position to help shape how energy moves and"
+    },
+    {
+      "id": 123,
+      "start": 612.1999998092651,
+      "end": 620.3199996948242,
+      "text": "is used globally. Plus, I want to thank our existing network and partnership with oil"
+    },
+    {
+      "id": 124,
+      "start": 620.3199996948242,
+      "end": 627.0400009155273,
+      "text": "and gas companies. We have real world usage ready to go. That means investors won't just"
+    },
+    {
+      "id": 125,
+      "start": 627.0400009155273,
+      "end": 633.560001373291,
+      "text": "earn returns. They'll also get access to the real benefits down to the line, like charging"
+    },
+    {
+      "id": 126,
+      "start": 633.560001373291,
+      "end": 641.4000015258789,
+      "text": "credits, swap discounts, and the EV subsidy. Thank you, Nicole."
+    },
+    {
+      "id": 127,
+      "start": 641.4000015258789,
+      "end": 646.5999984741211,
+      "text": "Thank you. Thank you, Rebecca. I think your answer is very powerful. And it really highlights"
+    },
+    {
+      "id": 128,
+      "start": 646.5999984741211,
+      "end": 653.7999992370605,
+      "text": "like how RWA can transfer infrastructure from something local and logged into something"
+    },
+    {
+      "id": 129,
+      "start": 653.7999992370605,
+      "end": 661.7999992370605,
+      "text": "global, liquid, and programmable. So I think we also, maybe those audience, we also want"
+    },
+    {
+      "id": 130,
+      "start": 661.7999992370605,
+      "end": 668.2799987792969,
+      "text": "to learn something about PQE, like why your car choose the platform, like choose PQE."
+    },
+    {
+      "id": 131,
+      "start": 668.2799987792969,
+      "end": 675.3199996948242,
+      "text": "So I think this question, maybe Ryan, you can give the audience a perfect answer. So"
+    },
+    {
+      "id": 132,
+      "start": 675.3199996948242,
+      "end": 683.120002746582,
+      "text": "how do you think like the PQE as an infrastructure, especially for the RWA infrastructure, what"
+    },
+    {
+      "id": 133,
+      "start": 683.120002746582,
+      "end": 685.5599975585938,
+      "text": "are the advantages for those companies?"
+    },
+    {
+      "id": 134,
+      "start": 685.5599975585938,
+      "end": 692.7600021362305,
+      "text": "Yeah, so for PQE, there's a lot of RWA projects out there. However, we're trying to build"
+    },
+    {
+      "id": 135,
+      "start": 692.7600021362305,
+      "end": 697.7600021362305,
+      "text": "like the first fully integrated ecosystem that's beyond tokenization. What I mean is"
+    },
+    {
+      "id": 136,
+      "start": 697.7600021362305,
+      "end": 702.7200012207031,
+      "text": "that like we're not only like, you know, raising funds for UCAR or like, you know, tokenize"
+    },
+    {
+      "id": 137,
+      "start": 702.7200012207031,
+      "end": 708.879997253418,
+      "text": "UCAR as an asset. However, we're trying to fully transform businesses by consulting with"
+    },
+    {
+      "id": 138,
+      "start": 708.879997253418,
+      "end": 715.2399978637695,
+      "text": "them, providing solution with them, for them to have the convenience of like all Web3."
+    },
+    {
+      "id": 139,
+      "start": 715.2399978637695,
+      "end": 721.120002746582,
+      "text": "By, you know, first step is tokenize this thing that like people and UCAR users can"
+    },
+    {
+      "id": 140,
+      "start": 721.120002746582,
+      "end": 727.2400054931641,
+      "text": "become shareholders of UCAR and they can use the asset itself as a value to straight up"
+    },
+    {
+      "id": 141,
+      "start": 727.2400054931641,
+      "end": 732.5200042724609,
+      "text": "like pay for UCAR services. And they'll get also like more benefits and grow the business"
+    },
+    {
+      "id": 142,
+      "start": 732.5200042724609,
+      "end": 738.7599945068359,
+      "text": "for a long time. So it's not only like a RWA investment, it's investment plus utility"
+    },
+    {
+      "id": 143,
+      "start": 738.7599945068359,
+      "end": 745.0800018310547,
+      "text": "plus getting more customers. And it's a win-win for both the customers and the business itself."
+    },
+    {
+      "id": 144,
+      "start": 745.0800018310547,
+      "end": 752.3999938964844,
+      "text": "As people from UCAR, the users of UCAR and also, you know, Rebecca and Paul, the affiliates"
+    },
+    {
+      "id": 145,
+      "start": 752.3999938964844,
+      "end": 758.0399932861328,
+      "text": "with UCAR, they both get benefits. So we're trying to create this new way of like a fully"
+    },
+    {
+      "id": 146,
+      "start": 758.0399932861328,
+      "end": 765.0800018310547,
+      "text": "integrated ecosystem that not only is tokenization or RWA issuing, but however, like can be beneficial"
+    },
+    {
+      "id": 147,
+      "start": 765.1199951171875,
+      "end": 770.9600067138672,
+      "text": "for both the customers and the business itself to save costs and also provide the, you know,"
+    },
+    {
+      "id": 148,
+      "start": 770.9600067138672,
+      "end": 777.9600067138672,
+      "text": "the beneficials for UCAR users and give UCAR or MyShare to a broader global audiences."
+    },
+    {
+      "id": 149,
+      "start": 783.9600067138672,
+      "end": 788.9199981689453,
+      "text": "Thank you. Thank you, Rai. I think that's also a great perspective. And I think all"
+    },
+    {
+      "id": 150,
+      "start": 788.9199981689453,
+      "end": 794.3600006103516,
+      "text": "of the audience will know like PQA will help like those companies who want to like launch"
+    },
+    {
+      "id": 151,
+      "start": 794.3600006103516,
+      "end": 802.2799987792969,
+      "text": "their RWA and also why RWA I think also matters at a very important infrastructure level."
+    },
+    {
+      "id": 152,
+      "start": 802.2799987792969,
+      "end": 810.2400054931641,
+      "text": "So next, we also want to zoom in on the EV charging market itself. Like this question"
+    },
+    {
+      "id": 153,
+      "start": 810.2400054931641,
+      "end": 817.1199951171875,
+      "text": "will be for like Rebecca, especially when we come to pavement and segments. So Rebecca,"
+    },
+    {
+      "id": 154,
+      "start": 817.1199951171875,
+      "end": 822.6399993896484,
+      "text": "my next question for you is like, how do you think like when you're doing UCAR and also"
+    },
+    {
+      "id": 155,
+      "start": 822.7200012207031,
+      "end": 830.8000030517578,
+      "text": "especially in the EV charging pavement or in this ecosystem? I think, how do you think"
+    },
+    {
+      "id": 156,
+      "start": 830.8000030517578,
+      "end": 838.3999938964844,
+      "text": "like the biggest pay points today for this area and how does UCAR plan to solve this"
+    },
+    {
+      "id": 157,
+      "start": 838.3999938964844,
+      "end": 843.6000061035156,
+      "text": "question if you lend your RWA token and also doing something on chain?"
+    },
+    {
+      "id": 158,
+      "start": 845.5200042724609,
+      "end": 851.4400024414062,
+      "text": "Yeah, Nicole, here are some main issues we have seen. First up, the whole payment thing"
+    },
+    {
+      "id": 159,
+      "start": 851.5200042724609,
+      "end": 858,
+      "text": "is really fragmented. Most places are a mess of different charging network activities."
+    },
+    {
+      "id": 160,
+      "start": 858,
+      "end": 862.7200012207031,
+      "text": "That means you need a bunch of accounts, different payment methods, and you are dealing"
+    },
+    {
+      "id": 161,
+      "start": 862.7200012207031,
+      "end": 869.760009765625,
+      "text": "with separated loyalty programs everywhere. It's not smooth at all. Then, there are some"
+    },
+    {
+      "id": 162,
+      "start": 869.760009765625,
+      "end": 876.1600036621094,
+      "text": "high costs and a lot of complicated with cross-border transactions plus really slow and"
+    },
+    {
+      "id": 163,
+      "start": 876.1600036621094,
+      "end": 880.6400146484375,
+      "text": "clunky settlement and revenue sharing between all the different parties involved."
+    },
+    {
+      "id": 164,
+      "start": 881.4400024414062,
+      "end": 888.0799865722656,
+      "text": "All of this adds up to a pretty frustrating experience for the user and it really holds"
+    },
+    {
+      "id": 165,
+      "start": 888.0799865722656,
+      "end": 896.239990234375,
+      "text": "back wider adoption. So how is UCAR planning to tackle this? We are building a Web3-based"
+    },
+    {
+      "id": 166,
+      "start": 896.239990234375,
+      "end": 904.0799865722656,
+      "text": "ecosystem around two key things, real-world assets, RWA tokens, and our own dedicated"
+    },
+    {
+      "id": 167,
+      "start": 904.0799865722656,
+      "end": 910.3999938964844,
+      "text": "stable coin. Our stable coin will be used mainly to pay. It's attached to something"
+    },
+    {
+      "id": 168,
+      "start": 910.3999938964844,
+      "end": 915.760009765625,
+      "text": "stable like U.S. dollar, so there is no worry about the price swings when you are just buying"
+    },
+    {
+      "id": 169,
+      "start": 915.760009765625,
+      "end": 921.9200134277344,
+      "text": "a charge. This creates one universal payment layer that's super simple. It's basically"
+    },
+    {
+      "id": 170,
+      "start": 921.9200134277344,
+      "end": 928.7999877929688,
+      "text": "you just open our APP and you can use our RWA token to anywhere, to any charge in our"
+    },
+    {
+      "id": 171,
+      "start": 928.7999877929688,
+      "end": 938,
+      "text": "related parties. You can buy the charging service through use our token, our RWA token."
+    },
+    {
+      "id": 172,
+      "start": 938,
+      "end": 945.6799926757812,
+      "text": "So we will avoid any traditional multi-currency kind of payment, any different platform you"
+    },
+    {
+      "id": 173,
+      "start": 945.6799926757812,
+      "end": 950.5599975585938,
+      "text": "have to transfer. Just to make it easy, open the APP and do the charging."
+    },
+    {
+      "id": 174,
+      "start": 950.5599975585938,
+      "end": 962.9599914550781,
+      "text": "Hi, Nicole. Yes, yes, I'm here. Thank you. I think this is really a clear answer and"
+    },
+    {
+      "id": 175,
+      "start": 964.3999938964844,
+      "end": 971.6799926757812,
+      "text": "pretty like helped me a lot about this part. I think from the perspective about those users,"
+    },
+    {
+      "id": 176,
+      "start": 971.6799926757812,
+      "end": 977.4400024414062,
+      "text": "because there are a lot of audience also in our live stream. So I think if I am the user,"
+    },
+    {
+      "id": 177,
+      "start": 977.8399963378906,
+      "end": 985.0400085449219,
+      "text": "I want to participate in UCAR because you already have the RWA token. So if I want,"
+    },
+    {
+      "id": 178,
+      "start": 985.0400085449219,
+      "end": 994.1600036621094,
+      "text": "I am the user and I want to use UCAR RWA token to pay for the charging fee. So is there any"
+    },
+    {
+      "id": 179,
+      "start": 994.1600036621094,
+      "end": 1001.5199890136719,
+      "text": "difference when we compare to the traditional payment methods? So maybe you or Paul, you guys"
+    },
+    {
+      "id": 180,
+      "start": 1001.5199890136719,
+      "end": 1006.239990234375,
+      "text": "can choose one to answer this question. Yeah, I think it's a very important question for those"
+    },
+    {
+      "id": 181,
+      "start": 1006.239990234375,
+      "end": 1011.1199951171875,
+      "text": "users, especially for those who are pretty interested on UCAR. Yeah."
+    },
+    {
+      "id": 182,
+      "start": 1013.4400024414062,
+      "end": 1020.4800109863281,
+      "text": "Yeah, so I think I can take this one. So actually our token is like for the user,"
+    },
+    {
+      "id": 183,
+      "start": 1020.4800109863281,
+      "end": 1026.3200073242188,
+      "text": "the experience is as simple as typing their phone when paying with our tokens. It's really"
+    },
+    {
+      "id": 184,
+      "start": 1026.3200073242188,
+      "end": 1032.239990234375,
+      "text": "seamless and independent. I think the fundamental difference really lies in the relationship. So"
+    },
+    {
+      "id": 185,
+      "start": 1032.239990234375,
+      "end": 1036.5599975585938,
+      "text": "in the traditional model, you know, a user is just a customer. When they pay for energy,"
+    },
+    {
+      "id": 186,
+      "start": 1036.5599975585938,
+      "end": 1042.1600036621094,
+      "text": "the money actually leaves their pocket forever. But with our RWA model, we are introducing the"
+    },
+    {
+      "id": 187,
+      "start": 1042.1600036621094,
+      "end": 1047.760009765625,
+      "text": "concept of a dual role user. So our largest customers, largest fleets can also be token"
+    },
+    {
+      "id": 188,
+      "start": 1047.760009765625,
+      "end": 1052.7200012207031,
+      "text": "holders themselves. This means they are effectively owners of the infrastructure they use daily."
+    },
+    {
+      "id": 189,
+      "start": 1052.7200012207031,
+      "end": 1056.8800048828125,
+      "text": "When they pay for a battery swap for their vehicles and fleets, they actually contribute"
+    },
+    {
+      "id": 190,
+      "start": 1056.9599914550781,
+      "end": 1062.3999938964844,
+      "text": "to the network's revenue, which in turn benefits themselves as stakeholders. It transforms the"
+    },
+    {
+      "id": 191,
+      "start": 1062.3999938964844,
+      "end": 1068.9599914550781,
+      "text": "relationship between the fleet, so the clients, and you power from a zero-sum game into a shared"
+    },
+    {
+      "id": 192,
+      "start": 1068.9599914550781,
+      "end": 1074.5599975585938,
+      "text": "economy. Additionally, unlike credit cards, which take days to settle and charge high fees,"
+    },
+    {
+      "id": 193,
+      "start": 1074.5599975585938,
+      "end": 1080.3200073242188,
+      "text": "our first architecture settles transactions instantly on-chain. So we aren't really just"
+    },
+    {
+      "id": 194,
+      "start": 1080.9599914550781,
+      "end": 1086.5599975585938,
+      "text": "changing how they pay. We are really changing why they stay loyal to our network so that we"
+    },
+    {
+      "id": 195,
+      "start": 1086.5599975585938,
+      "end": 1097.0400085449219,
+      "text": "can grow it further. Yeah, yeah, yeah. I think this is pretty cool. Those users, instead of just"
+    },
+    {
+      "id": 196,
+      "start": 1097.0400085449219,
+      "end": 1105.2000122070312,
+      "text": "being a customer, when they hold a token, they can become the participants also in this"
+    },
+    {
+      "id": 197,
+      "start": 1105.2000122070312,
+      "end": 1112.3200073242188,
+      "text": "infrastructure itself. So I think the idea of instant and on-chain settlement, when we compare"
+    },
+    {
+      "id": 198,
+      "start": 1113.0399780273438,
+      "end": 1120.1599731445312,
+      "text": "with the traditional way like slow-fee, heavy-card payments, I think it really highlights why the"
+    },
+    {
+      "id": 199,
+      "start": 1121.0399780273438,
+      "end": 1129.4400024414062,
+      "text": "segment-first model makes sense for high-frequency or real-world usage. I think that's why also you"
+    },
+    {
+      "id": 200,
+      "start": 1129.4400024414062,
+      "end": 1136.239990234375,
+      "text": "guys will choose PQE as an infrastructure. Yeah, thanks. Thanks, Paul. Yeah, I think we can also"
+    },
+    {
+      "id": 201,
+      "start": 1136.3200073242188,
+      "end": 1142,
+      "text": "talk about, because when we mention the token, we can talk about the revenue and also"
+    },
+    {
+      "id": 202,
+      "start": 1142.719970703125,
+      "end": 1147.9199829101562,
+      "text": "the long-term development, because I think those users will also pay attention to this part. So,"
+    },
+    {
+      "id": 203,
+      "start": 1147.9199829101562,
+      "end": 1153.3599853515625,
+      "text": "Paul, may I invite you to also answer this question, like how is the UCAR rewards"
+    },
+    {
+      "id": 204,
+      "start": 1153.3599853515625,
+      "end": 1162.719970703125,
+      "text": "revenue linked to the RWA token, and what kind of long-term value, especially for those users"
+    },
+    {
+      "id": 205,
+      "start": 1162.719970703125,
+      "end": 1168.5599975585938,
+      "text": "who want to participate or who hold a token? Yeah, so actually we are planning to put a"
+    },
+    {
+      "id": 206,
+      "start": 1168.5599975585938,
+      "end": 1173.9199829101562,
+      "text": "portion of the earnings from our charging and swapping stations straight into our token's"
+    },
+    {
+      "id": 207,
+      "start": 1173.9199829101562,
+      "end": 1178.1599731445312,
+      "text": "treasury. So that way the token's value goes right along with our actual profits,"
+    },
+    {
+      "id": 208,
+      "start": 1178.8800048828125,
+      "end": 1184.5599975585938,
+      "text": "giving it a solid foundation from potential to rising price. And from what we are seeing in our"
+    },
+    {
+      "id": 209,
+      "start": 1184.5599975585938,
+      "end": 1189.280029296875,
+      "text": "operations so far, we have enough confidence to guarantee each swapping station delivering an"
+    },
+    {
+      "id": 210,
+      "start": 1189.280029296875,
+      "end": 1197.760009765625,
+      "text": "annual IR between 70% to 25%. And in high demand areas, that number can be even higher."
+    },
+    {
+      "id": 211,
+      "start": 1197.760009765625,
+      "end": 1198.079999923706,
+      "text": "and be even higher."
+    },
+    {
+      "id": 212,
+      "start": 1198.079999923706,
+      "end": 1201.920000076294,
+      "text": "Plus, as we spent every time we add around 50 stations,"
+    },
+    {
+      "id": 213,
+      "start": 1201.920000076294,
+      "end": 1204.6400003433228,
+      "text": "our overall revenue takes a noticeable jump forward."
+    },
+    {
+      "id": 214,
+      "start": 1204.6400003433228,
+      "end": 1206.2399997711182,
+      "text": "That's mainly because of two things."
+    },
+    {
+      "id": 215,
+      "start": 1206.2399997711182,
+      "end": 1208.7600002288818,
+      "text": "First, cost going down with skill,"
+    },
+    {
+      "id": 216,
+      "start": 1208.7600002288818,
+      "end": 1210.3599996566772,
+      "text": "by getting better prices of batteries"
+    },
+    {
+      "id": 217,
+      "start": 1210.3599996566772,
+      "end": 1212.0400009155273,
+      "text": "and spreading out maintenance costs."
+    },
+    {
+      "id": 218,
+      "start": 1212.0400009155273,
+      "end": 1214.2399997711182,
+      "text": "And secondly, network effects kicking in."
+    },
+    {
+      "id": 219,
+      "start": 1214.2399997711182,
+      "end": 1217.7999992370605,
+      "text": "Stations can share battery resources and user data,"
+    },
+    {
+      "id": 220,
+      "start": 1217.7999992370605,
+      "end": 1220.5,
+      "text": "making the whole system more efficient and valuable."
+    },
+    {
+      "id": 221,
+      "start": 1220.5,
+      "end": 1224.0200004577637,
+      "text": "OK."
+    },
+    {
+      "id": 222,
+      "start": 1224.0200004577637,
+      "end": 1226.2600002288818,
+      "text": "Cool, cool, cool."
+    },
+    {
+      "id": 223,
+      "start": 1226.2600002288818,
+      "end": 1227.9400005340576,
+      "text": "Yeah, thanks, Paul."
+    },
+    {
+      "id": 224,
+      "start": 1227.9400005340576,
+      "end": 1231.7000007629395,
+      "text": "So I think what stands out is the direct link"
+    },
+    {
+      "id": 225,
+      "start": 1231.7000007629395,
+      "end": 1238.2200012207031,
+      "text": "between the real operational performance and the token"
+    },
+    {
+      "id": 226,
+      "start": 1238.2200012207031,
+      "end": 1238.8199996948242,
+      "text": "value."
+    },
+    {
+      "id": 227,
+      "start": 1238.8199996948242,
+      "end": 1242.6199989318848,
+      "text": "So instead of the traditional narratives,"
+    },
+    {
+      "id": 228,
+      "start": 1242.6199989318848,
+      "end": 1245.2599983215332,
+      "text": "we are talking something like the cash flow back"
+    },
+    {
+      "id": 229,
+      "start": 1245.2599983215332,
+      "end": 1246.5,
+      "text": "infrastructure."
+    },
+    {
+      "id": 230,
+      "start": 1246.5,
+      "end": 1251.1399993896484,
+      "text": "And we can see the predictable returns, and also"
+    },
+    {
+      "id": 231,
+      "start": 1251.1399993896484,
+      "end": 1254.3800010681152,
+      "text": "the economies of scale, and also the strong network"
+    },
+    {
+      "id": 232,
+      "start": 1254.3800010681152,
+      "end": 1258.060001373291,
+      "text": "effects at the ecosystem, like when it's spending."
+    },
+    {
+      "id": 233,
+      "start": 1258.060001373291,
+      "end": 1262.0599975585938,
+      "text": "So I think also, like when we mentioned that,"
+    },
+    {
+      "id": 234,
+      "start": 1262.0599975585938,
+      "end": 1265.7399978637695,
+      "text": "like the scalability is always also a key concern"
+    },
+    {
+      "id": 235,
+      "start": 1265.7399978637695,
+      "end": 1270.3399963378906,
+      "text": "for those investors, especially your community,"
+    },
+    {
+      "id": 236,
+      "start": 1270.3399963378906,
+      "end": 1275.4199981689453,
+      "text": "those who want to pay something for the RWA tokens."
+    },
+    {
+      "id": 237,
+      "start": 1275.4199981689453,
+      "end": 1280.099998474121,
+      "text": "So I think this question will relate to the infrastructure"
+    },
+    {
+      "id": 238,
+      "start": 1280.099998474121,
+      "end": 1281.4599990844727,
+      "text": "we choose, like PQE."
+    },
+    {
+      "id": 239,
+      "start": 1281.4599990844727,
+      "end": 1288.379997253418,
+      "text": "So I think I want to ask, how does PQE,"
+    },
+    {
+      "id": 240,
+      "start": 1288.379997253418,
+      "end": 1290.6600036621094,
+      "text": "as a foundation or as an infrastructure,"
+    },
+    {
+      "id": 241,
+      "start": 1290.6600036621094,
+      "end": 1298.3000030517578,
+      "text": "how does it help those audiences to ensure the token is stable,"
+    },
+    {
+      "id": 242,
+      "start": 1298.3000030517578,
+      "end": 1304.1800003051758,
+      "text": "and we can try to mitigate the market dump,"
+    },
+    {
+      "id": 243,
+      "start": 1304.1800003051758,
+      "end": 1306.099998474121,
+      "text": "something like that?"
+    },
+    {
+      "id": 244,
+      "start": 1306.099998474121,
+      "end": 1309.2200012207031,
+      "text": "Maybe, Ryan, you can answer this question about PQE."
+    },
+    {
+      "id": 245,
+      "start": 1309.2200012207031,
+      "end": 1312.9400024414062,
+      "text": "Yeah, so PQE designed our mechanism specifically"
+    },
+    {
+      "id": 246,
+      "start": 1312.9400024414062,
+      "end": 1316.9400024414062,
+      "text": "for RWAs to prevent this problem from happening."
+    },
+    {
+      "id": 247,
+      "start": 1316.9400024414062,
+      "end": 1319.099998474121,
+      "text": "First of all, we have our floor price mechanism,"
+    },
+    {
+      "id": 248,
+      "start": 1319.099998474121,
+      "end": 1322.0199966430664,
+      "text": "which consists of the trading fee buybacks,"
+    },
+    {
+      "id": 249,
+      "start": 1322.0199966430664,
+      "end": 1324.2200012207031,
+      "text": "and also the yield return that's going"
+    },
+    {
+      "id": 250,
+      "start": 1324.2200012207031,
+      "end": 1325.6600036621094,
+      "text": "to be put into the pool."
+    },
+    {
+      "id": 251,
+      "start": 1325.6600036621094,
+      "end": 1328.4199981689453,
+      "text": "And for floor price, as people know,"
+    },
+    {
+      "id": 252,
+      "start": 1328.4199981689453,
+      "end": 1332.020004272461,
+      "text": "it's specifically locked for long-term investment,"
+    },
+    {
+      "id": 253,
+      "start": 1332.0599975585938,
+      "end": 1335.0599975585938,
+      "text": "so that the floor price will only go up"
+    },
+    {
+      "id": 254,
+      "start": 1335.0599975585938,
+      "end": 1340.4199981689453,
+      "text": "and for a stable investor return,"
+    },
+    {
+      "id": 255,
+      "start": 1340.4199981689453,
+      "end": 1343.740005493164,
+      "text": "and the price will never go below floor price, which"
+    },
+    {
+      "id": 256,
+      "start": 1343.740005493164,
+      "end": 1345.979995727539,
+      "text": "is specifically designed for RWAs."
+    },
+    {
+      "id": 257,
+      "start": 1345.979995727539,
+      "end": 1350.1399993896484,
+      "text": "It is because the RWAs have intrinsic value"
+    },
+    {
+      "id": 258,
+      "start": 1350.1399993896484,
+      "end": 1353.6199951171875,
+      "text": "that it has real revenue."
+    },
+    {
+      "id": 259,
+      "start": 1353.6199951171875,
+      "end": 1354.9400024414062,
+      "text": "It's different than meme coins."
+    },
+    {
+      "id": 260,
+      "start": 1354.9400024414062,
+      "end": 1360.8999938964844,
+      "text": "A lot of people think of Web3 as a lot of volatile or rock"
+    },
+    {
+      "id": 261,
+      "start": 1360.8999938964844,
+      "end": 1361.7799987792969,
+      "text": "pools."
+    },
+    {
+      "id": 262,
+      "start": 1361.7799987792969,
+      "end": 1364.1799926757812,
+      "text": "However, we're trying to change this."
+    },
+    {
+      "id": 263,
+      "start": 1364.1799926757812,
+      "end": 1369.8200073242188,
+      "text": "And by issuing RWAs with verified revenues"
+    },
+    {
+      "id": 264,
+      "start": 1369.8200073242188,
+      "end": 1373.259994506836,
+      "text": "and having the floor price mechanism,"
+    },
+    {
+      "id": 265,
+      "start": 1373.259994506836,
+      "end": 1375.3800048828125,
+      "text": "we prevent this from happening."
+    },
+    {
+      "id": 266,
+      "start": 1375.3800048828125,
+      "end": 1381.1399993896484,
+      "text": "And moreover, I believe that if you want to get the yield"
+    },
+    {
+      "id": 267,
+      "start": 1381.1399993896484,
+      "end": 1386.3800048828125,
+      "text": "return and get the real revenue, as a smart investor,"
+    },
+    {
+      "id": 268,
+      "start": 1386.3800048828125,
+      "end": 1390.020004272461,
+      "text": "I wouldn't sell it or just well dump it."
+    },
+    {
+      "id": 269,
+      "start": 1390.1399993896484,
+      "end": 1394.1399993896484,
+      "text": "However, holding it long-term to get the benefits as a UCAR"
+    },
+    {
+      "id": 270,
+      "start": 1394.1399993896484,
+      "end": 1397.4600067138672,
+      "text": "shareholder or token holder to get the benefits"
+    },
+    {
+      "id": 271,
+      "start": 1397.4600067138672,
+      "end": 1402.2200012207031,
+      "text": "with the real utility and also hold it for long-term return"
+    },
+    {
+      "id": 272,
+      "start": 1402.2200012207031,
+      "end": 1404.740005493164,
+      "text": "is a smart way for investors, too."
+    },
+    {
+      "id": 273,
+      "start": 1404.740005493164,
+      "end": 1407.6199951171875,
+      "text": "However, the whole PickWay ecosystem"
+    },
+    {
+      "id": 274,
+      "start": 1407.6199951171875,
+      "end": 1410.0599975585938,
+      "text": "is designed specifically for RWAs,"
+    },
+    {
+      "id": 275,
+      "start": 1410.0599975585938,
+      "end": 1413.6999969482422,
+      "text": "and the floor price is specific for this."
+    },
+    {
+      "id": 276,
+      "start": 1413.6999969482422,
+      "end": 1416.3399963378906,
+      "text": "Thank you, Nicole."
+    },
+    {
+      "id": 277,
+      "start": 1416.3399963378906,
+      "end": 1417.0599975585938,
+      "text": "Thank you."
+    },
+    {
+      "id": 278,
+      "start": 1417.0599975585938,
+      "end": 1418.259994506836,
+      "text": "Thank you."
+    },
+    {
+      "id": 279,
+      "start": 1418.259994506836,
+      "end": 1419.020004272461,
+      "text": "Thank you, Ryan."
+    },
+    {
+      "id": 280,
+      "start": 1419.020004272461,
+      "end": 1421.6999969482422,
+      "text": "I think that's a very important point."
+    },
+    {
+      "id": 281,
+      "start": 1421.6999969482422,
+      "end": 1427.6600036621094,
+      "text": "If we have a proper insurance framework and a complex layer"
+    },
+    {
+      "id": 282,
+      "start": 1427.6600036621094,
+      "end": 1430.1000061035156,
+      "text": "and also a settlement infrastructure,"
+    },
+    {
+      "id": 283,
+      "start": 1430.1000061035156,
+      "end": 1433.5,
+      "text": "I think this is very, very essential,"
+    },
+    {
+      "id": 284,
+      "start": 1433.5,
+      "end": 1437.0599975585938,
+      "text": "especially when we're talking something about RWAs."
+    },
+    {
+      "id": 285,
+      "start": 1437.0599975585938,
+      "end": 1442.3000030517578,
+      "text": "RWAs are meant to be a long-term financial infrastructure,"
+    },
+    {
+      "id": 286,
+      "start": 1442.3000030517578,
+      "end": 1445.8200073242188,
+      "text": "and we don't want something that's short-term."
+    },
+    {
+      "id": 287,
+      "start": 1445.8600006103516,
+      "end": 1452.8200073242188,
+      "text": "So I think RWA sits at a very, very interesting intersection."
+    },
+    {
+      "id": 288,
+      "start": 1452.8200073242188,
+      "end": 1459.6600036621094,
+      "text": "So how do you think those UCAR RWAs"
+    },
+    {
+      "id": 289,
+      "start": 1459.6600036621094,
+      "end": 1466.5400085449219,
+      "text": "to try to attract those crypto-related users"
+    },
+    {
+      "id": 290,
+      "start": 1466.5400085449219,
+      "end": 1470.4599914550781,
+      "text": "and also when still delivering some value to those users"
+    },
+    {
+      "id": 291,
+      "start": 1470.4599914550781,
+      "end": 1472.9800109863281,
+      "text": "in the real energy economy?"
+    },
+    {
+      "id": 292,
+      "start": 1472.9800109863281,
+      "end": 1475.6199951171875,
+      "text": "I think it's very challenging"
+    },
+    {
+      "id": 293,
+      "start": 1475.6199951171875,
+      "end": 1479.6199951171875,
+      "text": "because we need to combine Web3 users"
+    },
+    {
+      "id": 294,
+      "start": 1479.6199951171875,
+      "end": 1483.6600036621094,
+      "text": "and also we need to combine the traditional users."
+    },
+    {
+      "id": 295,
+      "start": 1483.6600036621094,
+      "end": 1485.8599853515625,
+      "text": "We want to just put them together."
+    },
+    {
+      "id": 296,
+      "start": 1485.8599853515625,
+      "end": 1490.739990234375,
+      "text": "I think it's a little challenging."
+    },
+    {
+      "id": 297,
+      "start": 1490.739990234375,
+      "end": 1493.1400146484375,
+      "text": "So, Paul, how do you think that?"
+    },
+    {
+      "id": 298,
+      "start": 1493.1400146484375,
+      "end": 1496.8999938964844,
+      "text": "What's your answer about that?"
+    },
+    {
+      "id": 299,
+      "start": 1496.8999938964844,
+      "end": 1497.5400085449219,
+      "text": "Yeah, definitely."
+    },
+    {
+      "id": 300,
+      "start": 1497.5400085449219,
+      "end": 1499.8599853515625,
+      "text": "So they all get two folds of benefits."
+    },
+    {
+      "id": 301,
+      "start": 1499.8999938964844,
+      "end": 1504.2999877929688,
+      "text": "So firstly, as I mentioned earlier in my response,"
+    },
+    {
+      "id": 302,
+      "start": 1504.2999877929688,
+      "end": 1507.7000122070312,
+      "text": "our RWA investors will be able to receive financial returns"
+    },
+    {
+      "id": 303,
+      "start": 1507.7000122070312,
+      "end": 1512.7000122070312,
+      "text": "from our tokens while also using it as a payment option."
+    },
+    {
+      "id": 304,
+      "start": 1512.7000122070312,
+      "end": 1515.5,
+      "text": "And secondly, they could also enjoy"
+    },
+    {
+      "id": 305,
+      "start": 1515.5,
+      "end": 1517.7000122070312,
+      "text": "practical offline benefits,"
+    },
+    {
+      "id": 306,
+      "start": 1517.7000122070312,
+      "end": 1521.1799926757812,
+      "text": "and these include perks such as free charging privileges,"
+    },
+    {
+      "id": 307,
+      "start": 1521.1799926757812,
+      "end": 1522.7000122070312,
+      "text": "battery swapping rights,"
+    },
+    {
+      "id": 308,
+      "start": 1522.7000122070312,
+      "end": 1526.3399963378906,
+      "text": "and discounts on purchases from over a dozen"
+    },
+    {
+      "id": 309,
+      "start": 1526.3399963378906,
+      "end": 1529.8599853515625,
+      "text": "of new energy vehicle brands we have partnered with."
+    },
+    {
+      "id": 310,
+      "start": 1529.8599853515625,
+      "end": 1531.2999877929688,
+      "text": "And particularly in markets,"
+    },
+    {
+      "id": 311,
+      "start": 1531.2999877929688,
+      "end": 1535.3800048828125,
+      "text": "we have yet to enter investors in those regions"
+    },
+    {
+      "id": 312,
+      "start": 1535.3800048828125,
+      "end": 1537.8999938964844,
+      "text": "while gaining priority access to our partner network."
+    },
+    {
+      "id": 313,
+      "start": 1537.8999938964844,
+      "end": 1540.739990234375,
+      "text": "And moreover, to express our gratitude to early investors"
+    },
+    {
+      "id": 314,
+      "start": 1540.739990234375,
+      "end": 1542.7799987792969,
+      "text": "in those untapped markets"
+    },
+    {
+      "id": 315,
+      "start": 1542.7799987792969,
+      "end": 1546.4200134277344,
+      "text": "will offer even more substantial benefits to them."
+    },
+    {
+      "id": 316,
+      "start": 1546.4200134277344,
+      "end": 1549.8999938964844,
+      "text": "So, yeah."
+    },
+    {
+      "id": 317,
+      "start": 1549.8999938964844,
+      "end": 1551.2999877929688,
+      "text": "Thank you. Thank you, Paul."
+    },
+    {
+      "id": 318,
+      "start": 1551.3399963378906,
+      "end": 1556.9800109863281,
+      "text": "I think that's a great example for RWA"
+    },
+    {
+      "id": 319,
+      "start": 1556.9800109863281,
+      "end": 1559.5400085449219,
+      "text": "going beyond financial returns"
+    },
+    {
+      "id": 320,
+      "start": 1559.5400085449219,
+      "end": 1562.0199890136719,
+      "text": "because we combine the on-chain participation"
+    },
+    {
+      "id": 321,
+      "start": 1562.0199890136719,
+      "end": 1564.8999938964844,
+      "text": "with the real-world unity,"
+    },
+    {
+      "id": 322,
+      "start": 1564.8999938964844,
+      "end": 1567.2999877929688,
+      "text": "and also charging credits,"
+    },
+    {
+      "id": 323,
+      "start": 1567.2999877929688,
+      "end": 1570.7000122070312,
+      "text": "and also something swap, also discounts."
+    },
+    {
+      "id": 324,
+      "start": 1570.7000122070312,
+      "end": 1575.3399963378906,
+      "text": "So I think you guys are creating a very booming ecosystem"
+    },
+    {
+      "id": 325,
+      "start": 1575.3399963378906,
+      "end": 1580.1400146484375,
+      "text": "that appeals to both Web3 users and also traditional EV users."
+    },
+    {
+      "id": 326,
+      "start": 1580.1400146484375,
+      "end": 1584.7000122070312,
+      "text": "But also, this question, we also want to throw it to Ryan"
+    },
+    {
+      "id": 327,
+      "start": 1584.7000122070312,
+      "end": 1588.2200012207031,
+      "text": "because from the PQE side,"
+    },
+    {
+      "id": 328,
+      "start": 1588.2200012207031,
+      "end": 1590.9800109863281,
+      "text": "because you are guys doing something"
+    },
+    {
+      "id": 329,
+      "start": 1590.9800109863281,
+      "end": 1592.9800109863281,
+      "text": "very, very amazing in the Web3."
+    },
+    {
+      "id": 330,
+      "start": 1592.9800109863281,
+      "end": 1596.2200012207031,
+      "text": "So how does PQE help UCAR"
+    },
+    {
+      "id": 331,
+      "start": 1596.2200012207031,
+      "end": 1599.8200073242188,
+      "text": "to extend the global branding"
+    },
+    {
+      "id": 332,
+      "start": 1599.8200073242188,
+      "end": 1603.3399963378906,
+      "text": "and also grow its user base"
+    },
+    {
+      "id": 333,
+      "start": 1603.3399963378906,
+      "end": 1607.0599975585938,
+      "text": "to attract as many as possible Web3 users"
+    },
+    {
+      "id": 334,
+      "start": 1607.0599975585938,
+      "end": 1609.2999877929688,
+      "text": "for those of UCAR's range?"
+    },
+    {
+      "id": 335,
+      "start": 1609.2999877929688,
+      "end": 1612.1799926757812,
+      "text": "So could you share some insights about that?"
+    },
+    {
+      "id": 336,
+      "start": 1612.1799926757812,
+      "end": 1613.4599914550781,
+      "text": "Yeah. Yeah, definitely."
+    },
+    {
+      "id": 337,
+      "start": 1613.4599914550781,
+      "end": 1616.5799865722656,
+      "text": "So I think it's a great metaphor"
+    },
+    {
+      "id": 338,
+      "start": 1616.5799865722656,
+      "end": 1618.2200012207031,
+      "text": "that was a little bit ambitious"
+    },
+    {
+      "id": 339,
+      "start": 1618.2200012207031,
+      "end": 1621.0199890136719,
+      "text": "that we compare ourselves to Amazon,"
+    },
+    {
+      "id": 340,
+      "start": 1621.0199890136719,
+      "end": 1625.2200012207031,
+      "text": "where back in the Web2 rush,"
+    },
+    {
+      "id": 341,
+      "start": 1625.2200012207031,
+      "end": 1626.5400085449219,
+      "text": "back in 20 years ago,"
+    },
+    {
+      "id": 342,
+      "start": 1628.5,
+      "end": 1630.260009765625,
+      "text": "Amazon helped numerous businesses"
+    },
+    {
+      "id": 343,
+      "start": 1630.260009765625,
+      "end": 1632.4200134277344,
+      "text": "to grow their global audiences."
+    },
+    {
+      "id": 344,
+      "start": 1633.5799865722656,
+      "end": 1635.739990234375,
+      "text": "Imagine this, back then,"
+    },
+    {
+      "id": 345,
+      "start": 1635.739990234375,
+      "end": 1639.7799987792969,
+      "text": "people only had to go to local shops to buy stuff,"
+    },
+    {
+      "id": 346,
+      "start": 1639.7799987792969,
+      "end": 1641.7799987792969,
+      "text": "local clothing shops to buy clothes."
+    },
+    {
+      "id": 347,
+      "start": 1641.7799987792969,
+      "end": 1643.8999938964844,
+      "text": "And however, Amazon changed this."
+    },
+    {
+      "id": 348,
+      "start": 1643.8999938964844,
+      "end": 1646.4200134277344,
+      "text": "It allowed global audiences to buy stuff,"
+    },
+    {
+      "id": 349,
+      "start": 1646.4200134277344,
+      "end": 1649.6600036621094,
+      "text": "even from overseas, and stuff from cities,"
+    },
+    {
+      "id": 350,
+      "start": 1649.6600036621094,
+      "end": 1653.7000122070312,
+      "text": "with shipping, online payment, all that stuff, as ecosystem."
+    },
+    {
+      "id": 351,
+      "start": 1653.7000122070312,
+      "end": 1655.5400085449219,
+      "text": "And PQE is trying to do the same thing."
+    },
+    {
+      "id": 352,
+      "start": 1655.5400085449219,
+      "end": 1657.4599914550781,
+      "text": "We're trying to build the RWA ecosystem"
+    },
+    {
+      "id": 353,
+      "start": 1657.4599914550781,
+      "end": 1662.1400146484375,
+      "text": "where we allow the transition from Web2 to Web3"
+    },
+    {
+      "id": 354,
+      "start": 1662.1400146484375,
+      "end": 1664.6600036621094,
+      "text": "that all these RWA businesses"
+    },
+    {
+      "id": 355,
+      "start": 1664.6600036621094,
+      "end": 1666.4200134277344,
+      "text": "to grow global audiences"
+    },
+    {
+      "id": 356,
+      "start": 1667.5400085449219,
+      "end": 1670.0599975585938,
+      "text": "within and beyond the Web3 world."
+    },
+    {
+      "id": 357,
+      "start": 1670.0599975585938,
+      "end": 1673.3399963378906,
+      "text": "So basically, as the token goes up,"
+    },
+    {
+      "id": 358,
+      "start": 1673.3399963378906,
+      "end": 1678.3399963378906,
+      "text": "or as we arouse the attention within the Web3 world,"
+    },
+    {
+      "id": 359,
+      "start": 1678.5799865722656,
+      "end": 1680.9400024414062,
+      "text": "more and more people is gonna know about UCAR."
+    },
+    {
+      "id": 360,
+      "start": 1680.9400024414062,
+      "end": 1682.5400085449219,
+      "text": "And more and more people is gonna know"
+    },
+    {
+      "id": 361,
+      "start": 1682.5400085449219,
+      "end": 1686.7000122070312,
+      "text": "about the importance and utility by owning a UCAR token."
+    },
+    {
+      "id": 362,
+      "start": 1686.7000122070312,
+      "end": 1690.260009765625,
+      "text": "So it's not just local audiences anymore."
+    },
+    {
+      "id": 363,
+      "start": 1690.260009765625,
+      "end": 1692.2200012207031,
+      "text": "However, it's a global market where,"
+    },
+    {
+      "id": 364,
+      "start": 1693.2200012207031,
+      "end": 1695.8599853515625,
+      "text": "I guess, just growing the audience base"
+    },
+    {
+      "id": 365,
+      "start": 1695.8599853515625,
+      "end": 1697.7000122070312,
+      "text": "that hasn't reached before."
+    },
+    {
+      "id": 366,
+      "start": 1697.7000122070312,
+      "end": 1701.6199951171875,
+      "text": "It's a new audiences, new target customers."
+    },
+    {
+      "id": 367,
+      "start": 1701.6199951171875,
+      "end": 1705.2999877929688,
+      "text": "And that's what UCAR and also PQE"
+    },
+    {
+      "id": 368,
+      "start": 1705.2999877929688,
+      "end": 1706.260009765625,
+      "text": "is trying to do together."
+    },
+    {
+      "id": 369,
+      "start": 1706.260009765625,
+      "end": 1707.1000061035156,
+      "text": "Thank you."
+    },
+    {
+      "id": 370,
+      "start": 1709.02001953125,
+      "end": 1710.5399780273438,
+      "text": "Thank you, thank you, Roy."
+    },
+    {
+      "id": 371,
+      "start": 1710.5399780273438,
+      "end": 1712.5399780273438,
+      "text": "I think the global distribution"
+    },
+    {
+      "id": 372,
+      "start": 1712.5399780273438,
+      "end": 1716.2999877929688,
+      "text": "and feasibility piece is the key."
+    },
+    {
+      "id": 373,
+      "start": 1716.2999877929688,
+      "end": 1718.4199829101562,
+      "text": "So RWA only works at a scale"
+    },
+    {
+      "id": 374,
+      "start": 1718.4199829101562,
+      "end": 1721.739990234375,
+      "text": "when the infrastructure support cross-border"
+    },
+    {
+      "id": 375,
+      "start": 1722.1400146484375,
+      "end": 1723.0999755859375,
+      "text": "participation."
+    },
+    {
+      "id": 376,
+      "start": 1723.0999755859375,
+      "end": 1727.739990234375,
+      "text": "And we all know that it's very clear"
+    },
+    {
+      "id": 377,
+      "start": 1727.739990234375,
+      "end": 1732.5,
+      "text": "that PQE is positioning itself exactly there."
+    },
+    {
+      "id": 378,
+      "start": 1732.5,
+      "end": 1735.4199829101562,
+      "text": "So, but for user watching today,"
+    },
+    {
+      "id": 379,
+      "start": 1735.4199829101562,
+      "end": 1738.5399780273438,
+      "text": "I think this question is very also important,"
+    },
+    {
+      "id": 380,
+      "start": 1738.5399780273438,
+      "end": 1740.4600219726562,
+      "text": "like how they can participate"
+    },
+    {
+      "id": 381,
+      "start": 1740.4600219726562,
+      "end": 1744.02001953125,
+      "text": "if they are pretty interested in the UCAR ecosystem."
+    },
+    {
+      "id": 382,
+      "start": 1744.02001953125,
+      "end": 1747.739990234375,
+      "text": "And what benefits, what extra benefits"
+    },
+    {
+      "id": 383,
+      "start": 1747.739990234375,
+      "end": 1750.9400024414062,
+      "text": "they can do, they receive,"
+    },
+    {
+      "id": 384,
+      "start": 1751.260009765625,
+      "end": 1754.9400024414062,
+      "text": "if they want to join the PQE"
+    },
+    {
+      "id": 385,
+      "start": 1754.9400024414062,
+      "end": 1756.8599853515625,
+      "text": "or UCAR ecosystem now."
+    },
+    {
+      "id": 386,
+      "start": 1756.8599853515625,
+      "end": 1758.8200073242188,
+      "text": "So maybe Paul and Rebecca,"
+    },
+    {
+      "id": 387,
+      "start": 1758.8200073242188,
+      "end": 1761.5800170898438,
+      "text": "you guys can answer this question,"
+    },
+    {
+      "id": 388,
+      "start": 1761.5800170898438,
+      "end": 1763.5,
+      "text": "like for those users."
+    },
+    {
+      "id": 389,
+      "start": 1764.739990234375,
+      "end": 1765.8200073242188,
+      "text": "Yeah, I can take this one."
+    },
+    {
+      "id": 390,
+      "start": 1765.8200073242188,
+      "end": 1769.4600219726562,
+      "text": "So regarding participation,"
+    },
+    {
+      "id": 391,
+      "start": 1769.4600219726562,
+      "end": 1773.219970703125,
+      "text": "our token just got launched through PQE's platform"
+    },
+    {
+      "id": 392,
+      "start": 1773.219970703125,
+      "end": 1774.0599975585938,
+      "text": "on January 20th."
+    },
+    {
+      "id": 393,
+      "start": 1774.0599975585938,
+      "end": 1776.780029296875,
+      "text": "So any interested investor could already go there"
+    },
+    {
+      "id": 394,
+      "start": 1776.780029296875,
+      "end": 1778.6199951171875,
+      "text": "and then start investing."
+    },
+    {
+      "id": 395,
+      "start": 1779.6199951171875,
+      "end": 1780.8200073242188,
+      "text": "And then regarding benefits,"
+    },
+    {
+      "id": 396,
+      "start": 1780.8200073242188,
+      "end": 1781.9400024414062,
+      "text": "as I already mentioned,"
+    },
+    {
+      "id": 397,
+      "start": 1781.9400024414062,
+      "end": 1785.5399780273438,
+      "text": "there will be a lot of practical offline benefits"
+    },
+    {
+      "id": 398,
+      "start": 1785.5399780273438,
+      "end": 1789.1400146484375,
+      "text": "for our investors, such as charting credits,"
+    },
+    {
+      "id": 399,
+      "start": 1789.1400146484375,
+      "end": 1791.7000122070312,
+      "text": "value-added privileges, and discounts"
+    },
+    {
+      "id": 400,
+      "start": 1791.7000122070312,
+      "end": 1793.739990234375,
+      "text": "from our EV partners."
+    },
+    {
+      "id": 401,
+      "start": 1793.739990234375,
+      "end": 1795.4600219726562,
+      "text": "And then in those pet markets,"
+    },
+    {
+      "id": 402,
+      "start": 1795.4600219726562,
+      "end": 1799.3800048828125,
+      "text": "they may also be able to participate in the PQE ecosystem."
+    },
+    {
+      "id": 403,
+      "start": 1799.3800048828125,
+      "end": 1802.1400146484375,
+      "text": "So I think that's pretty much it for today."
+    },
+    {
+      "id": 404,
+      "start": 1802.1400146484375,
+      "end": 1802.97998046875,
+      "text": "Thank you."
+    },
+    {
+      "id": 405,
+      "start": 1802.97998046875,
+      "end": 1803.8200073242188,
+      "text": "Thank you."
+    },
+    {
+      "id": 406,
+      "start": 1803.8200073242188,
+      "end": 1804.6599731445312,
+      "text": "Thank you."
+    },
+    {
+      "id": 407,
+      "start": 1804.6599731445312,
+      "end": 1805.5,
+      "text": "Thank you."
+    },
+    {
+      "id": 408,
+      "start": 1805.5,
+      "end": 1806.3400268554688,
+      "text": "Thank you."
+    },
+    {
+      "id": 409,
+      "start": 1806.3400268554688,
+      "end": 1807.1799926757812,
+      "text": "Thank you."
+    },
+    {
+      "id": 410,
+      "start": 1807.1799926757812,
+      "end": 1808.02001953125,
+      "text": "Thank you."
+    },
+    {
+      "id": 411,
+      "start": 1808.02001953125,
+      "end": 1809.2799997329712,
+      "text": "Okay, okay, got it."
+    },
+    {
+      "id": 412,
+      "start": 1809.2799997329712,
+      "end": 1816.920000076294,
+      "text": "So early participation, I think, plays a big role, but if you guys, as you guys will expand"
+    },
+    {
+      "id": 413,
+      "start": 1816.920000076294,
+      "end": 1823.3999996185303,
+      "text": "in the market in the future, so we will get more benefits when you guys have more clear"
+    },
+    {
+      "id": 414,
+      "start": 1823.3999996185303,
+      "end": 1824.3999996185303,
+      "text": "plan about that, right?"
+    },
+    {
+      "id": 415,
+      "start": 1824.3999996185303,
+      "end": 1825.3999996185303,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "id": 416,
+      "start": 1825.3999996185303,
+      "end": 1828.400001525879,
+      "text": "So all of those will be coming, yeah, yeah, yeah."
+    },
+    {
+      "id": 417,
+      "start": 1828.400001525879,
+      "end": 1829.400001525879,
+      "text": "Okay, great."
+    },
+    {
+      "id": 418,
+      "start": 1829.400001525879,
+      "end": 1834.6800003051758,
+      "text": "I think that this will, like, give some hope for those users and will also, like, create"
+    },
+    {
+      "id": 419,
+      "start": 1834.6800003051758,
+      "end": 1840.4799995422363,
+      "text": "a strong alignment between users and future market growth, so that's very important, yeah."
+    },
+    {
+      "id": 420,
+      "start": 1840.4799995422363,
+      "end": 1846.840000152588,
+      "text": "So let's also zoom, like, out one last time, like, Rebecca, I have a question for you also,"
+    },
+    {
+      "id": 421,
+      "start": 1846.840000152588,
+      "end": 1855,
+      "text": "like, how do you think, like, UCAR is efficient, because when you guys jump into the RWA, and"
+    },
+    {
+      "id": 422,
+      "start": 1855,
+      "end": 1859.7200012207031,
+      "text": "how do you think that, how do you think, like, UCAR, if you feel, like, the long-term role"
+    },
+    {
+      "id": 423,
+      "start": 1859.7200012207031,
+      "end": 1864.6800003051758,
+      "text": "of RWA in the future financial system?"
+    },
+    {
+      "id": 424,
+      "start": 1864.6800003051758,
+      "end": 1874.4400024414062,
+      "text": "Actually, we think the RWA will be the revolution of the financial system, and it's very exciting"
+    },
+    {
+      "id": 425,
+      "start": 1874.4400024414062,
+      "end": 1877.7600021362305,
+      "text": "that we can be at the forefront of this change."
+    },
+    {
+      "id": 426,
+      "start": 1877.7600021362305,
+      "end": 1884.6800003051758,
+      "text": "You see, RWA is not just about putting assets on trend, it's about unlocking and restructuring"
+    },
+    {
+      "id": 427,
+      "start": 1884.6800003051758,
+      "end": 1893.4400024414062,
+      "text": "liquidity, automating processing, and integrating ecosystems, or to rebuild financial infrastructure"
+    },
+    {
+      "id": 428,
+      "start": 1893.4400024414062,
+      "end": 1902.6399993896484,
+      "text": "in terms of efficiency, inclusion, and innovation, and with the regulation mature and the technology"
+    },
+    {
+      "id": 429,
+      "start": 1902.8399963378906,
+      "end": 1909.599998474121,
+      "text": "become more interoperable, RWA is set to become the key bridge linking the real economy with"
+    },
+    {
+      "id": 430,
+      "start": 1909.599998474121,
+      "end": 1910.599998474121,
+      "text": "digital finance."
+    },
+    {
+      "id": 431,
+      "start": 1910.599998474121,
+      "end": 1917.2799987792969,
+      "text": "It will help move global capital allocation towards to a future that's more efficient,"
+    },
+    {
+      "id": 432,
+      "start": 1917.2799987792969,
+      "end": 1920.879997253418,
+      "text": "more transparent, and more inclusive."
+    },
+    {
+      "id": 433,
+      "start": 1920.879997253418,
+      "end": 1928.6399993896484,
+      "text": "And the most important role, also, RWA opens up a high-value investment to the individual"
+    },
+    {
+      "id": 434,
+      "start": 1928.6399993896484,
+      "end": 1929.6399993896484,
+      "text": "investor."
+    },
+    {
+      "id": 435,
+      "start": 1929.6399993896484,
+      "end": 1938.1199951171875,
+      "text": "It allows every investor to own a piece of high-value or exclusive assets in the previously"
+    },
+    {
+      "id": 436,
+      "start": 1938.1199951171875,
+      "end": 1939.1199951171875,
+      "text": "out of reach."
+    },
+    {
+      "id": 437,
+      "start": 1939.1199951171875,
+      "end": 1944.8800048828125,
+      "text": "They cannot reach in the before, and to do it at a much lower cost."
+    },
+    {
+      "id": 438,
+      "start": 1944.8800048828125,
+      "end": 1951.3600006103516,
+      "text": "Think of it like being able, you can invest in just a 1% of a commercial building, or"
+    },
+    {
+      "id": 439,
+      "start": 1951.3600006103516,
+      "end": 1955.6799926757812,
+      "text": "in an energy grid, without needing to buy the whole thing."
+    },
+    {
+      "id": 440,
+      "start": 1955.6799926757812,
+      "end": 1960.6799926757812,
+      "text": "It cannot be affordable for an individual to buy the whole thing, but you can participate"
+    },
+    {
+      "id": 441,
+      "start": 1960.6799926757812,
+      "end": 1966,
+      "text": "in this exclusive, very high-value asset."
+    },
+    {
+      "id": 442,
+      "start": 1966,
+      "end": 1973.0800018310547,
+      "text": "And we think RWA will be the bridge between the real economy and the digital economy."
+    },
+    {
+      "id": 443,
+      "start": 1973.0800018310547,
+      "end": 1978.6399993896484,
+      "text": "For company, for UCAR, this is about the efficiency and the cost of saving."
+    },
+    {
+      "id": 444,
+      "start": 1978.6399993896484,
+      "end": 1985.6399993896484,
+      "text": "We are moving away from a world where assets are set idle on a balance sheet to a world"
+    },
+    {
+      "id": 445,
+      "start": 1986.6000061035156,
+      "end": 1992.6000061035156,
+      "text": "where every piece of infrastructure is a liquid, programmable financial instrument."
+    },
+    {
+      "id": 446,
+      "start": 1992.6000061035156,
+      "end": 2000.0800018310547,
+      "text": "We are not just issuing tokens, we are creating a new operation system for the heavy industry."
+    },
+    {
+      "id": 447,
+      "start": 2000.0800018310547,
+      "end": 2001.0800018310547,
+      "text": "Thank you."
+    },
+    {
+      "id": 448,
+      "start": 2001.0800018310547,
+      "end": 2002.0800018310547,
+      "text": "Nicole."
+    },
+    {
+      "id": 449,
+      "start": 2002.0800018310547,
+      "end": 2003.0800018310547,
+      "text": "Thank you."
+    },
+    {
+      "id": 450,
+      "start": 2003.0800018310547,
+      "end": 2004.0800018310547,
+      "text": "Thank you, Rebecca."
+    },
+    {
+      "id": 451,
+      "start": 2004.0800018310547,
+      "end": 2010.0800018310547,
+      "text": "I think that's a very, very impressive and strong vision, yeah, because we all agree"
+    },
+    {
+      "id": 452,
+      "start": 2010.0800018310547,
+      "end": 2017.520004272461,
+      "text": "that RWA here are not just something like we see in traditional, it's not financial"
+    },
+    {
+      "id": 453,
+      "start": 2017.520004272461,
+      "end": 2018.520004272461,
+      "text": "products."
+    },
+    {
+      "id": 454,
+      "start": 2018.520004272461,
+      "end": 2024.479995727539,
+      "text": "So, they are becoming something more like an operating system for how real-world infrastructure"
+    },
+    {
+      "id": 455,
+      "start": 2024.479995727539,
+      "end": 2028.0800018310547,
+      "text": "is financed, used, and optimized."
+    },
+    {
+      "id": 456,
+      "start": 2028.0800018310547,
+      "end": 2039.4400024414062,
+      "text": "So, but when you guys choose PQE, and I believe you guys also believe the settlement for RWA,"
+    },
+    {
+      "id": 457,
+      "start": 2039.8000030517578,
+      "end": 2044.7200012207031,
+      "text": "so I'm pretty interested why you believe that, why you believe that this kind of RWA will"
+    },
+    {
+      "id": 458,
+      "start": 2044.7200012207031,
+      "end": 2046.7200012207031,
+      "text": "dominate the future."
+    },
+    {
+      "id": 459,
+      "start": 2046.7200012207031,
+      "end": 2047.7200012207031,
+      "text": "Yeah."
+    },
+    {
+      "id": 460,
+      "start": 2047.7200012207031,
+      "end": 2051.720001220703,
+      "text": "I also want to invite you guys to answer this question."
+    },
+    {
+      "id": 461,
+      "start": 2051.720001220703,
+      "end": 2052.720001220703,
+      "text": "Yeah."
+    },
+    {
+      "id": 462,
+      "start": 2052.720001220703,
+      "end": 2053.720001220703,
+      "text": "Thanks, Nicole."
+    },
+    {
+      "id": 463,
+      "start": 2053.720001220703,
+      "end": 2054.720001220703,
+      "text": "I can take this one."
+    },
+    {
+      "id": 464,
+      "start": 2054.720001220703,
+      "end": 2061.720001220703,
+      "text": "So, as everyone knows, most RWAs today are really investment-first, so they are just,"
+    },
+    {
+      "id": 465,
+      "start": 2061.720001220703,
+      "end": 2068.720001220703,
+      "text": "I would say, digital certificates of ownership that sits in your and other investors' wallets."
+    },
+    {
+      "id": 466,
+      "start": 2069,
+      "end": 2071,
+      "text": "We believe the future of RWA should be settlement-first."
+    },
+    {
+      "id": 467,
+      "start": 2071,
+      "end": 2074,
+      "text": "This means the token isn't just a passive asset."
+    },
+    {
+      "id": 468,
+      "start": 2074,
+      "end": 2079,
+      "text": "It is actually used to settle real commercial transactions within our network."
+    },
+    {
+      "id": 469,
+      "start": 2079,
+      "end": 2084,
+      "text": "So, for example, in the UCAR ecosystem, we aren't just tokenizing the value of the battery"
+    },
+    {
+      "id": 470,
+      "start": 2084,
+      "end": 2085,
+      "text": "and charging stations."
+    },
+    {
+      "id": 471,
+      "start": 2085,
+      "end": 2090,
+      "text": "We are operating the financial plumbing of how that station operates."
+    },
+    {
+      "id": 472,
+      "start": 2090,
+      "end": 2096,
+      "text": "And so, we believe RWAs that acts as both a collateral and currency for their specific"
+    },
+    {
+      "id": 473,
+      "start": 2096.279998779297,
+      "end": 2102.279998779297,
+      "text": "industry will dominate because they solve real operational friction, like cross-border"
+    },
+    {
+      "id": 474,
+      "start": 2102.279998779297,
+      "end": 2106.279998779297,
+      "text": "payments and instant revenue splitting, rather than just offering passive yields."
+    },
+    {
+      "id": 475,
+      "start": 2106.279998779297,
+      "end": 2113.279998779297,
+      "text": "That actually connects perfectly with what I said about the dual use, the dual role of"
+    },
+    {
+      "id": 476,
+      "start": 2113.279998779297,
+      "end": 2125.279998779297,
+      "text": "our user and then the dual use of UCAR token as both a RWA coin for payment and for investments."
+    },
+    {
+      "id": 477,
+      "start": 2125.5599975585938,
+      "end": 2126.5599975585938,
+      "text": "Thanks, Nicole."
+    },
+    {
+      "id": 478,
+      "start": 2127.5599975585938,
+      "end": 2128.5599975585938,
+      "text": "Thank you."
+    },
+    {
+      "id": 479,
+      "start": 2128.5599975585938,
+      "end": 2129.5599975585938,
+      "text": "Thank you, Paul."
+    },
+    {
+      "id": 480,
+      "start": 2129.5599975585938,
+      "end": 2132.5599975585938,
+      "text": "I think that distinction is critical."
+    },
+    {
+      "id": 481,
+      "start": 2132.5599975585938,
+      "end": 2138.5599975585938,
+      "text": "RWAs actively settle real transactions, solve real problems."
+    },
+    {
+      "id": 482,
+      "start": 2138.5599975585938,
+      "end": 2144.5599975585938,
+      "text": "And that's what I think will drive the massive adoption."
+    },
+    {
+      "id": 483,
+      "start": 2144.5599975585938,
+      "end": 2150.5599975585938,
+      "text": "And we all know, just like UCAR, there are lots of companies, listed companies."
+    },
+    {
+      "id": 484,
+      "start": 2150.8399963378906,
+      "end": 2158.8399963378906,
+      "text": "Also, they want to do something like you guys to use like settlement RWAs first."
+    },
+    {
+      "id": 485,
+      "start": 2158.8399963378906,
+      "end": 2164.8399963378906,
+      "text": "And also, they are seeking some help also from the infrastructure PQE."
+    },
+    {
+      "id": 486,
+      "start": 2164.8399963378906,
+      "end": 2169.8399963378906,
+      "text": "And I also want to invite Ryan to answer this question."
+    },
+    {
+      "id": 487,
+      "start": 2170.8399963378906,
+      "end": 2176.8399963378906,
+      "text": "Because you are the CEO of PQE, you may talk with lots of those companies."
+    },
+    {
+      "id": 488,
+      "start": 2177.1199951171875,
+      "end": 2185.1199951171875,
+      "text": "How does PQE plan to help more companies and enterprises to tokenize their RWA in the future?"
+    },
+    {
+      "id": 489,
+      "start": 2186.1199951171875,
+      "end": 2187.1199951171875,
+      "text": "Yeah, definitely."
+    },
+    {
+      "id": 490,
+      "start": 2188.1199951171875,
+      "end": 2194.1199951171875,
+      "text": "I guess the question is not how we help other businesses tokenize their RWAs."
+    },
+    {
+      "id": 491,
+      "start": 2194.1199951171875,
+      "end": 2198.1199951171875,
+      "text": "But tokenizing RWAs is very easy."
+    },
+    {
+      "id": 492,
+      "start": 2198.1199951171875,
+      "end": 2200.1199951171875,
+      "text": "Everyone can publish a token."
+    },
+    {
+      "id": 493,
+      "start": 2200.3999938964844,
+      "end": 2206.3999938964844,
+      "text": "Everyone can launch a stable coin or even like meme coins or RWA coins."
+    },
+    {
+      "id": 494,
+      "start": 2206.3999938964844,
+      "end": 2215.3999938964844,
+      "text": "However, what PQE is trying to do is to help business to get all the conveniences on-chain."
+    },
+    {
+      "id": 495,
+      "start": 2215.3999938964844,
+      "end": 2219.3999938964844,
+      "text": "And do like a total web-free transformation for businesses."
+    },
+    {
+      "id": 496,
+      "start": 2220.3999938964844,
+      "end": 2226.3999938964844,
+      "text": "To help business lower their cost, get a broader audience and reach global customers."
+    },
+    {
+      "id": 497,
+      "start": 2226.3999938964844,
+      "end": 2228.3999938964844,
+      "text": "And that's what PQE is trying to do."
+    },
+    {
+      "id": 498,
+      "start": 2228.6799926757812,
+      "end": 2232.6799926757812,
+      "text": "And for every business, we provide different solutions."
+    },
+    {
+      "id": 499,
+      "start": 2232.6799926757812,
+      "end": 2234.6799926757812,
+      "text": "For example, for UCAR."
+    },
+    {
+      "id": 500,
+      "start": 2234.6799926757812,
+      "end": 2238.6799926757812,
+      "text": "I think I don't need to explain more than Rebecca and Paul already explained."
+    },
+    {
+      "id": 501,
+      "start": 2238.6799926757812,
+      "end": 2242.6799926757812,
+      "text": "And for every different business, we provide different solutions."
+    },
+    {
+      "id": 502,
+      "start": 2242.6799926757812,
+      "end": 2246.6799926757812,
+      "text": "Think of us as McKinsey, as a consulting firm."
+    },
+    {
+      "id": 503,
+      "start": 2246.6799926757812,
+      "end": 2248.6799926757812,
+      "text": "We provide different solutions for different businesses."
+    },
+    {
+      "id": 504,
+      "start": 2248.6799926757812,
+      "end": 2253.6799926757812,
+      "text": "And based on their business model, based on what they do or based on their field."
+    },
+    {
+      "id": 505,
+      "start": 2255.6799926757812,
+      "end": 2257.6799926757812,
+      "text": "And that's what PQE is trying to do."
+    },
+    {
+      "id": 506,
+      "start": 2257.959991455078,
+      "end": 2266.959991455078,
+      "text": "So as a team, as a professional team, we will be able to provide the expertise and the perfect solution."
+    },
+    {
+      "id": 507,
+      "start": 2266.959991455078,
+      "end": 2274.959991455078,
+      "text": "And the perfect plan or proposal for every business that's going to be brought on PQE."
+    },
+    {
+      "id": 508,
+      "start": 2274.959991455078,
+      "end": 2275.959991455078,
+      "text": "Thank you."
+    },
+    {
+      "id": 509,
+      "start": 2276.959991455078,
+      "end": 2278.959991455078,
+      "text": "Thank you, Roy."
+    },
+    {
+      "id": 510,
+      "start": 2278.959991455078,
+      "end": 2280.959991455078,
+      "text": "That's a very important part."
+    },
+    {
+      "id": 511,
+      "start": 2281.239990234375,
+      "end": 2292.239990234375,
+      "text": "And I think before we join the last part, community Q\u0026A, we have the last question for all of you guys."
+    },
+    {
+      "id": 512,
+      "start": 2292.239990234375,
+      "end": 2299.239990234375,
+      "text": "Because we also want to know the long-term roadmap for UCAR and also PQE."
+    },
+    {
+      "id": 513,
+      "start": 2299.239990234375,
+      "end": 2309.239990234375,
+      "text": "So in the next 12 or 24 months, what guys do you have any plan or any roadmap for your company?"
+    },
+    {
+      "id": 514,
+      "start": 2309.52001953125,
+      "end": 2314.52001953125,
+      "text": "We can invite Paul to answer this question first and then we can switch to Roy."
+    },
+    {
+      "id": 515,
+      "start": 2314.52001953125,
+      "end": 2315.52001953125,
+      "text": "Yeah, thank you."
+    },
+    {
+      "id": 516,
+      "start": 2316.52001953125,
+      "end": 2321.52001953125,
+      "text": "Yeah, so from the UCAR side, it's probably more project and region-based."
+    },
+    {
+      "id": 517,
+      "start": 2321.52001953125,
+      "end": 2328.52001953125,
+      "text": "So as a first batch, we will be launching our European projects."
+    },
+    {
+      "id": 518,
+      "start": 2328.52001953125,
+      "end": 2332.52001953125,
+      "text": "So think about our projects in Portugal, Italy and Spain."
+    },
+    {
+      "id": 519,
+      "start": 2332.7999877929688,
+      "end": 2342.7999877929688,
+      "text": "We have already launched projects for taxi and logistics vans and trucks, battery shopping."
+    },
+    {
+      "id": 520,
+      "start": 2342.7999877929688,
+      "end": 2350.7999877929688,
+      "text": "So the first batch of RWA projects from our side will be exclusively for these European projects."
+    },
+    {
+      "id": 521,
+      "start": 2350.7999877929688,
+      "end": 2360.7999877929688,
+      "text": "And then later on, we will be adding South Asia, Thailand and perhaps Indonesia projects to the next batch."
+    },
+    {
+      "id": 522,
+      "start": 2361.0800170898438,
+      "end": 2369.0800170898438,
+      "text": "And then later on, maybe also South Americans like 2N3Water projects in Peru, etc."
+    },
+    {
+      "id": 523,
+      "start": 2369.0800170898438,
+      "end": 2378.0800170898438,
+      "text": "Yeah, so it will be a more phase-based and region-based roadmap from our side."
+    },
+    {
+      "id": 524,
+      "start": 2379.0800170898438,
+      "end": 2381.0800170898438,
+      "text": "Yeah, thank you. Thank you, Paul."
+    },
+    {
+      "id": 525,
+      "start": 2381.0800170898438,
+      "end": 2384.0800170898438,
+      "text": "So Ryan, could you also answer the question also?"
+    },
+    {
+      "id": 526,
+      "start": 2386.0800170898438,
+      "end": 2388.0800170898438,
+      "text": "Do I pick a question to answer?"
+    },
+    {
+      "id": 527,
+      "start": 2388.3599853515625,
+      "end": 2391.3599853515625,
+      "text": "Yeah, the same question, like the roadmap."
+    },
+    {
+      "id": 528,
+      "start": 2391.3599853515625,
+      "end": 2394.3599853515625,
+      "text": "Like what PQE will append?"
+    },
+    {
+      "id": 529,
+      "start": 2394.3599853515625,
+      "end": 2397,
+      "text": "what PQE will attempt to do in the next 12 or 24 months?"
+    },
+    {
+      "id": 530,
+      "start": 2398.4400000572205,
+      "end": 2401.079999923706,
+      "text": "Yeah, so definitely like open up our pipelines."
+    },
+    {
+      "id": 531,
+      "start": 2401.079999923706,
+      "end": 2402.880000114441,
+      "text": "The first one is that like,"
+    },
+    {
+      "id": 532,
+      "start": 2402.880000114441,
+      "end": 2404.920000076294,
+      "text": "I believe it's like the exponential growth."
+    },
+    {
+      "id": 533,
+      "start": 2404.920000076294,
+      "end": 2409.319999694824,
+      "text": "We are very happy to have our first hydropower stations,"
+    },
+    {
+      "id": 534,
+      "start": 2409.319999694824,
+      "end": 2411.920000076294,
+      "text": "UCAR as our first two projects right now."
+    },
+    {
+      "id": 535,
+      "start": 2411.920000076294,
+      "end": 2413.8799991607666,
+      "text": "And, but like, just like, you know,"
+    },
+    {
+      "id": 536,
+      "start": 2413.8799991607666,
+      "end": 2417.4400005340576,
+      "text": "how other launch pads and other like ecosystem grow,"
+    },
+    {
+      "id": 537,
+      "start": 2417.4400005340576,
+      "end": 2418.5599994659424,
+      "text": "we are planning on, you know,"
+    },
+    {
+      "id": 538,
+      "start": 2418.5599994659424,
+      "end": 2421.5200004577637,
+      "text": "like getting like more and more projects"
+    },
+    {
+      "id": 539,
+      "start": 2421.5200004577637,
+      "end": 2425.400001525879,
+      "text": "onto PQE and I believe the growth is gonna be exponential"
+    },
+    {
+      "id": 540,
+      "start": 2425.400001525879,
+      "end": 2426.6399993896484,
+      "text": "and it's gonna be huge."
+    },
+    {
+      "id": 541,
+      "start": 2426.6399993896484,
+      "end": 2428.5200004577637,
+      "text": "So I believe everyone should be,"
+    },
+    {
+      "id": 542,
+      "start": 2428.5200004577637,
+      "end": 2430.7999992370605,
+      "text": "stay tuned on like what's coming next"
+    },
+    {
+      "id": 543,
+      "start": 2430.7999992370605,
+      "end": 2432.319999694824,
+      "text": "and it's gonna be huge, yeah."
+    },
+    {
+      "id": 544,
+      "start": 2434.720001220703,
+      "end": 2437.240001678467,
+      "text": "Thank you, thank you, thank you all of you guys."
+    },
+    {
+      "id": 545,
+      "start": 2437.240001678467,
+      "end": 2438.0800018310547,
+      "text": "Thank you, Paul."
+    },
+    {
+      "id": 546,
+      "start": 2438.0800018310547,
+      "end": 2438.900001525879,
+      "text": "Thank you, Ryan."
+    },
+    {
+      "id": 547,
+      "start": 2438.900001525879,
+      "end": 2440.3600006103516,
+      "text": "Thank you, Rebecca."
+    },
+    {
+      "id": 548,
+      "start": 2440.3600006103516,
+      "end": 2443.560001373291,
+      "text": "Actually, that's all of the questions for you guys."
+    },
+    {
+      "id": 549,
+      "start": 2443.560001373291,
+      "end": 2447.9199981689453,
+      "text": "And next, we will like turn to the community now, yeah,"
+    },
+    {
+      "id": 550,
+      "start": 2447.9199981689453,
+      "end": 2451.8800010681152,
+      "text": "because we can see there are lots of questions"
+    },
+    {
+      "id": 551,
+      "start": 2451.8800010681152,
+      "end": 2454.6399993896484,
+      "text": "they sent in the live, yeah."
+    },
+    {
+      "id": 552,
+      "start": 2454.6399993896484,
+      "end": 2456.4400024414062,
+      "text": "Could you guys please check that?"
+    },
+    {
+      "id": 553,
+      "start": 2456.4400024414062,
+      "end": 2457.5199966430664,
+      "text": "I'm not sure whether you guys"
+    },
+    {
+      "id": 554,
+      "start": 2457.5199966430664,
+      "end": 2459.4800033569336,
+      "text": "can see those questions or not."
+    },
+    {
+      "id": 555,
+      "start": 2459.4800033569336,
+      "end": 2461.4400024414062,
+      "text": "If you guys can see those questions,"
+    },
+    {
+      "id": 556,
+      "start": 2461.4400024414062,
+      "end": 2465.680000305176,
+      "text": "maybe you guys can like pick several questions."
+    },
+    {
+      "id": 557,
+      "start": 2465.680000305176,
+      "end": 2468.680000305176,
+      "text": "We can pick five questions and we can answer that."
+    },
+    {
+      "id": 558,
+      "start": 2468.680000305176,
+      "end": 2470.8399963378906,
+      "text": "And if you can see those questions,"
+    },
+    {
+      "id": 559,
+      "start": 2470.8399963378906,
+      "end": 2473.4800033569336,
+      "text": "you can start it and I will check"
+    },
+    {
+      "id": 560,
+      "start": 2473.4800033569336,
+      "end": 2476.879997253418,
+      "text": "or I will pick several questions for you guys, yeah."
+    },
+    {
+      "id": 561,
+      "start": 2478.279998779297,
+      "end": 2481.1600036621094,
+      "text": "Mm-hmm, mm-hmm, yeah, so I saw a question"
+    },
+    {
+      "id": 562,
+      "start": 2481.1600036621094,
+      "end": 2483.6399993896484,
+      "text": "on are there any plans to expand UCAR"
+    },
+    {
+      "id": 563,
+      "start": 2483.6399993896484,
+      "end": 2486.0800018310547,
+      "text": "beyond EV charging to other energy"
+    },
+    {
+      "id": 564,
+      "start": 2486.0800018310547,
+      "end": 2487.6399993896484,
+      "text": "and infrastructure other ways?"
+    },
+    {
+      "id": 565,
+      "start": 2487.6399993896484,
+      "end": 2489.879997253418,
+      "text": "So I think I could take that one."
+    },
+    {
+      "id": 566,
+      "start": 2489.879997253418,
+      "end": 2490.720001220703,
+      "text": "Yeah."
+    },
+    {
+      "id": 567,
+      "start": 2490.720001220703,
+      "end": 2493.4800033569336,
+      "text": "Yeah, so the answer is absolutely."
+    },
+    {
+      "id": 568,
+      "start": 2493.4800033569336,
+      "end": 2496.0800018310547,
+      "text": "In fact, I think calling us just a charging"
+    },
+    {
+      "id": 569,
+      "start": 2496.0800018310547,
+      "end": 2499,
+      "text": "or battery shopping company misses the bigger picture"
+    },
+    {
+      "id": 570,
+      "start": 2499,
+      "end": 2502.800003051758,
+      "text": "in the industry, in the industry just overall."
+    },
+    {
+      "id": 571,
+      "start": 2502.800003051758,
+      "end": 2505.5599975585938,
+      "text": "We are building really a distributed energy network"
+    },
+    {
+      "id": 572,
+      "start": 2506.6399993896484,
+      "end": 2507.6399993896484,
+      "text": "for transport."
+    },
+    {
+      "id": 573,
+      "start": 2508.319999694824,
+      "end": 2511.5599975585938,
+      "text": "So our roadmap really extends beyond simply charging"
+    },
+    {
+      "id": 574,
+      "start": 2511.5599975585938,
+      "end": 2515,
+      "text": "or swapping into two massive RWA categories."
+    },
+    {
+      "id": 575,
+      "start": 2515,
+      "end": 2518.2399978637695,
+      "text": "The first is grid storage and arbitrage."
+    },
+    {
+      "id": 576,
+      "start": 2518.2399978637695,
+      "end": 2520.3600006103516,
+      "text": "So we have to realize that a battery station"
+    },
+    {
+      "id": 577,
+      "start": 2520.3600006103516,
+      "end": 2523.3600006103516,
+      "text": "is effectively a giant power bank, right?"
+    },
+    {
+      "id": 578,
+      "start": 2523.3600006103516,
+      "end": 2526.039993286133,
+      "text": "And then we plan to really tokenize"
+    },
+    {
+      "id": 579,
+      "start": 2526.039993286133,
+      "end": 2528.199996948242,
+      "text": "the storage capacity of our network."
+    },
+    {
+      "id": 580,
+      "start": 2528.199996948242,
+      "end": 2532.039993286133,
+      "text": "This allows our station to act as a virtual power plant,"
+    },
+    {
+      "id": 581,
+      "start": 2533.3999938964844,
+      "end": 2537.3600006103516,
+      "text": "especially in regions with weaker electricity"
+    },
+    {
+      "id": 582,
+      "start": 2538.0800018310547,
+      "end": 2541.199996948242,
+      "text": "infrastructure or electricity grid, national grid,"
+    },
+    {
+      "id": 583,
+      "start": 2541.199996948242,
+      "end": 2543.720001220703,
+      "text": "buying cheap power, so really buying cheap power at night"
+    },
+    {
+      "id": 584,
+      "start": 2543.720001220703,
+      "end": 2546.6000061035156,
+      "text": "and selling it back to the grid during peak hours."
+    },
+    {
+      "id": 585,
+      "start": 2546.6000061035156,
+      "end": 2549.4400024414062,
+      "text": "So with that, our token holders will capture the value"
+    },
+    {
+      "id": 586,
+      "start": 2549.4400024414062,
+      "end": 2553.6000061035156,
+      "text": "of this energy trading, not just the driver fees."
+    },
+    {
+      "id": 587,
+      "start": 2553.6000061035156,
+      "end": 2557.520004272461,
+      "text": "And a second area is logistics infrastructure."
+    },
+    {
+      "id": 588,
+      "start": 2557.520004272461,
+      "end": 2561.759994506836,
+      "text": "So we are already powering logistics trucks and vans"
+    },
+    {
+      "id": 589,
+      "start": 2561.759994506836,
+      "end": 2565.0800018310547,
+      "text": "in regions like Thailand and Southern Europe."
+    },
+    {
+      "id": 590,
+      "start": 2565.0800018310547,
+      "end": 2568.6000061035156,
+      "text": "The next step could be tokenizing the fleets themselves."
+    },
+    {
+      "id": 591,
+      "start": 2568.6000061035156,
+      "end": 2572.1199951171875,
+      "text": "And by financing the electric trucks for our logistics"
+    },
+    {
+      "id": 592,
+      "start": 2572.1199951171875,
+      "end": 2577.1199951171875,
+      "text": "and OEM partners via RWA, we're really locking"
+    },
+    {
+      "id": 593,
+      "start": 2577.199996948242,
+      "end": 2580.6799926757812,
+      "text": "long-term customers for our energy network."
+    },
+    {
+      "id": 594,
+      "start": 2580.6799926757812,
+      "end": 2584.039993286133,
+      "text": "So ultimately, I'm just tokenizing a plug in the wall."
+    },
+    {
+      "id": 595,
+      "start": 2584.039993286133,
+      "end": 2588.0800018310547,
+      "text": "We are tokenizing the entire life cycle of green logistics"
+    },
+    {
+      "id": 596,
+      "start": 2588.0800018310547,
+      "end": 2591.960006713867,
+      "text": "from the solar panel that generates the power,"
+    },
+    {
+      "id": 597,
+      "start": 2591.960006713867,
+      "end": 2594.3600006103516,
+      "text": "could be on top of our battery stations"
+    },
+    {
+      "id": 598,
+      "start": 2594.3600006103516,
+      "end": 2598,
+      "text": "to the battery that stores it, and to the vehicles,"
+    },
+    {
+      "id": 599,
+      "start": 2598,
+      "end": 2600.3999938964844,
+      "text": "like trucks and vans that consumes it."
+    },
+    {
+      "id": 600,
+      "start": 2600.3999938964844,
+      "end": 2603.5599975585938,
+      "text": "So that will be the response from me to that question."
+    },
+    {
+      "id": 601,
+      "start": 2604.6799926757812,
+      "end": 2605.800003051758,
+      "text": "Yeah, thank you."
+    },
+    {
+      "id": 602,
+      "start": 2605.800003051758,
+      "end": 2606.800003051758,
+      "text": "Thank you, Paul."
+    },
+    {
+      "id": 603,
+      "start": 2606.800003051758,
+      "end": 2610.520004272461,
+      "text": "And I also see a very interesting question"
+    },
+    {
+      "id": 604,
+      "start": 2610.520004272461,
+      "end": 2613.479995727539,
+      "text": "about the RWA regulation."
+    },
+    {
+      "id": 605,
+      "start": 2613.479995727539,
+      "end": 2616.6000061035156,
+      "text": "So they're asking like, how will your car adapt"
+    },
+    {
+      "id": 606,
+      "start": 2616.6000061035156,
+      "end": 2620.6000061035156,
+      "text": "as an RWA regulation involves globally"
+    },
+    {
+      "id": 607,
+      "start": 2620.6000061035156,
+      "end": 2622.6000061035156,
+      "text": "over the next few years?"
+    },
+    {
+      "id": 608,
+      "start": 2622.6000061035156,
+      "end": 2624.759994506836,
+      "text": "Could you please also answer this question?"
+    },
+    {
+      "id": 609,
+      "start": 2627,
+      "end": 2629.3999938964844,
+      "text": "Yeah, I can take this one as well."
+    },
+    {
+      "id": 610,
+      "start": 2629.3999938964844,
+      "end": 2634.039993286133,
+      "text": "And perhaps Ryan, if you want, as your specialist"
+    },
+    {
+      "id": 611,
+      "start": 2634.039993286133,
+      "end": 2637.199996948242,
+      "text": "on this one, you could also add after me."
+    },
+    {
+      "id": 612,
+      "start": 2637.199996948242,
+      "end": 2642.199996948242,
+      "text": "So we, I mean, at least I believe that regulation"
+    },
+    {
+      "id": 613,
+      "start": 2642.240005493164,
+      "end": 2643.240005493164,
+      "text": "is not a threat to us."
+    },
+    {
+      "id": 614,
+      "start": 2643.240005493164,
+      "end": 2646.6000061035156,
+      "text": "It's rather all of us, because as a public company,"
+    },
+    {
+      "id": 615,
+      "start": 2646.6000061035156,
+      "end": 2649.6000061035156,
+      "text": "we're really used to strict audits and compliance."
+    },
+    {
+      "id": 616,
+      "start": 2650.4400024414062,
+      "end": 2652.279998779297,
+      "text": "And also as we operate in different regions,"
+    },
+    {
+      "id": 617,
+      "start": 2652.959991455078,
+      "end": 2656.959991455078,
+      "text": "we are really careful in navigating the local rules"
+    },
+    {
+      "id": 618,
+      "start": 2656.959991455078,
+      "end": 2659.7999877929688,
+      "text": "and legal regulations."
+    },
+    {
+      "id": 619,
+      "start": 2659.7999877929688,
+      "end": 2661.720001220703,
+      "text": "So our strategy for the future is built"
+    },
+    {
+      "id": 620,
+      "start": 2661.720001220703,
+      "end": 2664.9200134277344,
+      "text": "on a programmable compliance."
+    },
+    {
+      "id": 621,
+      "start": 2664.9200134277344,
+      "end": 2667.6799926757812,
+      "text": "So unlike a paper soft certificate,"
+    },
+    {
+      "id": 622,
+      "start": 2667.6799926757812,
+      "end": 2670.3999938964844,
+      "text": "our RWA tokens are really powered by a smart contract"
+    },
+    {
+      "id": 623,
+      "start": 2670.3999938964844,
+      "end": 2671.9200134277344,
+      "text": "that can update in real time."
+    },
+    {
+      "id": 624,
+      "start": 2671.9200134277344,
+      "end": 2674.959991455078,
+      "text": "If the rules in, say, Europe or Asia change tomorrow,"
+    },
+    {
+      "id": 625,
+      "start": 2674.959991455078,
+      "end": 2678.480010986328,
+      "text": "we can also update the compliance logic in our code"
+    },
+    {
+      "id": 626,
+      "start": 2678.480010986328,
+      "end": 2680.8399963378906,
+      "text": "to match those rules in the system."
+    },
+    {
+      "id": 627,
+      "start": 2680.8800048828125,
+      "end": 2684.3200073242188,
+      "text": "And we don't have to rebuild the car while driving it."
+    },
+    {
+      "id": 628,
+      "start": 2684.3200073242188,
+      "end": 2686.3599853515625,
+      "text": "And furthermore, we are in a global world"
+    },
+    {
+      "id": 629,
+      "start": 2686.3599853515625,
+      "end": 2689.6799926757812,
+      "text": "where different regions have different rules, right?"
+    },
+    {
+      "id": 630,
+      "start": 2689.6799926757812,
+      "end": 2692.9200134277344,
+      "text": "We are ready to deploy a multi-wrapper strategy"
+    },
+    {
+      "id": 631,
+      "start": 2692.9200134277344,
+      "end": 2696.6400146484375,
+      "text": "where we can issue, say, a specific version of the tokens"
+    },
+    {
+      "id": 632,
+      "start": 2696.6400146484375,
+      "end": 2698.4400024414062,
+      "text": "tailored to local laws."
+    },
+    {
+      "id": 633,
+      "start": 2698.4400024414062,
+      "end": 2700.6400146484375,
+      "text": "For example, a MECA compliant version for Europe"
+    },
+    {
+      "id": 634,
+      "start": 2700.6400146484375,
+      "end": 2703.239990234375,
+      "text": "and a different version for Asia,"
+    },
+    {
+      "id": 635,
+      "start": 2703.239990234375,
+      "end": 2707.3599853515625,
+      "text": "while all backed by the same global battery network."
+    },
+    {
+      "id": 636,
+      "start": 2707.3599853515625,
+      "end": 2709.279998779297,
+      "text": "So we aren't really just waiting for clarity."
+    },
+    {
+      "id": 637,
+      "start": 2709.6799926757812,
+      "end": 2712.4400024414062,
+      "text": "We are actively building the infrastructure"
+    },
+    {
+      "id": 638,
+      "start": 2712.4400024414062,
+      "end": 2715.239990234375,
+      "text": "to be compliant no matter which direction the wind go."
+    },
+    {
+      "id": 639,
+      "start": 2718.8800048828125,
+      "end": 2721.4400024414062,
+      "text": "Yeah, actually, Nico, Nico,"
+    },
+    {
+      "id": 640,
+      "start": 2721.4400024414062,
+      "end": 2724.6000061035156,
+      "text": "I want to pick up a very interesting question."
+    },
+    {
+      "id": 641,
+      "start": 2724.6000061035156,
+      "end": 2729.3599853515625,
+      "text": "And I also want to share the news to all the audience."
+    },
+    {
+      "id": 642,
+      "start": 2729.3599853515625,
+      "end": 2732.279998779297,
+      "text": "Is there a question with the strategy partnership"
+    },
+    {
+      "id": 643,
+      "start": 2732.279998779297,
+      "end": 2734.0799865722656,
+      "text": "with the Will Logistics Group"
+    },
+    {
+      "id": 644,
+      "start": 2734.0799865722656,
+      "end": 2737.760009765625,
+      "text": "for up to 1,000 battery-swapping vehicles?"
+    },
+    {
+      "id": 645,
+      "start": 2737.8399963378906,
+      "end": 2742.760009765625,
+      "text": "I'm very happy there is some audience follow us so closely"
+    },
+    {
+      "id": 646,
+      "start": 2742.760009765625,
+      "end": 2745.6400146484375,
+      "text": "since we just issued this news last week."
+    },
+    {
+      "id": 647,
+      "start": 2745.6400146484375,
+      "end": 2748.9200134277344,
+      "text": "Yes, we have 1,000 battery-swapping"
+    },
+    {
+      "id": 648,
+      "start": 2748.9200134277344,
+      "end": 2752.8800048828125,
+      "text": "electricity truck project in Thailand."
+    },
+    {
+      "id": 649,
+      "start": 2752.8800048828125,
+      "end": 2756.1199951171875,
+      "text": "And the question is what timeline"
+    },
+    {
+      "id": 650,
+      "start": 2756.1199951171875,
+      "end": 2758.9200134277344,
+      "text": "we will have for scaling stations."
+    },
+    {
+      "id": 651,
+      "start": 2758.9200134277344,
+      "end": 2762.4400024414062,
+      "text": "Actually, as I mentioned, we have a joint venture"
+    },
+    {
+      "id": 652,
+      "start": 2762.4400024414062,
+      "end": 2765.760009765625,
+      "text": "with the third biggest petrol company in Thailand"
+    },
+    {
+      "id": 653,
+      "start": 2765.760009765625,
+      "end": 2767.480010986328,
+      "text": "called Cisco."
+    },
+    {
+      "id": 654,
+      "start": 2768.1600036621094,
+      "end": 2773.1600036621094,
+      "text": "This 1,000 truck project will be finished in two years."
+    },
+    {
+      "id": 655,
+      "start": 2773.959991455078,
+      "end": 2778.959991455078,
+      "text": "And we will put around 50 stations"
+    },
+    {
+      "id": 656,
+      "start": 2779.6000061035156,
+      "end": 2784.4400024414062,
+      "text": "aligned with these trucks in Thailand within two years."
+    },
+    {
+      "id": 657,
+      "start": 2785.959991455078,
+      "end": 2788.720001220703,
+      "text": "And I also want to share that"
+    },
+    {
+      "id": 658,
+      "start": 2788.720001220703,
+      "end": 2792.6400146484375,
+      "text": "one of our largest company shareholder"
+    },
+    {
+      "id": 659,
+      "start": 2792.6400146484375,
+      "end": 2796.1600036621094,
+      "text": "is the most wealth family in Thailand."
+    },
+    {
+      "id": 660,
+      "start": 2796.1600036621094,
+      "end": 2798.6400146484375,
+      "text": "Not only in Thailand, in the Southeast,"
+    },
+    {
+      "id": 661,
+      "start": 2798.6400146484375,
+      "end": 2800.8800048828125,
+      "text": "it's called the CP family."
+    },
+    {
+      "id": 662,
+      "start": 2800.8800048828125,
+      "end": 2804.279998779297,
+      "text": "It dominates the whole Southeast."
+    },
+    {
+      "id": 663,
+      "start": 2804.279998779297,
+      "end": 2808.0799865722656,
+      "text": "So we have enough capital supporting"
+    },
+    {
+      "id": 664,
+      "start": 2808.0799865722656,
+      "end": 2810.8399963378906,
+      "text": "to finish all these projects."
+    },
+    {
+      "id": 665,
+      "start": 2810.8399963378906,
+      "end": 2813.8399963378906,
+      "text": "And all these projects will be finished in two years."
+    },
+    {
+      "id": 666,
+      "start": 2813.8399963378906,
+      "end": 2815.4400024414062,
+      "text": "It's the timeline."
+    },
+    {
+      "id": 667,
+      "start": 2815.4400024414062,
+      "end": 2818.3200073242188,
+      "text": "And the following question is,"
+    },
+    {
+      "id": 668,
+      "start": 2818.3200073242188,
+      "end": 2823.3200073242188,
+      "text": "all this revenue will be feedback on this token investor."
+    },
+    {
+      "id": 669,
+      "start": 2824.040008544922,
+      "end": 2827.6799926757812,
+      "text": "Obviously, all this revenue, as Paul had mentioned,"
+    },
+    {
+      "id": 670,
+      "start": 2827.6799926757812,
+      "end": 2832.6799926757812,
+      "text": "we will put the revenue to the capital base of the token."
+    },
+    {
+      "id": 671,
+      "start": 2833.4400024414062,
+      "end": 2837.3999938964844,
+      "text": "So all the investor will enjoy all these revenues."
+    },
+    {
+      "id": 672,
+      "start": 2840.6000061035156,
+      "end": 2842.480010986328,
+      "text": "Okay, nice, nice."
+    },
+    {
+      "id": 673,
+      "start": 2842.480010986328,
+      "end": 2845.519989013672,
+      "text": "They write all of those things into two questions"
+    },
+    {
+      "id": 674,
+      "start": 2845.519989013672,
+      "end": 2847.040008544922,
+      "text": "or you just answer one question?"
+    },
+    {
+      "id": 675,
+      "start": 2847.040008544922,
+      "end": 2850.480010986328,
+      "text": "Because I'm also looking for what questions"
+    },
+    {
+      "id": 676,
+      "start": 2850.480010986328,
+      "end": 2852.1199951171875,
+      "text": "you are answering."
+    },
+    {
+      "id": 677,
+      "start": 2852.1600036621094,
+      "end": 2855.3200073242188,
+      "text": "Because once you answer those questions,"
+    },
+    {
+      "id": 678,
+      "start": 2855.3200073242188,
+      "end": 2856.8399963378906,
+      "text": "it means you pick this question"
+    },
+    {
+      "id": 679,
+      "start": 2856.8399963378906,
+      "end": 2861.7999877929688,
+      "text": "and we need to give them 10 U-card tokens."
+    },
+    {
+      "id": 680,
+      "start": 2861.7999877929688,
+      "end": 2863.2000122070312,
+      "text": "So I need to get them all."
+    },
+    {
+      "id": 681,
+      "start": 2864.5599975585938,
+      "end": 2866.959991455078,
+      "text": "Yeah, yeah, yeah, yeah, yeah."
+    },
+    {
+      "id": 682,
+      "start": 2866.959991455078,
+      "end": 2869.4400024414062,
+      "text": "It seems the question goes so fast."
+    },
+    {
+      "id": 683,
+      "start": 2870.519989013672,
+      "end": 2874.0799865722656,
+      "text": "Yeah, yeah, yeah, so I'm still looking for those questions."
+    },
+    {
+      "id": 684,
+      "start": 2876.3999938964844,
+      "end": 2879.2000122070312,
+      "text": "Yeah, but they're very good questions, I like it."
+    },
+    {
+      "id": 685,
+      "start": 2879.2000122070312,
+      "end": 2881.6799926757812,
+      "text": "And I saw another interesting question"
+    },
+    {
+      "id": 686,
+      "start": 2882.2000122070312,
+      "end": 2885.279998779297,
+      "text": "about if we will involve into the battery recycle, right?"
+    },
+    {
+      "id": 687,
+      "start": 2887.2000122070312,
+      "end": 2888.8800048828125,
+      "text": "Did you see the question, Nicole?"
+    },
+    {
+      "id": 688,
+      "start": 2890.0799865722656,
+      "end": 2893,
+      "text": "No, is it newest question?"
+    },
+    {
+      "id": 689,
+      "start": 2893,
+      "end": 2895,
+      "text": "Oh, I have this question."
+    },
+    {
+      "id": 690,
+      "start": 2896.8800048828125,
+      "end": 2901.8800048828125,
+      "text": "Yes, the question is what sustainability measures"
+    },
+    {
+      "id": 691,
+      "start": 2902.1600036621094,
+      "end": 2905,
+      "text": "are built into Utah, such as battery recycling"
+    },
+    {
+      "id": 692,
+      "start": 2905,
+      "end": 2908.3599853515625,
+      "text": "or renewable energy sourcing for swapping stations?"
+    },
+    {
+      "id": 693,
+      "start": 2908.3599853515625,
+      "end": 2911.719970703125,
+      "text": "And how does tokenize these assets by U-card"
+    },
+    {
+      "id": 694,
+      "start": 2911.719970703125,
+      "end": 2915.2000122070312,
+      "text": "along with ESG goals for investors?"
+    },
+    {
+      "id": 695,
+      "start": 2916.5999755859375,
+      "end": 2920.280029296875,
+      "text": "Obviously, we will involve into this battery recycling"
+    },
+    {
+      "id": 696,
+      "start": 2920.280029296875,
+      "end": 2921.8800048828125,
+      "text": "industry in the future."
+    },
+    {
+      "id": 697,
+      "start": 2923.0800170898438,
+      "end": 2927.760009765625,
+      "text": "And all these assets, the battery swapping stations,"
+    },
+    {
+      "id": 698,
+      "start": 2927.760009765625,
+      "end": 2931.719970703125,
+      "text": "and I just want to share one thing,"
+    },
+    {
+      "id": 699,
+      "start": 2931.719970703125,
+      "end": 2934.1199951171875,
+      "text": "like Paul said, the battery swapping stations"
+    },
+    {
+      "id": 700,
+      "start": 2934.1199951171875,
+      "end": 2937.9199829101562,
+      "text": "also is the equipment for the energy saving."
+    },
+    {
+      "id": 701,
+      "start": 2938.47998046875,
+      "end": 2941.0800170898438,
+      "text": "So it must require battery recycling in the future."
+    },
+    {
+      "id": 702,
+      "start": 2941.0800170898438,
+      "end": 2944.1599731445312,
+      "text": "All these will be tokenized."
+    },
+    {
+      "id": 703,
+      "start": 2944.1599731445312,
+      "end": 2949.1599731445312,
+      "text": "And that's what we do, that's our mission."
+    },
+    {
+      "id": 704,
+      "start": 2952.0399780273438,
+      "end": 2957.0399780273438,
+      "text": "We are the ESG company and we will take responsibility"
+    },
+    {
+      "id": 705,
+      "start": 2957.239990234375,
+      "end": 2958.0800170898438,
+      "text": "for the ESG."
+    },
+    {
+      "id": 706,
+      "start": 2961.52001953125,
+      "end": 2963.4000244140625,
+      "text": "Okay, okay, I see."
+    },
+    {
+      "id": 707,
+      "start": 2963.4000244140625,
+      "end": 2965,
+      "text": "I already know the question."
+    },
+    {
+      "id": 708,
+      "start": 2965.1199951171875,
+      "end": 2970.1199951171875,
+      "text": "I already got, yeah, like you answer the link question."
+    },
+    {
+      "id": 709,
+      "start": 2970.5599975585938,
+      "end": 2973.9199829101562,
+      "text": "Yeah, and you answer like all of those,"
+    },
+    {
+      "id": 710,
+      "start": 2973.9199829101562,
+      "end": 2977.6799926757812,
+      "text": "you answer totally two questions from the one person."
+    },
+    {
+      "id": 711,
+      "start": 2977.6799926757812,
+      "end": 2980.6799926757812,
+      "text": "But yeah, but we only will choose one question"
+    },
+    {
+      "id": 712,
+      "start": 2980.6799926757812,
+      "end": 2981.52001953125,
+      "text": "from one person."
+    },
+    {
+      "id": 713,
+      "start": 2981.52001953125,
+      "end": 2982.52001953125,
+      "text": "Oh, sorry, sorry."
+    },
+    {
+      "id": 714,
+      "start": 2982.52001953125,
+      "end": 2984.5599975585938,
+      "text": "So, sorry, sorry."
+    },
+    {
+      "id": 715,
+      "start": 2984.5599975585938,
+      "end": 2988.0800170898438,
+      "text": "Link has a lot of good questions."
+    },
+    {
+      "id": 716,
+      "start": 2988.0800170898438,
+      "end": 2989.7999877929688,
+      "text": "Yeah, yeah, yeah, yeah."
+    },
+    {
+      "id": 717,
+      "start": 2989.7999877929688,
+      "end": 2990.6400146484375,
+      "text": "I think,"
+    },
+    {
+      "id": 718,
+      "start": 2990.6400146484375,
+      "end": 2999.800000190735,
+      "text": "I think Link is our perfect audience and he will write a lot of questions each live stream."
+    },
+    {
+      "id": 719,
+      "start": 2999.800000190735,
+      "end": 3002.6000003814697,
+      "text": "But I think it's okay, it's okay."
+    },
+    {
+      "id": 720,
+      "start": 3002.6000003814697,
+      "end": 3006,
+      "text": "We still have a reward slot for Link, yeah, yeah, yeah."
+    },
+    {
+      "id": 721,
+      "start": 3006,
+      "end": 3009.819999694824,
+      "text": "But we need also, we'll save some opportunity for other audience."
+    },
+    {
+      "id": 722,
+      "start": 3009.819999694824,
+      "end": 3013.3600006103516,
+      "text": "Because they also ask some question about new car, like PQE."
+    },
+    {
+      "id": 723,
+      "start": 3013.3600006103516,
+      "end": 3017.760000228882,
+      "text": "So we also want to invite Ryan to answer this question."
+    },
+    {
+      "id": 724,
+      "start": 3017.760000228882,
+      "end": 3025.2000007629395,
+      "text": "This question is from Nick V, and he is asking, like, other new car, so what kind of other"
+    },
+    {
+      "id": 725,
+      "start": 3025.2000007629395,
+      "end": 3034.9199981689453,
+      "text": "RWAs will PQE on board next, and is there any, like, listing standards for those RWAs?"
+    },
+    {
+      "id": 726,
+      "start": 3034.9199981689453,
+      "end": 3037.9599990844727,
+      "text": "Yeah, so I guess RWAs of all kinds."
+    },
+    {
+      "id": 727,
+      "start": 3037.9599990844727,
+      "end": 3045.6399993896484,
+      "text": "You can think of RWA, you can think of PQE as NASDAQ, right, and just all kinds of RWAs."
+    },
+    {
+      "id": 728,
+      "start": 3045.6399993896484,
+      "end": 3052.2000007629395,
+      "text": "Like anything I think of, I can't give you the details, right, because we're still, like,"
+    },
+    {
+      "id": 729,
+      "start": 3052.2000007629395,
+      "end": 3060.0800018310547,
+      "text": "we have that confidentiality, and however, just use your imagination and think of, like,"
+    },
+    {
+      "id": 730,
+      "start": 3060.0800018310547,
+      "end": 3065.319999694824,
+      "text": "anything I think of, it's going to be on PQE, as we're ambitious and we're also, like, growing"
+    },
+    {
+      "id": 731,
+      "start": 3065.319999694824,
+      "end": 3066.319999694824,
+      "text": "fast."
+    },
+    {
+      "id": 732,
+      "start": 3066.319999694824,
+      "end": 3073.199996948242,
+      "text": "And, yeah, there's just be different kinds of companies, from manufacturing to infrastructure"
+    },
+    {
+      "id": 733,
+      "start": 3073.5199966430664,
+      "end": 3085.599998474121,
+      "text": "to, you know, the actual products, or maybe, you know, like, high-tech companies, and just,"
+    },
+    {
+      "id": 734,
+      "start": 3085.599998474121,
+      "end": 3089.6399993896484,
+      "text": "I guess, companies in all fields, and that's what PQE tries to do."
+    },
+    {
+      "id": 735,
+      "start": 3089.6399993896484,
+      "end": 3090.6399993896484,
+      "text": "Thanks."
+    },
+    {
+      "id": 736,
+      "start": 3090.6399993896484,
+      "end": 3091.6399993896484,
+      "text": "Thanks."
+    },
+    {
+      "id": 737,
+      "start": 3091.6399993896484,
+      "end": 3092.6399993896484,
+      "text": "Thanks."
+    },
+    {
+      "id": 738,
+      "start": 3092.6399993896484,
+      "end": 3101.1600036621094,
+      "text": "And also, there is another question, also, let me check, it's also for PQE."
+    },
+    {
+      "id": 739,
+      "start": 3101.1600036621094,
+      "end": 3109.599998474121,
+      "text": "He is, the question is from Vintage, he's asking, is it only UCAR that would be integrated"
+    },
+    {
+      "id": 740,
+      "start": 3109.599998474121,
+      "end": 3119.6000061035156,
+      "text": "with the PQE in UPower Ecosystem, yeah, can you please also?"
+    },
+    {
+      "id": 741,
+      "start": 3119.6000061035156,
+      "end": 3122.3200073242188,
+      "text": "What's the question again?"
+    },
+    {
+      "id": 742,
+      "start": 3122.3200073242188,
+      "end": 3130.6000061035156,
+      "text": "Let me check, it's only UCAR that would be integrated with PQE in UPower Ecosystem."
+    },
+    {
+      "id": 743,
+      "start": 3131.6000061035156,
+      "end": 3137.6000061035156,
+      "text": "It's only UCAR that's going to be integrated with PQE in the UPower Ecosystem."
+    },
+    {
+      "id": 744,
+      "start": 3137.6000061035156,
+      "end": 3143.6000061035156,
+      "text": "I think it's a little bit confusing."
+    },
+    {
+      "id": 745,
+      "start": 3143.6000061035156,
+      "end": 3144.6000061035156,
+      "text": "Yeah."
+    },
+    {
+      "id": 746,
+      "start": 3144.6000061035156,
+      "end": 3158.6000061035156,
+      "text": "It's much like a company question, asking if we will only choose PQE as the partnership."
+    },
+    {
+      "id": 747,
+      "start": 3159.6000061035156,
+      "end": 3166.6000061035156,
+      "text": "Of course, PQE will be our very important partnership in our ecosystem, and I think"
+    },
+    {
+      "id": 748,
+      "start": 3166.6000061035156,
+      "end": 3173.6000061035156,
+      "text": "PQE will also treat UCAR like an important partnership."
+    },
+    {
+      "id": 749,
+      "start": 3173.6000061035156,
+      "end": 3181.6000061035156,
+      "text": "But, of course, in the future, like, PQE will also launch other projects, and we will also"
+    },
+    {
+      "id": 750,
+      "start": 3181.6000061035156,
+      "end": 3185.6000061035156,
+      "text": "find some partnership in the Web3 in the future, yeah."
+    },
+    {
+      "id": 751,
+      "start": 3185.6000061035156,
+      "end": 3192.6000061035156,
+      "text": "Anyway, PQE and UCAR will be a very close, connected partnership."
+    },
+    {
+      "id": 752,
+      "start": 3192.6000061035156,
+      "end": 3193.6000061035156,
+      "text": "Yeah, right."
+    },
+    {
+      "id": 753,
+      "start": 3193.6000061035156,
+      "end": 3194.6000061035156,
+      "text": "In the future."
+    },
+    {
+      "id": 754,
+      "start": 3194.6000061035156,
+      "end": 3202.6000061035156,
+      "text": "Like what Rebecca said, we highly value UCAR as our partner, and I just, you know, I also,"
+    },
+    {
+      "id": 755,
+      "start": 3202.6000061035156,
+      "end": 3210.6000061035156,
+      "text": "like, I really like Rebecca and Paul themselves too, and we're just very happy to have this"
+    },
+    {
+      "id": 756,
+      "start": 3210.6000061035156,
+      "end": 3215.6000061035156,
+      "text": "partnership with UCAR, and we value them really high, hence they're like our second"
+    },
+    {
+      "id": 757,
+      "start": 3215.6000061035156,
+      "end": 3216.6000061035156,
+      "text": "RLA projects."
+    },
+    {
+      "id": 758,
+      "start": 3216.6000061035156,
+      "end": 3223.6000061035156,
+      "text": "And, yeah, I guess the question is a little confusing, and just to say UCAR itself is"
+    },
+    {
+      "id": 759,
+      "start": 3223.6000061035156,
+      "end": 3225.6000061035156,
+      "text": "UPower Limited, the company."
+    },
+    {
+      "id": 760,
+      "start": 3225.6000061035156,
+      "end": 3226.6000061035156,
+      "text": "Yeah."
+    },
+    {
+      "id": 761,
+      "start": 3226.6000061035156,
+      "end": 3228.6000061035156,
+      "text": "And UCAR is the tag of the token."
+    },
+    {
+      "id": 762,
+      "start": 3228.6000061035156,
+      "end": 3232.6000061035156,
+      "text": "Yeah, we love you, Ryan, and thanks for the distinction."
+    },
+    {
+      "id": 763,
+      "start": 3232.6000061035156,
+      "end": 3237.6000061035156,
+      "text": "Yeah, I was about to chip in, because it does seem a bit confusing, because UCAR is both"
+    },
+    {
+      "id": 764,
+      "start": 3237.6000061035156,
+      "end": 3242.6000061035156,
+      "text": "the name of our NASDAQ stock, like the ticket for the NASDAQ stock, and also the token,"
+    },
+    {
+      "id": 765,
+      "start": 3242.6000061035156,
+      "end": 3249.6000061035156,
+      "text": "it's like a dollar sign car, and UPower is the underlying operating company, and also,"
+    },
+    {
+      "id": 766,
+      "start": 3249.6000061035156,
+      "end": 3253.6000061035156,
+      "text": "sometimes it also appears as the name of our stocking system."
+    },
+    {
+      "id": 767,
+      "start": 3253.6000061035156,
+      "end": 3256.6000061035156,
+      "text": "Yeah, so there's that clarification."
+    },
+    {
+      "id": 768,
+      "start": 3256.6000061035156,
+      "end": 3258.6000061035156,
+      "text": "Yeah, thank you."
+    },
+    {
+      "id": 769,
+      "start": 3258.6000061035156,
+      "end": 3261.6000061035156,
+      "text": "Thank you guys for your, like, explanation."
+    },
+    {
+      "id": 770,
+      "start": 3261.6000061035156,
+      "end": 3264.6000061035156,
+      "text": "Nico, can I take one more question?"
+    },
+    {
+      "id": 771,
+      "start": 3264.6000061035156,
+      "end": 3266.6000061035156,
+      "text": "Of course you can, yeah."
+    },
+    {
+      "id": 772,
+      "start": 3266.6000061035156,
+      "end": 3268.6000061035156,
+      "text": "Yeah, I saw a question from Ryan."
+    },
+    {
+      "id": 773,
+      "start": 3268.6000061035156,
+      "end": 3272.6000061035156,
+      "text": "How does – I want to answer this question."
+    },
+    {
+      "id": 774,
+      "start": 3272.6000061035156,
+      "end": 3276.6000061035156,
+      "text": "I know a lot of people were confused about the universal to see the battery swapping"
+    },
+    {
+      "id": 775,
+      "start": 3276.6000061035156,
+      "end": 3277.6000061035156,
+      "text": "station."
+    },
+    {
+      "id": 776,
+      "start": 3277.6000061035156,
+      "end": 3281.6000061035156,
+      "text": "How good is the battery swapping station for the different brands of vehicles?"
+    },
+    {
+      "id": 777,
+      "start": 3281.6000061035156,
+      "end": 3283.6000061035156,
+      "text": "Let me explain that."
+    },
+    {
+      "id": 778,
+      "start": 3283.6000061035156,
+      "end": 3291.6000061035156,
+      "text": "Actually, everyone knows the battery swapping technology from China, and we are remaking"
+    },
+    {
+      "id": 779,
+      "start": 3291.6000061035156,
+      "end": 3296.6000061035156,
+      "text": "this battery swapping standard for the China government."
+    },
+    {
+      "id": 780,
+      "start": 3296.6000061035156,
+      "end": 3309.6000061035156,
+      "text": "So, our technology can adapt to different kind of vehicles, cover, like, over 16 brands,"
+    },
+    {
+      "id": 781,
+      "start": 3309.6000061035156,
+      "end": 3319.6000061035156,
+      "text": "like Nexus, MG, Hongyan, a lot of brands, and all these brands can go to our battery"
+    },
+    {
+      "id": 782,
+      "start": 3319.6000061035156,
+      "end": 3325.6000061035156,
+      "text": "swapping station to do the battery swapping across the brand, across the batteries."
+    },
+    {
+      "id": 783,
+      "start": 3325.6000061035156,
+      "end": 3328.6000061035156,
+      "text": "The technology is very material."
+    },
+    {
+      "id": 784,
+      "start": 3328.6000061035156,
+      "end": 3333.6000061035156,
+      "text": "We can cross the brand in for the battery swapping service."
+    },
+    {
+      "id": 785,
+      "start": 3333.6000061035156,
+      "end": 3338.6000061035156,
+      "text": "And let me see this question."
+    },
+    {
+      "id": 786,
+      "start": 3338.6000061035156,
+      "end": 3339.6000061035156,
+      "text": "Okay."
+    },
+    {
+      "id": 787,
+      "start": 3339.6000061035156,
+      "end": 3344.6000061035156,
+      "text": "You can regard this technology just like adaption."
+    },
+    {
+      "id": 788,
+      "start": 3344.6000061035156,
+      "end": 3349.6000061035156,
+      "text": "Like, you know, when you charge to your cell phone, you have different types."
+    },
+    {
+      "id": 789,
+      "start": 3349.6000061035156,
+      "end": 3353.6000061035156,
+      "text": "But if you have adaption, you can apply to all types."
+    },
+    {
+      "id": 790,
+      "start": 3356.6000061035156,
+      "end": 3357.6000061035156,
+      "text": "Okay."
+    },
+    {
+      "id": 791,
+      "start": 3357.6000061035156,
+      "end": 3358.6000061035156,
+      "text": "Okay."
+    },
+    {
+      "id": 792,
+      "start": 3358.6000061035156,
+      "end": 3364.6000061035156,
+      "text": "So, you answered the question, like, from Lucy, right?"
+    },
+    {
+      "id": 793,
+      "start": 3364.6000061035156,
+      "end": 3365.6000061035156,
+      "text": "Lucy, okay."
+    },
+    {
+      "id": 794,
+      "start": 3365.6000061035156,
+      "end": 3366.6000061035156,
+      "text": "No, from Ray."
+    },
+    {
+      "id": 795,
+      "start": 3366.6000061035156,
+      "end": 3367.6000061035156,
+      "text": "From Ray?"
+    },
+    {
+      "id": 796,
+      "start": 3367.6000061035156,
+      "end": 3372.6000061035156,
+      "text": "Yeah, I think the question is about how good – yes."
+    },
+    {
+      "id": 797,
+      "start": 3372.6000061035156,
+      "end": 3375.6000061035156,
+      "text": "How do you handle battery life cycle?"
+    },
+    {
+      "id": 798,
+      "start": 3375.6000061035156,
+      "end": 3377.6000061035156,
+      "text": "No, no, no, no, no."
+    },
+    {
+      "id": 799,
+      "start": 3377.6000061035156,
+      "end": 3383.6000061035156,
+      "text": "How your battery swapping station sell for different brands of vehicles?"
+    },
+    {
+      "id": 800,
+      "start": 3383.6000061035156,
+      "end": 3384.6000061035156,
+      "text": "Good."
+    },
+    {
+      "id": 801,
+      "start": 3384.6000061035156,
+      "end": 3386.6000061035156,
+      "text": "Let me check."
+    },
+    {
+      "id": 802,
+      "start": 3386.6000061035156,
+      "end": 3387.6000061035156,
+      "text": "From Ray."
+    },
+    {
+      "id": 803,
+      "start": 3387.6000061035156,
+      "end": 3388.6000061035156,
+      "text": "Ray."
+    },
+    {
+      "id": 804,
+      "start": 3388.6000061035156,
+      "end": 3389.6000061035156,
+      "text": "Yeah."
+    },
+    {
+      "id": 805,
+      "start": 3389.6000061035156,
+      "end": 3392.6000061035156,
+      "text": "How does Universal –"
+    },
+    {
+      "id": 806,
+      "start": 3392.6000061035156,
+      "end": 3395.6000061035156,
+      "text": "Oh, ensure compatibility across different vehicle types, yeah."
+    },
+    {
+      "id": 807,
+      "start": 3395.6000061035156,
+      "end": 3396.6000061035156,
+      "text": "So, that one."
+    },
+    {
+      "id": 808,
+      "start": 3396.6000061035156,
+      "end": 3397.6000061035156,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "id": 809,
+      "start": 3397.6000061035156,
+      "end": 3398.6000061035156,
+      "text": "I got it."
+    },
+    {
+      "id": 810,
+      "start": 3398.6000061035156,
+      "end": 3399.6000061035156,
+      "text": "I got it."
+    },
+    {
+      "id": 811,
+      "start": 3399.6000061035156,
+      "end": 3400.6000061035156,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "id": 812,
+      "start": 3400.6000061035156,
+      "end": 3401.6000061035156,
+      "text": "This is the last question."
+    },
+    {
+      "id": 813,
+      "start": 3401.6000061035156,
+      "end": 3404.6000061035156,
+      "text": "I know, like, today, I remember, yeah."
+    },
+    {
+      "id": 814,
+      "start": 3404.6000061035156,
+      "end": 3411.6000061035156,
+      "text": "Because you guys give us a lot of, like, powerful and impressive insights."
+    },
+    {
+      "id": 815,
+      "start": 3411.6000061035156,
+      "end": 3415.6000061035156,
+      "text": "So, they are pretty interested like that and give us lots of questions."
+    },
+    {
+      "id": 816,
+      "start": 3415.6000061035156,
+      "end": 3416.6000061035156,
+      "text": "But we only have five flaws."
+    },
+    {
+      "id": 817,
+      "start": 3416.6000061035156,
+      "end": 3417.6000061035156,
+      "text": "Five flaws, yeah."
+    },
+    {
+      "id": 818,
+      "start": 3419.6000061035156,
+      "end": 3420.6000061035156,
+      "text": "Yeah, all the good questions."
+    },
+    {
+      "id": 819,
+      "start": 3420.6000061035156,
+      "end": 3422.6000061035156,
+      "text": "Yeah, all good questions."
+    },
+    {
+      "id": 820,
+      "start": 3422.6000061035156,
+      "end": 3423.6000061035156,
+      "text": "Appreciate it."
+    },
+    {
+      "id": 821,
+      "start": 3423.6000061035156,
+      "end": 3424.6000061035156,
+      "text": "Yeah."
+    },
+    {
+      "id": 822,
+      "start": 3424.6000061035156,
+      "end": 3430.6000061035156,
+      "text": "So, we already got the five questions from five audience, and they can get reward."
+    },
+    {
+      "id": 823,
+      "start": 3430.6000061035156,
+      "end": 3434.6000061035156,
+      "text": "But if you guys want, you can also pick any questions, like, to answer, yeah."
+    },
+    {
+      "id": 824,
+      "start": 3434.6000061035156,
+      "end": 3436.6000061035156,
+      "text": "But they don't have any reward."
+    },
+    {
+      "id": 825,
+      "start": 3436.6000061035156,
+      "end": 3438.6000061035156,
+      "text": "Maybe next time, yeah."
+    },
+    {
+      "id": 826,
+      "start": 3438.6000061035156,
+      "end": 3445.6000061035156,
+      "text": "They can join our PQE community and get reward from our other, like, games and other programs, yeah."
+    },
+    {
+      "id": 827,
+      "start": 3446.6000061035156,
+      "end": 3447.6000061035156,
+      "text": "Thank you."
+    },
+    {
+      "id": 828,
+      "start": 3447.6000061035156,
+      "end": 3448.6000061035156,
+      "text": "Thank you, Nicole."
+    },
+    {
+      "id": 829,
+      "start": 3449.6000061035156,
+      "end": 3450.6000061035156,
+      "text": "Thank you."
+    },
+    {
+      "id": 830,
+      "start": 3450.6000061035156,
+      "end": 3451.6000061035156,
+      "text": "Okay."
+    },
+    {
+      "id": 831,
+      "start": 3451.6000061035156,
+      "end": 3454.6000061035156,
+      "text": "Do you guys want to also answer some other questions?"
+    },
+    {
+      "id": 832,
+      "start": 3454.6000061035156,
+      "end": 3456.6000061035156,
+      "text": "You can pick any, yeah."
+    },
+    {
+      "id": 833,
+      "start": 3457.6000061035156,
+      "end": 3460.6000061035156,
+      "text": "So, we just follow the rule, five questions, okay?"
+    },
+    {
+      "id": 834,
+      "start": 3460.6000061035156,
+      "end": 3461.6000061035156,
+      "text": "Yeah, yeah."
+    },
+    {
+      "id": 835,
+      "start": 3462.6000061035156,
+      "end": 3463.6000061035156,
+      "text": "Of course, of course."
+    },
+    {
+      "id": 836,
+      "start": 3463.6000061035156,
+      "end": 3465.6000061035156,
+      "text": "I think it's okay, it's okay, yeah."
+    },
+    {
+      "id": 837,
+      "start": 3465.6000061035156,
+      "end": 3471.6000061035156,
+      "text": "Because I just want to make sure those, like, we pick five questions, and they will get reward."
+    },
+    {
+      "id": 838,
+      "start": 3471.6000061035156,
+      "end": 3473.6000061035156,
+      "text": "Because we want to, like, yeah."
+    },
+    {
+      "id": 839,
+      "start": 3473.6000061035156,
+      "end": 3475.6000061035156,
+      "text": "Ah, okay, okay."
+    },
+    {
+      "id": 840,
+      "start": 3475.6000061035156,
+      "end": 3478.6000061035156,
+      "text": "But to be honest, I really want to pick one more."
+    },
+    {
+      "id": 841,
+      "start": 3478.6000061035156,
+      "end": 3480.6000061035156,
+      "text": "Can I pick one more?"
+    },
+    {
+      "id": 842,
+      "start": 3480.6000061035156,
+      "end": 3481.6000061035156,
+      "text": "Sure, sure."
+    },
+    {
+      "id": 843,
+      "start": 3481.6000061035156,
+      "end": 3483.6000061035156,
+      "text": "Since you see, oh, yeah, yeah, yeah, yeah."
+    },
+    {
+      "id": 844,
+      "start": 3483.6000061035156,
+      "end": 3488.6000061035156,
+      "text": "Since, you know, this question is also one of the things I want to share with all audiences."
+    },
+    {
+      "id": 845,
+      "start": 3488.6000061035156,
+      "end": 3500.6000061035156,
+      "text": "Can you elaborate on how AI integrated in Utah enables autonomous battery swapping for Amanda vehicles?"
+    },
+    {
+      "id": 846,
+      "start": 3500.6000061035156,
+      "end": 3507.5999755859375,
+      "text": "What partnerships are in place to scale this for broader autonomous mobility applications?"
+    },
+    {
+      "id": 847,
+      "start": 3507.5999755859375,
+      "end": 3508.5999755859375,
+      "text": "Okay."
+    },
+    {
+      "id": 848,
+      "start": 3508.5999755859375,
+      "end": 3517.5999755859375,
+      "text": "Just let me tell you, the battery swapping station is the best solution for the autonomous vehicles."
+    },
+    {
+      "id": 849,
+      "start": 3517.5999755859375,
+      "end": 3522.5999755859375,
+      "text": "You do have a very straightforward question, but really good question."
+    },
+    {
+      "id": 850,
+      "start": 3522.5999755859375,
+      "end": 3528.5999755859375,
+      "text": "You see, just imagine, if you use charging, so you drive autonomous vehicles, right?"
+    },
+    {
+      "id": 851,
+      "start": 3528.5999755859375,
+      "end": 3533.5999755859375,
+      "text": "You have to get out of the vehicle and go to charge manually by yourself."
+    },
+    {
+      "id": 852,
+      "start": 3533.5999755859375,
+      "end": 3535.5999755859375,
+      "text": "It's very stupid."
+    },
+    {
+      "id": 853,
+      "start": 3535.5999755859375,
+      "end": 3539.5999755859375,
+      "text": "But in our system, the vehicle can talk."
+    },
+    {
+      "id": 854,
+      "start": 3539.5999755859375,
+      "end": 3542.5999755859375,
+      "text": "I mean, the real talk to the battery swapping station."
+    },
+    {
+      "id": 855,
+      "start": 3542.5999755859375,
+      "end": 3551.5999755859375,
+      "text": "When the vehicle is out of juice, it might just talk with the network, with our battery swapping station, and say, hey, do you have the battery?"
+    },
+    {
+      "id": 856,
+      "start": 3551.5999755859375,
+      "end": 3560.5999755859375,
+      "text": "Then the autonomous vehicles, they can go to the battery swapping station to swap by themselves."
+    },
+    {
+      "id": 857,
+      "start": 3560.5999755859375,
+      "end": 3562.5999755859375,
+      "text": "Totally autonomous."
+    },
+    {
+      "id": 858,
+      "start": 3562.5999755859375,
+      "end": 3568.5999755859375,
+      "text": "You don't need any human resource to involve in this ecosystem."
+    },
+    {
+      "id": 859,
+      "start": 3568.5999755859375,
+      "end": 3576.5999755859375,
+      "text": "That's why I always tell the audience the battery swapping is not the supplement of the charging."
+    },
+    {
+      "id": 860,
+      "start": 3576.5999755859375,
+      "end": 3583.5999755859375,
+      "text": "The battery swapping technology is the future of the energy supplier."
+    },
+    {
+      "id": 861,
+      "start": 3583.5999755859375,
+      "end": 3588.5999755859375,
+      "text": "It can solve the problem when you go to the autonomous generation."
+    },
+    {
+      "id": 862,
+      "start": 3588.5999755859375,
+      "end": 3589.5999755859375,
+      "text": "How could you use charging?"
+    },
+    {
+      "id": 863,
+      "start": 3589.5999755859375,
+      "end": 3592.5599999427795,
+      "text": "generation. How could you use charging? It's stupid. You still need some people to charge,"
+    },
+    {
+      "id": 864,
+      "start": 3592.5599999427795,
+      "end": 3598.960000038147,
+      "text": "right? But for the battery thrusting, it's totally autonomous. Thank you, Nicole."
+    }
+  ],
+  "generated_at": "2026-04-04T17:59:31+08:00"
+}

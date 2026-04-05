@@ -1,0 +1,873 @@
+app:
+  description: 通过“音频理解 → 内容摘要 → 智能剪辑建议 → 多平台自动分发”的方式，将原本割裂的工作流整合为一体化 Agent 产品。
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  icon_type: emoji
+  mode: workflow
+  name: AI 播客生产 Agent
+  use_icon_as_answer_icon: false
+dependencies:
+- current_identifier: null
+  type: marketplace
+  value:
+    marketplace_plugin_unique_identifier: langgenius/openai:0.3.4@3345b596ee5117d9304097feaee866f05ffaf0d76a790fb07acd8b99f6c87cb3
+    version: null
+kind: app
+version: 0.6.0
+workflow:
+  conversation_variables: []
+  environment_variables:
+  - description: ''
+    id: b4f7fe04-9a5f-44d9-a6b4-4bfde9f53d5c
+    name: DIFY_FILE_BASE_URL
+    selector:
+    - env
+    - DIFY_FILE_BASE_URL
+    value: http://nginx
+    value_type: string
+  - description: ''
+    id: 4de4f8fe-40e8-49c4-a7e9-313a6d0f2f95
+    name: BACKEND_CLIP_URL
+    selector:
+    - env
+    - BACKEND_CLIP_URL
+    value: http://host.docker.internal:8088/v1/video/clip
+    value_type: string
+  - description: ''
+    id: c63ca16b-75e0-46db-85f9-0d8caf8cafb9
+    name: Authorization
+    selector:
+    - env
+    - Authorization
+    value: ''
+    value_type: string
+  features:
+    file_upload:
+      allowed_file_extensions:
+      - .JPG
+      - .JPEG
+      - .PNG
+      - .GIF
+      - .WEBP
+      - .SVG
+      allowed_file_types:
+      - image
+      allowed_file_upload_methods:
+      - local_file
+      - remote_url
+      enabled: false
+      fileUploadConfig:
+        attachment_image_file_size_limit: 2
+        audio_file_size_limit: 50
+        batch_count_limit: 5
+        file_size_limit: 15
+        file_upload_limit: 20
+        image_file_batch_limit: 10
+        image_file_size_limit: 10
+        single_chunk_attachment_limit: 10
+        video_file_size_limit: 100
+        workflow_file_upload_limit: 10
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+      number_limits: 3
+    opening_statement: ''
+    retriever_resource:
+      enabled: true
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: llm
+        targetType: code
+      id: 1775284507326-source-1775286790039-target
+      selected: false
+      source: '1775284507326'
+      sourceHandle: source
+      target: '1775286790039'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: start
+        targetType: http-request
+      id: 1775299167535-source-1775299868366-target
+      selected: false
+      source: '1775299167535'
+      sourceHandle: source
+      target: '1775299868366'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: http-request
+        targetType: code
+      id: 1775299868366-source-1775299416802-target
+      selected: false
+      source: '1775299868366'
+      sourceHandle: source
+      target: '1775299416802'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: code
+        targetType: llm
+      id: 1775299416802-source-1775373263040-target
+      source: '1775299416802'
+      sourceHandle: source
+      target: '1775373263040'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: llm
+        targetType: code
+      id: 1775373263040-source-1775374945020-target
+      source: '1775373263040'
+      sourceHandle: source
+      target: '1775374945020'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: code
+        targetType: llm
+      id: 1775374945020-source-1775284507326-target
+      source: '1775374945020'
+      sourceHandle: source
+      target: '1775284507326'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: code
+        targetType: llm
+      id: 1775374945020-source-1775375949844-target
+      source: '1775374945020'
+      sourceHandle: source
+      target: '1775375949844'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: code
+        targetType: llm
+      id: 1775374945020-source-1775375953277-target
+      source: '1775374945020'
+      sourceHandle: source
+      target: '1775375953277'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: llm
+        targetType: code
+      id: 1775375949844-source-1775286790039-target
+      source: '1775375949844'
+      sourceHandle: source
+      target: '1775286790039'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: llm
+        targetType: code
+      id: 1775375953277-source-1775286790039-target
+      source: '1775375953277'
+      sourceHandle: source
+      target: '1775286790039'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: code
+        targetType: llm
+      id: 1775286790039-source-1775377248165-target
+      source: '1775286790039'
+      sourceHandle: source
+      target: '1775377248165'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: llm
+        targetType: code
+      id: 1775377248165-source-1775378025509-target
+      source: '1775377248165'
+      sourceHandle: source
+      target: '1775378025509'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: code
+        targetType: http-request
+      id: 1775378025509-source-1775377807761-target
+      source: '1775378025509'
+      sourceHandle: source
+      target: '1775377807761'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: http-request
+        targetType: end
+      id: 1775377807761-source-1775379216388-target
+      source: '1775377807761'
+      sourceHandle: source
+      target: '1775379216388'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: 提取爆点片段
+        model:
+          completion_params: {}
+          mode: chat
+          name: gpt-5-chat-latest
+          provider: langgenius/openai/openai
+        prompt_template:
+        - id: 59fc7ada-31b5-4235-9883-50bfec42baa0
+          role: system
+          text: "你是爆点提取子Agent。只允许使用输入的这部分文本，禁止假设其他内容。\n\n输入：\n- part_text\n- segments_json（数组，含\
+            \ start/end/text）\n\n任务：\n1. 提取 1-2 个候选爆点片段。\n2. 每个片段必须能在 segments_json\
+            \ 中定位，start/end 必须来自该分段范围。\n3. 时长建议 30-60 秒。\n4. 输出严格 JSON 数组，不要解释。\n\n\
+            输出格式：\n[\n  {\n    \"start\": 123.45,\n    \"end\": 156.78,\n    \"score\"\
+            : 0.88,\n    \"reason\": \"一句话\",\n    \"title_seed\": \"一句标题种子\"\n  }\n\
+            ]\n"
+        - id: 92f03fb0-317a-47f7-bd88-a588c6165020
+          role: user
+          text: '- part_text : {{#1775374945020.part_1_text#}}
+
+            - segments_json: {{#1775374945020.part_1_segments_json#}}'
+        selected: false
+        structured_output_enabled: false
+        title: 爆点agent--001
+        type: llm
+        vision:
+          enabled: false
+      height: 116
+      id: '1775284507326'
+      position:
+        x: 1730
+        y: 0
+      positionAbsolute:
+        x: 1730
+        y: 0
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        code: "import json\nimport re\n\ndef parse_json_array(s: str):\n    s = (s\
+          \ or \"\").strip()\n    s = re.sub(r\"^```json\\s*|\\s*```$\", \"\", s,\
+          \ flags=re.I | re.S).strip()\n    if not s:\n        return []\n    try:\n\
+          \        v = json.loads(s)\n        return v if isinstance(v, list) else\
+          \ []\n    except:\n        m = re.search(r\"\\[.*\\]\", s, flags=re.S)\n\
+          \        if not m:\n            return []\n        v = json.loads(m.group(0))\n\
+          \        return v if isinstance(v, list) else []\n\ndef collect_text_by_range(segments,\
+          \ start, end):\n    parts = []\n    for s in segments:\n        ss = float(s.get(\"\
+          start\", 0) or 0)\n        ee = float(s.get(\"end\", 0) or 0)\n        t\
+          \ = (s.get(\"text\") or \"\").strip()\n        if not t or ee <= ss:\n \
+          \           continue\n        if ee <= start or ss >= end:\n           \
+          \ continue\n        parts.append(t)\n    return \"\\n\".join(parts).strip()\n\
+          \ndef overlap_ratio(a1, a2, b1, b2):\n    inter = max(0, min(a2, b2) - max(a1,\
+          \ b1))\n    la = max(1e-6, a2 - a1)\n    lb = max(1e-6, b2 - b1)\n    return\
+          \ max(inter / la, inter / lb)\n\ndef main(http_body: str, a1_json: str,\
+          \ a2_json: str, a3_json: str) -> dict:\n    transcript = json.loads((http_body\
+          \ or \"\").strip())\n    segments = transcript.get(\"segments\", [])\n \
+          \   duration = float(transcript.get(\"duration\", 0) or 0)\n\n    raw =\
+          \ parse_json_array(a1_json) + parse_json_array(a2_json) + parse_json_array(a3_json)\n\
+          \n    # 清洗\n    items = []\n    for c in raw:\n        try:\n          \
+          \  s = round(float(c.get(\"start\", 0)), 2)\n            e = round(float(c.get(\"\
+          end\", 0)), 2)\n            score = float(c.get(\"score\", 0) or 0)\n  \
+          \      except:\n            continue\n        if e <= s:\n            continue\n\
+          \        if s < 0 or (duration > 0 and e > duration + 0.01):\n         \
+          \   continue\n\n        items.append({\n            \"start\": s,\n    \
+          \        \"end\": e,\n            \"score\": score,\n            \"reason\"\
+          : (c.get(\"reason\") or \"\").strip(),\n            \"title_seed\": (c.get(\"\
+          title_seed\") or \"\").strip(),\n        })\n\n    # 排序 + 去重\n    items.sort(key=lambda\
+          \ x: x[\"score\"], reverse=True)\n    dedup = []\n    for c in items:\n\
+          \        if any(overlap_ratio(c[\"start\"], c[\"end\"], d[\"start\"], d[\"\
+          end\"]) > 0.6 for d in dedup):\n            continue\n        dedup.append(c)\n\
+          \n    # 取前6并补全文本\n    top6 = dedup[:6]\n    candidates = []\n    for i,\
+          \ c in enumerate(top6, 1):\n        clip_text = collect_text_by_range(segments,\
+          \ c[\"start\"], c[\"end\"])\n        candidates.append({\n            \"\
+          rank_seed\": i,\n            \"start\": c[\"start\"],\n            \"end\"\
+          : c[\"end\"],\n            \"score\": c[\"score\"],\n            \"reason\"\
+          : c[\"reason\"],\n            \"title_seed\": c[\"title_seed\"],\n     \
+          \       \"clip_text\": clip_text\n        })\n\n    return {\n        \"\
+          candidates_json\": json.dumps(candidates, ensure_ascii=False),\n       \
+          \ \"candidate_count\": len(candidates)\n    }\n"
+        code_language: python3
+        desc: 汇总三个agent得出的结论给下一个大模型去看
+        outputs:
+          candidate_count:
+            children: null
+            type: number
+          candidates_json:
+            children: null
+            type: string
+        selected: false
+        title: 代码执行-3
+        type: code
+        variables:
+        - value_selector:
+          - '1775284507326'
+          - text
+          value_type: string
+          variable: a1_json
+        - value_selector:
+          - '1775375949844'
+          - text
+          value_type: string
+          variable: a2_json
+        - value_selector:
+          - '1775375953277'
+          - text
+          value_type: string
+          variable: a3_json
+        - value_selector:
+          - '1775299868366'
+          - body
+          value_type: string
+          variable: http_body
+      height: 96
+      id: '1775286790039'
+      position:
+        x: 2092
+        y: 192
+      positionAbsolute:
+        x: 2092
+        y: 192
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        selected: false
+        title: 用户输入
+        type: start
+        variables:
+        - allowed_file_extensions:
+          - .json
+          allowed_file_types:
+          - custom
+          allowed_file_upload_methods:
+          - local_file
+          - remote_url
+          default: ''
+          hint: ''
+          label: transcript_json
+          options: []
+          placeholder: ''
+          required: true
+          type: file
+          variable: transcript_json
+      height: 109
+      id: '1775299167535'
+      position:
+        x: 0
+        y: 185
+      positionAbsolute:
+        x: 0
+        y: 185
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        code: "import json\n\ndef main(http_body: str) -> dict:\n    obj = json.loads((http_body\
+          \ or \"\").strip())\n\n    clean = []\n    for s in obj.get(\"segments\"\
+          , []):\n        t = (s.get(\"text\") or \"\").strip()\n        if not t:\n\
+          \            continue\n        start = round(float(s.get(\"start\", 0)),\
+          \ 2)\n        end = round(float(s.get(\"end\", 0)), 2)\n        if end <=\
+          \ start:\n            continue\n        clean.append({\"start\": start,\
+          \ \"end\": end, \"text\": t})\n\n    return {\n        \"video_path\": obj.get(\"\
+          source_file\", \"\"),   # 关键：给最后剪辑HTTP节点用\n        \"text\": obj.get(\"\
+          text\", \"\"),\n        \"duration\": round(float(obj.get(\"duration\",\
+          \ 0)), 2),\n        \"segments_json\": json.dumps(clean, ensure_ascii=False),\n\
+          \        \"segment_count\": len(clean)\n    }\n"
+        code_language: python3
+        desc: 提取解析到的文件内容
+        outputs:
+          duration:
+            children: null
+            type: number
+          segment_count:
+            children: null
+            type: number
+          segments_json:
+            children: null
+            type: string
+          text:
+            children: null
+            type: string
+          video_path:
+            children: null
+            type: string
+        selected: false
+        title: 代码执行-1
+        type: code
+        variables:
+        - value_selector:
+          - '1775299868366'
+          - body
+          value_type: string
+          variable: http_body
+      height: 80
+      id: '1775299416802'
+      position:
+        x: 684
+        y: 200
+      positionAbsolute:
+        x: 684
+        y: 200
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        authorization:
+          config: null
+          type: no-auth
+        body:
+          data: []
+          type: none
+        desc: 请求获取本地上传的文件
+        headers: ''
+        method: get
+        params: ''
+        retry_config:
+          max_retries: 3
+          retry_enabled: true
+          retry_interval: 100
+        selected: false
+        ssl_verify: true
+        timeout:
+          max_connect_timeout: 0
+          max_read_timeout: 0
+          max_write_timeout: 0
+        title: HTTP 请求
+        type: http-request
+        url: '{{#env.DIFY_FILE_BASE_URL#}}{{#1775299167535.transcript_json.url#}}'
+        variables: []
+      height: 168
+      id: '1775299868366'
+      position:
+        x: 342
+        y: 154.5714285714286
+      positionAbsolute:
+        x: 342
+        y: 154.5714285714286
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: 将得到的长文本拆分成三段供下面的agent去判断热点
+        model:
+          completion_params: {}
+          mode: chat
+          name: gpt-5.2
+          provider: langgenius/openai/openai
+        prompt_template:
+        - id: a3b0821c-905c-4ecf-bde7-5eeb131292c3
+          role: system
+          text: "你是“任务拆分规划器（Planner）”。你的唯一任务是把整段播客转录拆成 3 个可并行处理的语义片段边界，供后续代码节点回查时间戳。\n\
+            \n输入：\n- text: 播客全文转录文本\n- duration: 总时长（秒）\n\n目标：\n- 输出两个切点（cut1、cut2）的“语义锚点”，由后续代码去匹配并计算\
+            \ start/end。\n- 避免使用容易重复的短句，尽量提供可唯一定位的上下文。\n\n硬性要求：\n1. 只能输出 1 个 JSON\
+            \ 对象，不要任何解释文字、不要 Markdown。\n2. 必须包含 `part_1`、`part_2`、`part_3` 三段对象。\n\
+            3. `part_1` 和 `part_2` 必须包含字段：\n   - `anchor`: 切点附近的原文句子（尽量 12-40 词，信息具体）\n\
+            \   - `anchor_prev`: `anchor` 前一句（原文）\n   - `anchor_next`: `anchor` 后一句（原文）\n\
+            \   - `target_ratio`: 预期位置比例（part_1 约 0.33，part_2 约 0.66）\n   - `split_reason`:\
+            \ 一句话说明切分原因\n4. `part_3` 固定表示尾段，字段要求：\n   - `anchor`: 固定写 `\"END\"`\n\
+            \   - `anchor_prev`: 尾段结束前的一句原文\n   - `anchor_next`: 固定写 `\"\"`\n   -\
+            \ `target_ratio`: 固定写 `1.0`\n   - `split_reason`: 一句话说明\n5. 三段必须语义完整、互不重叠、信息量尽量均衡，切点应落在话题转折处，不要切断一句话。\n\
+            6. 所有 `anchor*` 文本必须来自输入 `text`，禁止编造或改写。\n\n输出格式（严格）：\n{\n  \"part_1\"\
+            : {\n    \"anchor\": \"...\",\n    \"anchor_prev\": \"...\",\n    \"anchor_next\"\
+            : \"...\",\n    \"target_ratio\": 0.33,\n    \"split_reason\": \"...\"\
+            \n  },\n  \"part_2\": {\n    \"anchor\": \"...\",\n    \"anchor_prev\"\
+            : \"...\",\n    \"anchor_next\": \"...\",\n    \"target_ratio\": 0.66,\n\
+            \    \"split_reason\": \"...\"\n  },\n  \"part_3\": {\n    \"anchor\"\
+            : \"END\",\n    \"anchor_prev\": \"...\",\n    \"anchor_next\": \"\",\n\
+            \    \"target_ratio\": 1.0,\n    \"split_reason\": \"...\"\n  }\n}\n"
+        - id: f6f26c53-9952-4276-8d70-128c30087ea7
+          role: user
+          text: '- duration: {{#1775299416802.duration#}}
+
+            - text: {{#1775299416802.text#}}'
+        selected: false
+        title: 任务拆解大模型
+        type: llm
+        vision:
+          enabled: false
+      height: 132
+      id: '1775373263040'
+      position:
+        x: 1026
+        y: 174
+      positionAbsolute:
+        x: 1026
+        y: 174
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        code: "import json\n\ndef pick_segments(segments, start, end):\n    out =\
+          \ []\n    for s in segments:\n        ss = float(s.get(\"start\", 0) or\
+          \ 0)\n        ee = float(s.get(\"end\", 0) or 0)\n        t = (s.get(\"\
+          text\") or \"\").strip()\n        if not t or ee <= ss:\n            continue\n\
+          \        if ee <= start or ss >= end:\n            continue\n        out.append({\n\
+          \            \"start\": round(ss, 2),\n            \"end\": round(ee, 2),\n\
+          \            \"text\": t\n        })\n    return out\n\ndef main(http_body:\
+          \ str, planner_json: str) -> dict:\n    obj = json.loads((http_body or \"\
+          \").strip())\n    plan = json.loads((planner_json or \"\").strip())\n\n\
+          \    duration = float(obj.get(\"duration\", 0) or 0)\n    segments = obj.get(\"\
+          segments\", [])\n\n    cut1 = float(plan.get(\"cut_1_end\", duration / 3)\
+          \ or duration / 3)\n    cut2 = float(plan.get(\"cut_2_end\", duration *\
+          \ 2 / 3) or duration * 2 / 3)\n\n    cut1 = max(0.0, min(cut1, duration))\n\
+          \    cut2 = max(cut1, min(cut2, duration))\n\n    p1 = pick_segments(segments,\
+          \ 0.0, cut1)\n    p2 = pick_segments(segments, cut1, cut2)\n    p3 = pick_segments(segments,\
+          \ cut2, duration)\n\n    return {\n    \"part_1_text\": \"\\n\".join(x[\"\
+          text\"] for x in p1),\n    \"part_1_segments_json\": json.dumps(p1, ensure_ascii=False),\n\
+          \n    \"part_2_text\": \"\\n\".join(x[\"text\"] for x in p2),\n    \"part_2_segments_json\"\
+          : json.dumps(p2, ensure_ascii=False),\n\n    \"part_3_text\": \"\\n\".join(x[\"\
+          text\"] for x in p3),\n    \"part_3_segments_json\": json.dumps(p3, ensure_ascii=False),\n\
+          }\n\n"
+        code_language: python3
+        outputs:
+          part_1_segments_json:
+            children: null
+            type: string
+          part_1_text:
+            children: null
+            type: string
+          part_2_segments_json:
+            children: null
+            type: string
+          part_2_text:
+            children: null
+            type: string
+          part_3_segments_json:
+            children: null
+            type: string
+          part_3_text:
+            children: null
+            type: string
+        selected: false
+        title: 代码执行-2
+        type: code
+        variables:
+        - value_selector:
+          - '1775299868366'
+          - body
+          value_type: string
+          variable: http_body
+        - value_selector:
+          - '1775373263040'
+          - text
+          value_type: string
+          variable: planner_json
+      height: 52
+      id: '1775374945020'
+      position:
+        x: 1366.5714285714284
+        y: 214
+      positionAbsolute:
+        x: 1366.5714285714284
+        y: 214
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        model:
+          completion_params: {}
+          mode: chat
+          name: gpt-5-chat-latest
+          provider: langgenius/openai/openai
+        prompt_template:
+        - id: f18f28f4-e6bd-4011-bfec-224b1f40a91a
+          role: system
+          text: "你是爆点提取子Agent。只允许使用输入的这部分文本，禁止假设其他内容。\n\n输入：\n- part_text\n- segments_json（数组，含\
+            \ start/end/text）\n\n任务：\n1. 提取 1-2 个候选爆点片段。\n2. 每个片段必须能在 segments_json\
+            \ 中定位，start/end 必须来自该分段范围。\n3. 时长建议 30-60 秒。\n4. 输出严格 JSON 数组，不要解释。\n\n\
+            输出格式：\n[\n  {\n    \"start\": 123.45,\n    \"end\": 156.78,\n    \"score\"\
+            : 0.88,\n    \"reason\": \"一句话\",\n    \"title_seed\": \"一句标题种子\"\n  }\n\
+            ]"
+        - id: b15a9f97-e3b7-4dd4-9b60-8697a8fd9535
+          role: user
+          text: '- part_text : {{#1775374945020.part_2_text#}}
+
+            - segments_json : {{#1775374945020.part_2_segments_json#}}'
+        selected: false
+        title: 爆点agent--002
+        type: llm
+        vision:
+          enabled: false
+      height: 88
+      id: '1775375949844'
+      position:
+        x: 1730
+        y: 196
+      positionAbsolute:
+        x: 1730
+        y: 196
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        model:
+          completion_params:
+            temperature: 0.7
+          mode: chat
+          name: gpt-5-chat-latest
+          provider: langgenius/openai/openai
+        prompt_template:
+        - id: e998a72f-0c33-4fd7-9314-c8bae32c1191
+          role: system
+          text: "你是爆点提取子Agent。只允许使用输入的这部分文本，禁止假设其他内容。\n\n输入：\n- part_text\n- segments_json（数组，含\
+            \ start/end/text）\n\n任务：\n1. 提取 1-2 个候选爆点片段。\n2. 每个片段必须能在 segments_json\
+            \ 中定位，start/end 必须来自该分段范围。\n3. 时长建议 30-60 秒。\n4. 输出严格 JSON 数组，不要解释。\n\n\
+            输出格式：\n[\n  {\n    \"start\": 123.45,\n    \"end\": 156.78,\n    \"score\"\
+            : 0.88,\n    \"reason\": \"一句话\",\n    \"title_seed\": \"一句标题种子\"\n  }\n\
+            ]"
+        - id: 444419ec-eade-4593-bdf9-5c03c0b5035a
+          role: user
+          text: '- part_text : {{#1775374945020.part_3_text#}}
+
+            - segments_json : {{#1775374945020.part_3_segments_json#}}'
+        selected: false
+        title: 爆点agent--003
+        type: llm
+        vision:
+          enabled: false
+      height: 88
+      id: '1775375953277'
+      position:
+        x: 1730
+        y: 364
+      positionAbsolute:
+        x: 1730
+        y: 364
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        context:
+          enabled: true
+          variable_selector:
+          - '1775286790039'
+          - candidates_json
+        desc: 将汇总的几个片段选出最好的两个片段传给后端执行
+        model:
+          completion_params:
+            temperature: 0.7
+          mode: chat
+          name: gpt-5-chat-latest
+          provider: langgenius/openai/openai
+        prompt_template:
+        - id: bba5bb31-55fa-4754-8108-816b43f66590
+          role: system
+          text: "你是“最终片段评审Agent”。你的任务是从候选短视频片段中只选出 2 个最佳片段用于最终剪辑。\n\n输入：\n- candidates_json:\
+            \ 候选片段数组。每个元素包含：\n  - start\n  - end\n  - score\n  - reason\n  - title_seed\n\
+            \  - clip_text\n\n评审目标（按优先级）：\n1. 传播潜力高（信息密度、冲突感、观点鲜明、可讨论性）\n2. 片段本身语义完整（前后不残缺）\n\
+            3. 两个片段的主题不要高度重复（尽量覆盖不同亮点）\n4. 时长合理（建议 30-90 秒，超长或过短优先降级）\n\n硬性要求：\n1.\
+            \ 只能输出 1 个 JSON 数组，不要任何解释文字，不要 Markdown。\n2. 必须且只能输出 2 条结果。\n3. 必须保留原始\
+            \ start/end，不得修改数值。\n4. 输出字段必须为：\n   - start\n   - end\n   - pick_reason（一句话）\n\
+            \   - title\n5. 如果候选不足 2 条，返回现有条数（但仍输出 JSON 数组）。\n\n输出格式（严格）：\n[\n  {\n\
+            \    \"start\": 123.45,\n    \"end\": 156.78,\n    \"pick_reason\": \"\
+            一句话说明为什么入选\",\n    \"title\": \"该片段短标题\"\n  },\n  {\n    \"start\": 456.78,\n\
+            \    \"end\": 489.12,\n    \"pick_reason\": \"一句话说明为什么入选\",\n    \"title\"\
+            : \"该片段短标题\"\n  }\n]"
+        - id: a75917fa-4bf7-430f-9b00-a477355f75fc
+          role: user
+          text: 'candidates_json  : {{#1775286790039.candidates_json#}}'
+        selected: false
+        title: 最终片段评审Agent
+        type: llm
+        vision:
+          enabled: false
+      height: 132
+      id: '1775377248165'
+      position:
+        x: 2434
+        y: 174
+      positionAbsolute:
+        x: 2434
+        y: 174
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        authorization:
+          config: null
+          type: no-auth
+        body:
+          data:
+          - id: key-value-62
+            key: ''
+            type: text
+            value: "{\n  \"video_path\": \"{{#1775299416802.video_path#}}\",\n  \"\
+              clips\": {{#1775378025509.clips#}}\n}\n"
+          type: json
+        headers: Content-Type:application/json
+        method: post
+        params: ''
+        retry_config:
+          max_retries: 3
+          retry_enabled: true
+          retry_interval: 100
+        selected: false
+        ssl_verify: true
+        timeout:
+          max_connect_timeout: 0
+          max_read_timeout: 0
+          max_write_timeout: 0
+        title: HTTP 请求 2
+        type: http-request
+        url: '{{#env.BACKEND_CLIP_URL#}}'
+        variables: []
+      height: 137
+      id: '1775377807761'
+      position:
+        x: 3118
+        y: 171
+      positionAbsolute:
+        x: 3118
+        y: 171
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        code: "import json\nimport re\n\ndef main(llm_text: str) -> dict:\n    s =\
+          \ (llm_text or \"\").strip()\n    s = re.sub(r\"^```json\\s*|\\s*```$\"\
+          , \"\", s, flags=re.I|re.S).strip()\n    arr = json.loads(s)\n\n    clips\
+          \ = []\n    for x in arr:\n        clips.append({\n            \"title\"\
+          : x.get(\"title\", \"\"),\n            \"start\": float(x[\"start\"]),\n\
+          \            \"end\": float(x[\"end\"])\n        })\n\n    return {\"clips\"\
+          : clips}\n"
+        code_language: python3
+        desc: 规范化变成数组传递给后端代码
+        outputs:
+          clips:
+            children: null
+            type: array[object]
+        selected: false
+        title: 代码执行 4
+        type: code
+        variables:
+        - value_selector:
+          - '1775377248165'
+          - text
+          value_type: string
+          variable: llm_text
+      height: 80
+      id: '1775378025509'
+      position:
+        x: 2776
+        y: 200
+      positionAbsolute:
+        x: 2776
+        y: 200
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        outputs:
+        - value_selector:
+          - '1775377807761'
+          - body
+          value_type: string
+          variable: body
+        selected: false
+        title: 输出
+        type: end
+      height: 88
+      id: '1775379216388'
+      position:
+        x: 3460
+        y: 196
+      positionAbsolute:
+        x: 3460
+        y: 196
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    viewport:
+      x: -712.7000000000003
+      y: 81.5
+      zoom: 0.7
+  rag_pipeline_variables: []
