@@ -41,7 +41,7 @@ WORK_DIR=./data
 FFMPEG_BIN=ffmpeg
 FFPROBE_BIN=ffprobe
 
-ASR_BASE_URL=https://api.rcouyi.com
+ASR_BASE_URL=https://api.oepnai.com
 ASR_API_KEY=your_key
 ASR_MODEL=whisper-1
 ASR_CHUNK_SECONDS=600
